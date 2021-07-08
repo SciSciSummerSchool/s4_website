@@ -61,15 +61,15 @@ eventDate: "July 26 - August 6, 2021"
 typeoutTextValues: '"", "Season", "India", "China", "USA"'
 typeoutFallback: "Season"
 heroButtons:
- - {link: "https://bit.ly/dfua-c4p", text: "Become a speaker"}
+#  - {link: "https://bit.ly/dfua-c4p", text: "Become a speaker"}
 #  - {permalink: "/#tickets", text: "Buy tickets"}
 
 # About Block
 aboutTitle: "About SoS Summer School"
 aboutBlock:
- - {title: "Conference", image: "conference.jpg", text: "The biggest Google related event in the country carefully crafted for you by GDG community! Awesome speakers and lots of fun!" }
- - {title: "Workshops", image: "workshop.jpg", text: "Full-day of workshops, hands-on experience, hacking and debugging. Come and tame your favourite technology!" }
- - {title: "Summer School", image: "hackathon.jpg", text: "Full-day freestyle hackathon! Want some real team building on friday? Grab your team and join our hackathon!" }
+ - {title: "Lecture", image: "conference.jpg", text: "Join our morning live Lecture week! Awesome speakers and lots of fun!" }
+ - {title: "Workshops", image: "workshop.jpg", text: "Afternoon/Evening workshops, hands-on experience. Come and tame your favourite technology!" }
+ - {title: "Summer School", image: "hackathon.jpg", text: "Meet the mentors!" }
 
 # Statistic Block
 # statisticBlockImage: "statistic.jpg"
@@ -84,7 +84,7 @@ latestNewsTitle: "Latest news"
 
 # Rockstar Speakers Block
 rockstarSpeakersImage: "rockstar-speakers.jpg"
-rockstarSpeakersCount: 8
+rockstarSpeakersCount: 6
 rockstarSpeakersTitle: "Mentors"
 rockstarSpeakersButtonText: "See all Mentors"
 
@@ -117,7 +117,7 @@ rockstarSpeakersButtonText: "See all Mentors"
 tweetsFeedImage: "twitter-feed.jpg"
 tweetsFeedTitle: "What's Up?"
 twitterHashTag: "devfest"
-twitterFeed: "http://lviv.gdg.org.ua/tweetledee/favoritesjson.php?c=10&cache_interval=8000"
+# twitterFeed: "https://scienceofscience.org/feed.xml"
 
 # Partners Block
 organizersTitle: "Organizers"

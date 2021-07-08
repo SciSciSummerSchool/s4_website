@@ -1,60 +1,51 @@
 - 
-  id: 0
-  name: "Vitaliy"
-  surname: "Zasadnyy"
-  title: "Sponsors and Speakers Manager"
-  thumbnailUrl: VitaliyZasadnyy.jpg
-  team: true
-  ribbon: 
-    - {abbr: "GDG", title: "Google Developer Group"}
-  social: 
-    - {name: "google-plus", link: "https://google.com/+VitalikZasadnyy"}
-    - {name: "twitter", link: "https://twitter.com/zasadnyy"}
-    - {name: "github", link: "https://github.com/zasadnyy"}
-    - {name: "site", link: "http://zasadnyy.com/"}
-- 
   id: 1
-  name: "Oleh"
-  surname: "Zasadnyy"
-  title: "Designer and Web Developer"
-  thumbnailUrl: OlehZasadnyy.jpg
-  team: true
-  ribbon: 
-    - {abbr: "GDG", title: "Google Developer Group"}
+  name: "Daniel"
+  surname: "Acuña"
+  company: "Syracuse University"
+  title: "Assistant Professor in the School of Information Studies at Syracuse University"
+  thumbnailUrl: daniel.png
+  team: True
   social: 
-    - {name: "google-plus", link: "https://google.com/+OlehZasadnyy"}
-    - {name: "github", link: "https://github.com/ozasadnyy"}
-- 
-  id: 2
-  name: "Ostap"
-  surname: "Andrusiv"
-  title: "Sponsors and Speakers Manager"
-  thumbnailUrl: OstapAndrusiv.jpg
-  team: true
-  ribbon: 
-    - {abbr: "GDG", title: "Google Developer Group"}
+    - {name: "site", link: "https://acuna.io/"}
+    - {name: "twitter", link: "https://twitter.com/daniel_akuna"}
+    - {name: "linkedin", link: "https://www.linkedin.com/in/daniel-acuna-13a13020"}
+    - {name: "github", link: "https://github.com/daniel-acuna"}
+-
+  id: 2  
+  name: "Stephen"
+  surname: "David"
+  company: "Oregon Health & Science University"
+  title: "Associate Professor of Otolaryngology - Head and Neck Surgery, School of Medicine"
+  thumbnailUrl: stephen.jpg
+  team: True
   social: 
-    - {name: "google-plus", link: "https://google.com/+OstapAndrusiv"}
-    - {name: "twitter", link: "https://twitter.com/p1f"}
-    - {name: "site", link: "http://andrusiv.com/"}
-- 
+    - {name: "site", link: "https://www.ohsu.edu/people/stephen-v-david-phd"}
+-
+  id: 3  
+  name: "Zijun"
+  surname: "Yi"
+  title: "Master student at Syracuse University"
+  thumbnailUrl: jim.jpeg
+  subTeam: True
+  social: 
+    - {name: "site", link: "https://www.ohsu.edu/people/stephen-v-david-phd"}
+-
   id: 4
-  name: "Dmytro"
-  surname: "Danylyk"
-  title: "Android Program Committee"
-  thumbnailUrl: DmytroDanylyk.jpg
-  subTeam: true
+  name: "Lizhen"
+  surname: "Liang"
+  title: "Master Student"
+  thumbnailUrl: jim.jpeg
+  subTeam: True
   social: 
-    - {name: "google-plus", link: "https://plus.google.com/+DmytroDanylyk"}
-    - {name: "twitter", link: "https://twitter.com/dmytrodanylyk"}
-    - {name: "github", link: "https://github.com/dmytrodanylyk"}
-- 
-  id: 7
-  name: "Valentyn"
-  surname: "Shybanov"
-  title: "Web and Cloud Program Committee"
-  thumbnailUrl: ValentynShybanov.jpg
-  subTeam: true
+    - {name: "site", link: "https://www.ohsu.edu/people/stephen-v-david-phd"}
+-
+  id: 5  
+  name: "Zijun"
+  surname: "Yi"
+  company: "Syracuse University at Syracuse University"
+  title: "Master Student"
+  thumbnailUrl: jim.jpeg
+  subTeam: True
   social: 
-    - {name: "google-plus", link: "https://google.com/+ValentynShybanov"}
-    - {name: "site", link: "http://olostan.name/"}
+    - {name: "site", link: "https://www.ohsu.edu/people/stephen-v-david-phd"}
