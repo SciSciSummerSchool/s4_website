@@ -1,67 +1,131 @@
 - 
-  id: 3
-  name: "Dawid"
-  surname: "Ostrowski"
-  company: "Google Poland"
-  title: "Developer Relations Program Manager"
-  bio: "Dawid is true technology enthusiast, who loves to work in areas where humans and machines meet to create amazing new products and services. He is experienced program manager with strong technical background, who is able to establish priorities for complex projects and execute across multiple organizations, according to long-term objectives. Dawid has worked in Poland, USA, Germany, Belgium and The Netherlands and truly values diversity of international working environment. His most visible characteristics are individualization (when dealing directly with people), ideation&intellection (inexhaustible source of new concepts) and strong communication (experienced trainer, community manager). He is also an activator constantly impatient for action."
-  thumbnailUrl: DawidOstrowski.jpg
+  id: 1
+  name: "Monya"
+  surname: "Baker"
+  company: "Nature Journal"
+  title: "Editor and writer at Nature"
+  bio: "Monya Baker commissions and edits opinion articles on improving science for Nature magazine, where she has worked since 2007. Her work has appeared in Nature, Science, Wired, The Economist, Slate, New Scientist and elsewhere. She has an Ed.M from Harvard University and a B.A. in biology from Carleton College."
+  thumbnailUrl: monya.png
   rockstar: true
   social: 
-    - {name: "google-plus", link: "https://plus.google.com/+DawidOstrowski/"}
+    - {name: "linkedin", link: "https://www.linkedin.com/in/monya-baker-765a544"}
+- 
+  id: 2
+  name: "James"
+  surname: "Evans"
+  company: "University of Chicago"
+  title: "Professor, Department of Sociology, University of Chicago"
+  bio: ''
+  thumbnailUrl: james.jpg
+  rockstar: true
+  social: 
+    - {name: "site", link: "https://sociology.uchicago.edu/directory/james-evans"}
+- 
+  id: 3
+  name: "Vincent"
+  surname: "Larivière"
+  company: "l’Université de Montréal"
+  title: "Full Professor, Canada Research Chair on the Transformations of Scholarly Communication"
+  bio: "Vincent Larivière is full professor of information science at the École de bibliothéconomie et des sciences de l'information, l’Université de Montréal, where he teaches research methods and bibliometrics. He is also the scientific director of the Érudit journal platform, associate scientific director of the Observatoire des sciences et des technologies and a regular member of the Centre interuniversitaire de recherche sur la science et la technologie. He holds a B.A. in Science, Technology and Society (UQAM), an M.A. in history of science (UQAM) and a Ph.D. in information science (McGill), and has performed postdoctoral work at Indiana University’s Department of Information and Library Science."
+  thumbnailUrl: vLariviere.jpg
+  rockstar: true
+  social: 
+    - {name: "site", link: "https://crc.ebsi.umontreal.ca/en/vincent-lariviere/biographie/"}
 - 
   id: 4
-  name: "Dmytro"
-  surname: "Danylyk"
-  company: "Lemberg Solutions Limited"
-  title: "Android Developer"
-  bio: '<p>Developer. Nominated to apply for the <a href="http://goo.gl/V7qHc">Google Developer Expert Program</a>. Finalist of <a href="http://goo.gl/HO2kLf">Google Apps Developer Challenge 2012</a>. Author of open source <a href="http://goo.gl/Sp5Pel">libraries</a> 1000+ stars. Writer. When Dmytro has free time he is writing <a href="http://goo.gl/AoOVru">technical articles</a>. Speaker. Always trying to share his knowledge &amp; experience on different <a href="http://goo.gl/PNolZY">events</a>. Big fan of android, flat design, stackoverflow, git, Intellij IDEA. Eclipse IDE hater.</p>'
-  thumbnailUrl: DmytroDanylyk.jpg
+  name: "Staša"
+  surname: "Milojević"
+  company: "Indiana University"
+  title: "Associate Professor, Department of Informatics, Indiana University, Bloomington"
+  bio: "Staša Milojević is an Associate Professor in the Luddy School of Informatics, Computing, and Engineering, the director of Center for Complex Networks and Systems Research, a core faculty of Cognitive Science program, and a fellow of Rob Kling Center for Social Informatics at Indiana University, Bloomington."
+  thumbnailUrl: stasa.jpg
   rockstar: true
+  # ribbon: 
+  #   - {abbr: "GDE", title: "Google Developer Expert", url: "https://developers.google.com/experts/"}
+  #   - {abbr: "GDG", title: "Google Developer Group", url: "https://developers.google.com/groups/chapter/107562802227561437057/"}
   social: 
-    - {name: "google-plus", link: "https://plus.google.com/+DmytroDanylyk"}
-    - {name: "twitter", link: "https://twitter.com/dmytrodanylyk"}
-    - {name: "github", link: "https://github.com/dmytrodanylyk"}
+    - {name: "site", link: "http://homes.sice.indiana.edu/smilojev/"}
 - 
   id: 5
-  name: "Mateusz"
-  surname: "Herych"
-  company: "Base CRM, GDG Krakow"
-  title: "Software Engineer"
-  bio: "Mateusz is an Android GDE and GDG organizer. Works as Android Developer for Base CRM where he uses his android-abracadabras to make enterprise software users more productive."
-  thumbnailUrl: MateuszHerych.jpg
+  name: "Cassidy"
+  surname: "Sugimoto"
+  company: "Georgia Institute of Technology"
+  title: "Professor, School Chair, and Tom and Marie Patton Chair in the School of Public Policy at Georgia Institute of Technology"
+  bio: "Cassidy Sugimoto is Professor of Informatics at the School of Informatics, Computing, and Engineering at Indiana University Bloomington. She is also currently serving a rotation with the National Science Foundation as the Program Director for the Science of Science and Innovation Policy (SciSIP) program. Sugimoto's research expertise is broadly situated in the domains of science policy, scholarly communication, and scientometrics. Simply speaking, she investigates the ways in which knowledge is produced, disseminated, and rewarded, with a particular interest in issues of diversity and inclusion." 
+  thumbnailUrl: cassidy.jpg
   rockstar: true
-  ribbon: 
-    - {abbr: "GDE", title: "Google Developer Expert", url: "https://developers.google.com/experts/"}
-    - {abbr: "GDG", title: "Google Developer Group", url: "https://developers.google.com/groups/chapter/107562802227561437057/"}
+  # ribbon:
+  #   - {abbr: "GDG", title: "Google Developer Group", url: "https://developers.google.com/groups/chapter/110301321530950732281/"}
   social: 
-    - {name: "google-plus", link: "https://plus.google.com/+MateuszHerych"}
-    - {name: "twitter", link: "https://twitter.com/mherych"}
+    - {name: "site", link: "https://ella.sice.indiana.edu/~sugimoto/index.php"}
+    - {name: "twitter", link: "https://twitter.com/csugimoto"}
+    - {name: "linkedin", link: "https://www.linkedin.com/pub/cassidy-sugimoto/2/339/b98"}
+    - {name: "google-plus", link: "https://plus.google.com/107155610611872164484/"}
+    - {name: "skype", link: "skype:cassidy.sugimoto?call"}
+    - {name: "facebook", link: "https://www.facebook.com/2714053"}
 - 
   id: 6
-  name: "Roman"
-  surname: "Mazur"
-  company: "Stanfy, GDG Kyiv"
-  title: "Head of Android/Java Unit"
-  bio: "Roman started his way in Android 5 years ago and fall in love with this platform. Currently he is a head of Android unit in Stanfy LLC and a co-organizer of Kyiv Google Developers Group focusing on Android development. Roman is responsible for building a strong team of Android developers inside Stanfy as well as for organizing Android professionals community in Kyiv."
-  thumbnailUrl: RomanMazur.jpg
+  name: "Dashun"
+  surname: "Wang"
+  company: "Northwestern University"
+  title: "Associate Professor, Kellogg School of Management, Northwestern University"
+  bio: "Dashun Wang is an Associate Professor of Management and Organizations at the Kellogg School of Management, and (by courtesy) the McCormick School of Engineering, at Northwestern University. His current research focus is on Science of Science, a quest to turn the scientific methods and curiosities upon ourselves, hoping to use and develop tools from complexity sciences and artificial intelligence to broadly explore the opportunities for innovation and promises of prosperity offered by the recent data explosion in science."
+  thumbnailUrl: dashun.jpg
   rockstar: true
-  ribbon:
-    - {abbr: "GDG", title: "Google Developer Group", url: "https://developers.google.com/groups/chapter/110301321530950732281/"}
+  # ribbon:
+  #   - {abbr: "GDG", title: "Google Developer Group", url: "https://developers.google.com/groups/chapter/110301321530950732281/"}
   social: 
-    - {name: "google-plus", link: "https://plus.google.com/+RomanMazur/"}
-    - {name: "twitter", link: "http://twitter.com/roman_mazur"}
+    - {name: "site", link: "https://www.dashunwang.com/"}
+    - {name: "facebook", link: "https://www.facebook.com/dashunwang"}
+    - {name: "linkedin", link: "https://www.linkedin.com/in/dashun-wang-410a0914/"}
+    - {name: "twitter", link: "https://twitter.com/dashunwang"}
 - 
-  id: 7
-  name: "Valentyn"
-  surname: "Shybanov"
-  company: "Twinfield, GDG Kyiv"
-  title: "Software engineer/country manager"
-  bio: "Valentyn focuses on Polymer and Web Components. In previous roles he’s helped craft design systems for massive enterprise companies, user interfaces for console titles, and even built the occasional enchanted princess game. These days his mission is to fight for a better web and to help developers build great experiences."
-  thumbnailUrl: ValentynShybanov.jpg
+  id: 7  
+  name: "Bruce"
+  surname: "Weinberg"
+  company: "The Ohio State University"
+  title: "Professor, Department of Economics, The Ohio State University"
+  bio: "Bruce A. Weinberg received his Ph.D. from the University of Chicago in 1996 before joining the faculty at the Ohio State University, where he is now Professor of Economics and Public Affairs. His research has been published in journals including The American Economic Review, The Journal of Political Economy, The Proceedings of the National Academy of the Sciences, and Science. This research spans three areas. The first is the economics of innovation and creativity. This work studies the production, diffusion, and value of innovations, including how creativity varies over the life cycle, how an individual’s own creativity is affected by the presence of other important innovators, and disparities among researchers. The second area is family and neighborhood determinants of youth outcomes and behavior. This work studies how youth behaviors, including employment, delinquency, cognitive development, and risky behaviors, are affected by their families and peer groups. The third research area concerns technological change, industrial shifts, and the wage structure. This work studies how computerization and the shift from manufacturing to services have affected the gender wage gap, the racial wage gap, and the returns to experience."
+  thumbnailUrl: weinberg.jpg
   rockstar: true
-  ribbon:
-    - {abbr: "GDG", title: "Google Developer Group", url: "https://developers.google.com/groups/chapter/110301321530950732281/"}
   social: 
-    - {name: "google-plus", link: "https://google.com/+ValentynShybanov"}
-    - {name: "site", link: "http://olostan.name/"}
+    - {name: "site", link: "https://economics.osu.edu/people/weinberg.27"}
+    - {name: "facebook", link: "https://www.facebook.com/osu.economics"}
+    - {name: "twitter", link: "https://www.twitter.com/OSU_Econ"}
+- 
+  id: 8  
+  name: "Jevin"
+  surname: "West"
+  company: "University of Washington"
+  title: "Associate Professor, Information School, University of Washington"
+  bio: "Jevin West is an Associate Professor in the Information School at the University of Washington. he co-founded the DataLab and direct the Center for an Informed Public. he studies the Science of Science and worries about the spread of misinformation. My laboratory consists of millions of scholarly papers and the billions of links that connect these papers. he develops knowledge discovery tools to both studies and facilitates science. In particular, Iheam interested in the origin of scholarly disciplines and how sociological and economic factors drive and slow the evolution of science."
+  thumbnailUrl: jevinwest.jpg
+  rockstar: true
+  social: 
+    - {name: "site", link: "https://jevinwest.org/"}
+    - {name: "twitter", link: "https://twitter.com/jevinwest"}
+- 
+  id: 9  
+  name: "Daniel"
+  surname: "Acuña"
+  company: "Syracuse University"
+  title: "Assistant Professor in the School of Information Studies at Syracuse University"
+  bio: "Daniel Acuña is an Assistant Professor in the School of Information Studies at Syracuse University, Syracuse, NY. The goal of his current research is to understand decision making in science—from helping hiring committees to predict future academic success to removing the potential biases that scientists and funding agencies commit during peer review."
+  thumbnailUrl: daniel.png
+  rockstar: true
+  social: 
+    - {name: "site", link: "https://acuna.io/"}
+    - {name: "twitter", link: "https://twitter.com/daniel_akuna"}
+    - {name: "linkedin", link: "https://www.linkedin.com/in/daniel-acuna-13a13020"}
+    - {name: "github", link: "https://github.com/daniel-acuna"}
+-
+  id: 10  
+  name: "Stephen"
+  surname: "David"
+  company: "Oregon Health & Science University"
+  title: "Associate Professor of Otolaryngology - Head and Neck Surgery, School of Medicine"
+  bio: "Stephen David joined the OHSU faculty in February 2012. Before coming to OHSU, he received his Ph.D. in Bioengineering from the University of California, Berkeley in 2006 and subsequently completed postdoctoral work in the Institute for Systems Research at the University of Maryland, College Park."
+  thumbnailUrl: stephen.jpg
+  rockstar: true
+  social: 
+    - {name: "site", link: "https://www.ohsu.edu/people/stephen-v-david-phd"}
