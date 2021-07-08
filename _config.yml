@@ -43,7 +43,7 @@ c4sponsorsUrl: "/assets/GDG_DevFest_Partnership.pdf"
 # Navigation
 navigationLinks:
  - {permalink: "/", text: "Home"}
- - {permalink: "/blog/", text: "Blog"}
+#  - {permalink: "/blog/", text: "Blog"}
  - {permalink: "/schedule/", text: "Schedule"}
  - {permalink: "/speakers/", text: "Speakers"}
  - {permalink: "/team/", text: "Team"}
@@ -122,7 +122,7 @@ twitterHashTag: "devfest"
 # Partners Block
 organizersTitle: "Organizers"
 partnersTitle: "Partners"
-# partnersC4sponsorsButton: "Become a sponsor"
+partnersC4sponsorsButton: "Become a sponsor"
 
 # # Subscribe Block
 # subscribeImage: "subscribe.jpg"
