@@ -102,3 +102,29 @@
         endTime: "4:30",
         sessionIds: [404, 202]
     }
+- 
+  date: "2021-07-30"
+  dateReadable: "July 30"
+  tracks: 
+    - {title: "Events", color: "#03a9f4"}
+  timeslots:
+    - {
+    	startTime: "9:00",
+    	endTime: "12:00",
+    	sessionIds: [005]
+    }
+    - {
+        startTime: "12:00",
+        endTime: "13:00",
+        sessionIds: [503]
+    }
+    - {
+        startTime: "13:00",
+        endTime: "16:30",
+        sessionIds: [201, 404]
+    }
+    - {
+        startTime: "1:00",
+        endTime: "4:30",
+        sessionIds: [404, 202]
+    }

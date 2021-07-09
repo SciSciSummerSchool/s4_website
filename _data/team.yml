@@ -29,23 +29,22 @@
   thumbnailUrl: jim.jpeg
   subTeam: True
   social: 
-    - {name: "site", link: "https://www.ohsu.edu/people/stephen-v-david-phd"}
+    - {name: "github", link: "https://github.com/zyi103"}
 -
   id: 4
   name: "Lizhen"
   surname: "Liang"
-  title: "Master Student"
-  thumbnailUrl: jim.jpeg
+  title: "PhD. at Syracuse University"
+  thumbnailUrl: lizhen.jpg
   subTeam: True
   social: 
-    - {name: "site", link: "https://www.ohsu.edu/people/stephen-v-david-phd"}
+    - {name: "github", link: "https://github.com/LiamLiang"}
 -
   id: 5  
-  name: "Zijun"
-  surname: "Yi"
-  company: "Syracuse University at Syracuse University"
-  title: "Master Student"
-  thumbnailUrl: jim.jpeg
+  name: "Han"
+  surname: "Zhunag"
+  title: "PhD. at Syracuse University"
+  thumbnailUrl: xxxxx.jpeg
   subTeam: True
   social: 
-    - {name: "site", link: "https://www.ohsu.edu/people/stephen-v-david-phd"}
+    # - {name: "site", link: "xxx"}
