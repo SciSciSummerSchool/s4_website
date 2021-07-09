@@ -5,23 +5,23 @@
     - {title: "Events", color: "#03a9f4"}
   timeslots:
     - {
-    	startTime: "9:00",
-    	endTime: "12:00",
+    	startTime: "9:00 AM",
+    	endTime: "12:00 PM",
     	sessionIds: [001]
     }
     - {
-        startTime: "12:00",
-        endTime: "13:00",
+        startTime: "12:00 PM",
+        endTime: "1:00 PM",
         sessionIds: [503]
     }
     - {
-        startTime: "13:00",
-        endTime: "16:30",
+        startTime: "1:00 PM",
+        endTime: "4:30 PM",
         sessionIds: [201, 404]
     }
     - {
-        startTime: "1:00",
-        endTime: "4:30",
+        startTime: "10:00 PM",
+        endTime: "1:30 AM*",
         sessionIds: [404, 202]
     }
 - 
@@ -31,23 +31,23 @@
     - {title: "Events", color: "#03a9f4"}
   timeslots:
     - {
-    	startTime: "9:00",
-    	endTime: "12:00",
+    	startTime: "9:00 AM",
+    	endTime: "12:00 PM",
     	sessionIds: [002]
     }
     - {
-        startTime: "12:00",
-        endTime: "13:00",
+        startTime: "12:00 PM",
+        endTime: "1:00 PM",
         sessionIds: [503]
     }
     - {
-        startTime: "13:00",
-        endTime: "16:30",
+        startTime: "1:00 PM",
+        endTime: "4:30 PM",
         sessionIds: [201, 404]
     }
     - {
-        startTime: "1:00",
-        endTime: "4:30",
+        startTime: "10:00 PM",
+        endTime: "1:30 AM*",
         sessionIds: [404, 202]
     }
 - 
@@ -57,23 +57,23 @@
     - {title: "Events", color: "#03a9f4"}
   timeslots:
     - {
-    	startTime: "9:00",
-    	endTime: "12:00",
+    	startTime: "9:00 AM",
+    	endTime: "12:00 PM",
     	sessionIds: [003]
     }
     - {
-        startTime: "12:00",
-        endTime: "13:00",
+        startTime: "12:00 PM",
+        endTime: "1:00 PM",
         sessionIds: [503]
     }
     - {
-        startTime: "13:00",
-        endTime: "16:30",
+        startTime: "1:00 PM",
+        endTime: "4:30 PM",
         sessionIds: [201, 404]
     }
     - {
-        startTime: "1:00",
-        endTime: "4:30",
+        startTime: "10:00 PM",
+        endTime: "1:30 AM*",
         sessionIds: [404, 202]
     }
 - 
@@ -83,23 +83,23 @@
     - {title: "Events", color: "#03a9f4"}
   timeslots:
     - {
-    	startTime: "9:00",
-    	endTime: "12:00",
+    	startTime: "9:00 AM",
+    	endTime: "12:00 PM",
     	sessionIds: [004]
     }
     - {
-        startTime: "12:00",
-        endTime: "13:00",
+        startTime: "12:00 PM",
+        endTime: "1:00 PM",
         sessionIds: [503]
     }
     - {
-        startTime: "13:00",
-        endTime: "16:30",
+        startTime: "1:00 PM",
+        endTime: "4:30 PM",
         sessionIds: [201, 404]
     }
     - {
-        startTime: "1:00",
-        endTime: "4:30",
+        startTime: "10:00 PM",
+        endTime: "1:30 AM*",
         sessionIds: [404, 202]
     }
 - 
@@ -109,22 +109,22 @@
     - {title: "Events", color: "#03a9f4"}
   timeslots:
     - {
-    	startTime: "9:00",
-    	endTime: "12:00",
+    	startTime: "9:00 AM",
+    	endTime: "12:00 PM",
     	sessionIds: [005]
     }
     - {
-        startTime: "12:00",
-        endTime: "13:00",
+        startTime: "12:00 PM",
+        endTime: "1:00 PM",
         sessionIds: [503]
     }
     - {
-        startTime: "13:00",
-        endTime: "16:30",
+        startTime: "1:00 PM",
+        endTime: "4:30 PM",
         sessionIds: [201, 404]
     }
     - {
-        startTime: "1:00",
-        endTime: "4:30",
+        startTime: "10:00 PM",
+        endTime: "1:30 AM*",
         sessionIds: [404, 202]
     }

@@ -58,7 +58,7 @@ bottomNavigationLinks:
 heroImage: "hero.jpg"
 heroTitle: "Science of Science <typeout>"
 eventDate: "July 26 - August 6, 2021"
-typeoutTextValues: '"", "S4"'
+typeoutTextValues: '"", "S4", "Summer School"'
 typeoutFallback: "Summer School"
 heroButtons:
 #  - {link: "https://bit.ly/dfua-c4p", text: "Become a speaker"}
@@ -186,6 +186,8 @@ footerBlocks:
   title: "Contacts"
   links:
    - {link: "mailto: deacuna@syr.edu", text: "deacuna@syr.edu"}
+   - {link: "mailto: davids@ohsu.edu", text: "davids@ohsu.edu"}
+   - {link: "mailto: zyi103@syr.edu", text: "zyi103@syr.edu"}
  -
   title: "FAQ"
   links:
