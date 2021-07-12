@@ -129,3 +129,15 @@
   rockstar: true
   social: 
     - {name: "site", link: "https://www.ohsu.edu/people/stephen-v-david-phd"}
+-
+  id: 10 
+  name: "Qing"
+  surname: "Ke"
+  company: "Syracuse University"
+  title: "Postdoc"
+  bio: ""
+  thumbnailUrl: qingke.jpg
+  social: 
+    - {name: "site", link: "https://qke.github.io/"}
+    - {name: "github", link: "https://github.com/qke"}
+    - {name: "twitter", link: "https://www.twitter.com/quingke"}

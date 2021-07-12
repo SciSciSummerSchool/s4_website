@@ -42,9 +42,9 @@
 -
   id: 5  
   name: "Han"
-  surname: "Zhunag"
+  surname: "Zhuang"
   title: "PhD. at Syracuse University"
-  thumbnailUrl: xxxxx.jpeg
+  thumbnailUrl: han.jpg
   subTeam: True
   social: 
-    # - {name: "site", link: "xxx"}
+   - {name: "site", link: "https://ischool.syr.edu/han-zhuang/"}

@@ -58,7 +58,7 @@ bottomNavigationLinks:
 heroImage: "hero.jpg"
 heroTitle: "Science of Science <typeout>"
 eventDate: "July 26 - August 6, 2021"
-typeoutTextValues: '"", "S4"'
+typeoutTextValues: '"Summer School", "conference"'
 typeoutFallback: "Summer School"
 heroButtons:
 #  - {link: "https://bit.ly/dfua-c4p", text: "Become a speaker"}
@@ -84,9 +84,9 @@ latestNewsTitle: "Latest Announcement"
 
 # Rockstar Speakers Block
 rockstarSpeakersImage: "rockstar-speakers.jpeg"
-rockstarSpeakersCount: 6
-rockstarSpeakersTitle: "Mentors"
-rockstarSpeakersButtonText: "See all Mentors"
+rockstarSpeakersCount: 10
+rockstarSpeakersTitle: "Mentors & Speakers"
+rockstarSpeakersButtonText: "See all Mentors & Speakers"
 
 # # Location Block
 # locationBlockTitle: "Location"
@@ -116,7 +116,7 @@ rockstarSpeakersButtonText: "See all Mentors"
 # Tweets Feed Block
 tweetsFeedImage: "twitter-feed.jpg"
 tweetsFeedTitle: "What's Up?"
-twitterHashTag: "ScioSciSummerSch"
+twitterHashTag: "S4"
 # twitterFeed: "https://scienceofscience.org/feed.xml"
 
 # Partners Block
