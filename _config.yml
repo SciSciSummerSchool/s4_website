@@ -20,13 +20,13 @@ permalink: "/announcement/:title"
 # googleAnalyticsSiteUrl: "gdg-x.github.io"
 # siteVerification: "b9imDOrFawXaBXCC4r3uJDdswSYcalD-wWpMYhFq-no"
 
-# Organizer Info
-organizerName: "SoS+CD Lab"
-organizerAlternateName: "Science of Science and computational Discovery Lab"
-organizerDescription: "The SOS+CD Lab works on understanding current practices in science and developing semi-automated methods to mine scientific knowledge from vast, unstructured datasets of full-text publications, citations, and images."
-organizerEmail: "deacuna@syr.edu"
-organizerLogo: "/img/seo/organizer-logo.png"
-organizerLink: "https://scienceofscience.org/about/"
+# # Organizer Info
+# organizerName: "SoS+CD Lab"
+# organizerAlternateName: "Science of Science and computational Discovery Lab"
+# organizerDescription: "The SOS+CD Lab works on understanding current practices in science and developing semi-automated methods to mine scientific knowledge from vast, unstructured datasets of full-text publications, citations, and images."
+# organizerEmail: "deacuna@syr.edu"
+# organizerLogo: "/img/seo/organizer-logo.png"
+# organizerLink: "https://scienceofscience.org/about/"
 
 # Head
 metaKeywords: "sos cd, science of science summer school, nsf, Statistical learning, machine learning, artificial intelligence"
