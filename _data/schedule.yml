@@ -6,17 +6,17 @@
   timeslots:
     - {
     	startTime: "9:00 AM",
-    	endTime: "12:00 PM",
+    	endTime: "12:30 PM",
     	sessionIds: [001]
     }
     - {
-        startTime: "12:00 PM",
-        endTime: "1:00 PM",
+        startTime: "12:30 PM",
+        endTime: "1:30 PM",
         sessionIds: [503]
     }
     - {
-        startTime: "1:00 PM",
-        endTime: "4:30 PM",
+        startTime: "1:30 PM",
+        endTime: "5:00 PM",
         sessionIds: [201, 404]
     }
     - {
@@ -32,17 +32,17 @@
   timeslots:
     - {
     	startTime: "9:00 AM",
-    	endTime: "12:00 PM",
+    	endTime: "1:00 PM",
     	sessionIds: [002]
     }
     - {
-        startTime: "12:00 PM",
-        endTime: "1:00 PM",
+        startTime: "1:00 PM",
+        endTime: "1:30 PM",
         sessionIds: [503]
     }
     - {
-        startTime: "1:00 PM",
-        endTime: "4:30 PM",
+        startTime: "1:30 PM",
+        endTime: "5:00 PM",
         sessionIds: [201, 404]
     }
     - {
@@ -58,17 +58,17 @@
   timeslots:
     - {
     	startTime: "9:00 AM",
-    	endTime: "12:00 PM",
+    	endTime: "1:00 PM",
     	sessionIds: [003]
     }
     - {
-        startTime: "12:00 PM",
-        endTime: "1:00 PM",
+        startTime: "1:00 PM",
+        endTime: "1:30 PM",
         sessionIds: [503]
     }
     - {
-        startTime: "1:00 PM",
-        endTime: "4:30 PM",
+        startTime: "1:30 PM",
+        endTime: "5:00 PM",
         sessionIds: [201, 404]
     }
     - {
@@ -84,17 +84,22 @@
   timeslots:
     - {
     	startTime: "9:00 AM",
-    	endTime: "12:00 PM",
+    	endTime: "10:00 AM",
+    	sessionIds: [104]
+    }
+    - {
+    	startTime: "10:00 AM",
+    	endTime: "1:00 PM",
     	sessionIds: [004]
     }
     - {
-        startTime: "12:00 PM",
-        endTime: "1:00 PM",
+        startTime: "1:00 PM",
+        endTime: "1:30 PM",
         sessionIds: [503]
     }
     - {
-        startTime: "1:00 PM",
-        endTime: "4:30 PM",
+        startTime: "1:30 PM",
+        endTime: "5:00 PM",
         sessionIds: [201, 404]
     }
     - {
@@ -110,17 +115,17 @@
   timeslots:
     - {
     	startTime: "9:00 AM",
-    	endTime: "12:00 PM",
+    	endTime: "1:00 PM",
     	sessionIds: [005]
     }
     - {
-        startTime: "12:00 PM",
-        endTime: "1:00 PM",
+        startTime: "1:00 PM",
+        endTime: "1:30 PM",
         sessionIds: [503]
     }
     - {
-        startTime: "1:00 PM",
-        endTime: "4:30 PM",
+        startTime: "1:30 PM",
+        endTime: "5:00 PM",
         sessionIds: [201, 404]
     }
     - {

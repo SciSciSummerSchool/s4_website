@@ -60,8 +60,6 @@
     - {name: "site", link: "https://ella.sice.indiana.edu/~sugimoto/index.php"}
     - {name: "twitter", link: "https://twitter.com/csugimoto"}
     - {name: "linkedin", link: "https://www.linkedin.com/pub/cassidy-sugimoto/2/339/b98"}
-    - {name: "google-plus", link: "https://plus.google.com/107155610611872164484/"}
-    - {name: "skype", link: "skype:cassidy.sugimoto?call"}
     - {name: "facebook", link: "https://www.facebook.com/2714053"}
 - 
   id: 6
@@ -129,15 +127,3 @@
   rockstar: true
   social: 
     - {name: "site", link: "https://www.ohsu.edu/people/stephen-v-david-phd"}
--
-  id: 10 
-  name: "Qing"
-  surname: "Ke"
-  company: "Syracuse University"
-  title: "Postdoc"
-  bio: ""
-  thumbnailUrl: qingke.jpg
-  social: 
-    - {name: "site", link: "https://qke.github.io/"}
-    - {name: "github", link: "https://github.com/qke"}
-    - {name: "twitter", link: "https://www.twitter.com/quingke"}

@@ -1,4 +1,5 @@
 - 
   group: "Main organizer"
   elements: 
-    - {name: "SOS+CD Lab", description: "Science of Science and Computational Discovery Lab", link: "https://scienceofscience.org/about/", imageUrl: "sos+cd.png"}
+    - {name: "Daniel ", description: "Science of Science and Computational Discovery Lab", link: "https://scienceofscience.org/about/", imageUrl: "daniel.png"}
+    - {name: "SOS+CD Lab", description: "Science of Science and Computational Discovery Lab", link: "https://scienceofscience.org/about/", imageUrl: "stephen.jpg"}

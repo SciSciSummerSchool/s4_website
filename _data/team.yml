@@ -48,3 +48,15 @@
   subTeam: True
   social: 
    - {name: "site", link: "https://ischool.syr.edu/han-zhuang/"}
+-
+  id: 6
+  name: "Qing"
+  surname: "Ke"
+  company: "Syracuse University"
+  title: "Postdoc"
+  thumbnailUrl: qingke.jpg
+  subTeam: True
+  social: 
+    - {name: "site", link: "https://qke.github.io/"}
+    - {name: "github", link: "https://github.com/qke"}
+    - {name: "twitter", link: "https://www.twitter.com/quingke"}

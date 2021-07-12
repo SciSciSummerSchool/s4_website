@@ -117,6 +117,7 @@ rockstarSpeakersButtonText: "See all Mentors & Speakers"
 tweetsFeedImage: "twitter-feed.jpg"
 tweetsFeedTitle: "What's Up?"
 twitterHashTag: "S4"
+wechatTitle: "If you use WeChat:"
 # twitterFeed: "https://scienceofscience.org/feed.xml"
 
 # Partners Block
@@ -201,9 +202,9 @@ discusShortName: "s4"
 # Speakers List Block
 showSessions: false
 
-# # Team Block
-# teamBlockTitle: "About us"
-# aboutUs: "Science of Science and Computational Discovery Lab (SOS+CD) is run by professor Daniel Acuña from the School of Information Studies at Syracuse University. The SOS+CD Lab works on understanding current practices in science and developing semi-automated methods to mine scientific knowledge from vast, unstructured datasets of full-text publications, citations, and images. We use various computational techniques, including deep learning, natural language processing, graph analytics, image processing, and causal inference."
+# Team Block
+teamBlockTitle: "About us"
+aboutUs: "Science of Science and Computational Discovery Lab (SOS+CD) is run by professor Daniel Acuña from the School of Information Studies at Syracuse University. The SOS+CD Lab works on understanding current practices in science and developing semi-automated methods to mine scientific knowledge from vast, unstructured datasets of full-text publications, citations, and images. We use various computational techniques, including deep learning, natural language processing, graph analytics, image processing, and causal inference."
 
 # # Logistics Find Way Block
 # findWayTitle: "Find your way here"

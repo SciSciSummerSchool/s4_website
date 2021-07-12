@@ -21,7 +21,7 @@
   title: "Introduction, ice breaker, and technology setup"
   description: "We will go through the basic technology: Jupyterlab, Python, Numpy, Pandas, scikit-learn. Coding: Data loading, cleaning, exploration"
   subtype: workshop
-  speakers: [9, 10]
+  speakers: 
   language: en
   # complexity: "Intermediate"
   # video: "//www.youtube.com/embed/v3SCiUqI1yQ"
@@ -30,7 +30,7 @@
   title: "Statistical learning, machine learning, artificial intelligence Model evaluation (cross-validation, bias-variance tradeoff)"
   description: ""
   subtype: presentation
-  speakers: [9, 10]
+  speakers: 
   language: en
   # presentation: "https://speakerdeck.com/gdglviv/dmytro-danylyk-android-l-animation"
   # video: "//www.youtube.com/embed/v3SCiUqI1yQ"
@@ -39,7 +39,7 @@
   title: "Network science"
   description: ""
   subtype: presentation
-  speakers: [9, 10]
+  speakers: 
   language: en
   # presentation: "https://speakerdeck.com/gdglviv/dmytro-danylyk-android-l-animation"
   # video: "//www.youtube.com/embed/v3SCiUqI1yQ"
@@ -48,7 +48,16 @@
   title: "Deep learning"
   description: ""
   subtype: presentation
-  speakers: [9, 10]
+  speakers: 
+  language: en
+  # presentation: "https://speakerdeck.com/gdglviv/dmytro-danylyk-android-l-animation"
+  # video: "//www.youtube.com/embed/v3SCiUqI1yQ"
+-
+  id: 104
+  title: "Deep learning speaker"
+  description: ""
+  subtype: presentation
+  speakers: [9]
   language: en
   # presentation: "https://speakerdeck.com/gdglviv/dmytro-danylyk-android-l-animation"
   # video: "//www.youtube.com/embed/v3SCiUqI1yQ"
@@ -57,7 +66,7 @@
   title: "Causal inference"
   description: ""
   subtype: presentation
-  speakers: [9, 10]
+  speakers: 
   language: en
   # presentation: "https://speakerdeck.com/gdglviv/dmytro-danylyk-android-l-animation"
   # video: "//www.youtube.com/embed/v3SCiUqI1yQ"
