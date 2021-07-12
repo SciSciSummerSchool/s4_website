@@ -1,5 +1,5 @@
 - 
   group: "Main organizer"
   elements: 
-    - {name: "Daniel Acuña", description: "Assistant Professor in the School of Information Studies at Syracuse University", imageUrl: "daniel.png"}
+    - {name: "Daniel Acuña", description: "Assistant Professor in the School of Information Studies at Syracuse University", link: "https://acuna.io/", imageUrl: "daniel.png"}
     - {name: "Stephen David", description: "Associate Professor of Otolaryngology - Head and Neck Surgery, School of Medicine", link: "https://www.ohsu.edu/people/stephen-v-david-phd", imageUrl: "stephen.jpg"}
