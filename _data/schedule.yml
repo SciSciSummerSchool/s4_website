@@ -6,11 +6,11 @@
   timeslots:
     - {
     	startTime: "9:00 AM",
-    	endTime: "11:00 AM",
+    	endTime: "9:45 AM",
     	sessionIds: [101]
     }
     - {
-        startTime: "11:00 AM",
+        startTime: "9:45 AM",
         endTime: "12:30 PM",
         sessionIds: [000.1]
     }
@@ -47,11 +47,11 @@
     }
     - {
         startTime: "9:45 AM",
-        endTime: "12:30 PM",
+        endTime: "11:15 AM",
         sessionIds: [000.1]
     }
     - {
-        startTime: "11:15 AM",
+        startTime: "11:30 AM",
         endTime: "1:00 PM",
         sessionIds: [000.2]
     }
