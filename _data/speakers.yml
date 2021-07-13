@@ -127,3 +127,68 @@
   rockstar: true
   social: 
     - {name: "site", link: "https://www.ohsu.edu/people/stephen-v-david-phd"}
+-
+  id: 11
+  name: "Luís A. Nunes"
+  surname: "Amaral"
+  company: "Northwestern Institute on Complex Systems"
+  title: "co-Director, Northwestern Institute on Complex Systems Professor of Chemical & Biological Engineering"
+  bio: "Professor Amaral, a native of Portugal, conducts and directs research that provides insight into the emergence, evolution, and stability of complex social and biological systems. His research aims to address some of the most pressing challenges facing human societies and the world’s ecosystems, including the mitigation of errors in healthcare settings, the characterization of the conditions fostering innovation and creativity, or the growth limits imposed by sustainability."
+  thumbnailUrl: luis.png
+  rockstar: true
+  social: 
+    - {name: "site", link: "https://amaral.northwestern.edu/people/amaral/"}
+-
+  id: 12 
+  name: "Ying"
+  surname: "Ding"
+  company: "University of Texas at Austin"
+  title: "Bill & Lewis Suit Professor School of Information University of Texas at Austin"
+  bio: "Dr. Ying Ding is Bill & Lewis Suit Professor at School of Information, University of Texas at Austin. Before that, she was a professor and director of graduate studies for data science program at School of Informatics, Computing, and Engineering at Indiana University. She has led the effort to develop the online data science graduate program for Indiana University. She also worked as a senior researcher at Department of Computer Science, University of Innsburck (Austria) and Free University of Amsterdam (the Netherlands). "
+  thumbnailUrl: ying.jpg
+  speaker: true
+  social: 
+    - {name: "site", link: "https://yingding.ischool.utexas.edu/"}
+-
+  id: 13
+  name: "Beth"
+  surname: "Patin"
+  company: "Syracuse University"
+  title: "Assistant Professor at Syracuse University’s School of Information Studies"
+  bio: "Dr. Beth Patin is an Assistant Professor at Syracuse University’s School of Information Studies. Beth’s research agenda focuses on the equity of information in two research streams: crisis informatics and cultural competence. She is the co-founder of the Library Information Investigative Team research group. Currently, she is working on projects about epistemicide and at the intersection of disability and race in youth literature. Additionally, she is a member of the Advisory Board on the Laura Bush Foundation for America’s Libraries."
+  thumbnailUrl: beth.jpg
+  rockstar: true
+  social: 
+    - {name: "site", link: "https://www.equityinformatics.online/"}
+-
+  id: 14
+  name: "Jian"
+  surname: "Qin"
+  company: "Syracuse University"
+  title: "Professor at the iSchool, Syracuse University"
+  bio: "Jian Qin is Professor at the iSchool, Syracuse University. The areas of her research interest include metadata, knowledge and data modeling, scientific communication, research networks, and research data management. She received funding from IMLS to develop an eScience librarianship curriculum and from NSF for the Science Data Literacy project. Jian Qin directs a Metadata Lab that focuses on big metadata analytics and metadata modeling and linking. "
+  thumbnailUrl: jian.jpg
+  rockstar: true
+  social: 
+    - {name: "site", link: "http://jianqin.metadataetc.org/"}
+-
+  id: 15
+  name: "Lizhen"
+  surname: "Liang"
+  title: "PhD. at Syracuse University"
+  thumbnailUrl: lizhen.jpg
+  speaker: True
+  social: 
+    - {name: "github", link: "https://github.com/LiamLiang"}
+-
+  id: 16
+  name: "Qing"
+  surname: "Ke"
+  company: "Syracuse University"
+  title: "Postdoc"
+  thumbnailUrl: qingke.jpg
+  speaker: True
+  social: 
+    - {name: "site", link: "https://qke.github.io/"}
+    - {name: "github", link: "https://github.com/qke"}
+    - {name: "twitter", link: "https://www.twitter.com/quingke"}
