@@ -40,18 +40,12 @@
 
 -
   id: 000.3
-  title: "Group Mentor session 1"
+  title: "Group session with Mentor"
   description: ""
   subtype: workshop
   speakers: 
   language: en
--
-  id: 000.4
-  title: "Group Mentor session 1"
-  description: ""
-  subtype: workshop
-  speakers: 
-  language: en
+
 
 -
   id: 101
