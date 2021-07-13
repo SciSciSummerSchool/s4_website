@@ -6,7 +6,7 @@
   description: "The best time to talk with speakers and attendees"
 -
   id: 503
-  title: "Lunch Break"
+  title: "Long Break"
   service: true
 -
   id: 401
@@ -93,7 +93,7 @@
   # video: "//www.youtube.com/embed/v3SCiUqI1yQ"
 -
   id: 201
-  title: "Speaker of the Day"
+  title: "Speakers of the Day"
   description: ""
   subtype: presentation
   speakers: [2,6,12]
@@ -109,7 +109,7 @@
   language: en
 -
   id: 202
-  title: "Speaker of the Day"
+  title: "Speakers of the Day"
   description: ""
   subtype: presentation
   speakers: [8,1,11]
@@ -125,7 +125,7 @@
   language: en
 -
   id: 203
-  title: "Speaker of the Day"
+  title: "Speakers of the Day"
   description: ""
   subtype: presentation
   speakers: [5,3,13]
@@ -141,7 +141,7 @@
   language: en
 -
   id: 204
-  title: "Speaker of the Day"
+  title: "Speakers of the Day"
   description: ""
   subtype: presentation
   speakers: [4,7,14]

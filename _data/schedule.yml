@@ -26,12 +26,12 @@
     }
     - {
         startTime: "2:30 PM",
-        endTime: "5:00 PM",
+        endTime: "4:30 PM",
         sessionIds: [401, 404]
     }
     - {
         startTime: "10:00 PM",
-        endTime: "12:30 AM*",
+        endTime: "12:00 AM*",
         sessionIds: [404, 402]
     }
 - 
@@ -57,17 +57,17 @@
     }
     - {
         startTime: "1:00 PM",
-        endTime: "2:30 PM",
+        endTime: "2:00 PM",
         sessionIds: [503]
     }
     - {
-        startTime: "2:30 PM",
-        endTime: "5:00 PM",
+        startTime: "2:00 PM",
+        endTime: "4:00 PM",
         sessionIds: [401, 404]
     }
     - {
         startTime: "10:00 PM",
-        endTime: "12:30 AM*",
+        endTime: "12:00 AM*",
         sessionIds: [404, 402]
     }
 - 
@@ -93,17 +93,17 @@
     }
     - {
         startTime: "1:00 PM",
-        endTime: "2:30 PM",
+        endTime: "2:00 PM",
         sessionIds: [503]
     }
     - {
-        startTime: "2:30 PM",
-        endTime: "5:00 PM",
+        startTime: "2:00 PM",
+        endTime: "4:00 PM",
         sessionIds: [401, 404]
     }
     - {
         startTime: "10:00 PM",
-        endTime: "12:30 AM*",
+        endTime: "12:00 AM*",
         sessionIds: [404, 402]
     }
 - 
@@ -129,17 +129,17 @@
     }
     - {
         startTime: "1:00 PM",
-        endTime: "2:30 PM",
+        endTime: "2:00 PM",
         sessionIds: [503]
     }
     - {
-        startTime: "2:30 PM",
-        endTime: "5:00 PM",
+        startTime: "2:00 PM",
+        endTime: "4:00 PM",
         sessionIds: [401, 404]
     }
     - {
         startTime: "10:00 PM",
-        endTime: "12:30 AM*",
+        endTime: "12:00 AM*",
         sessionIds: [404, 402]
     }
 - 
@@ -165,17 +165,17 @@
     }
     - {
         startTime: "1:00 PM",
-        endTime: "2:30 PM",
+        endTime: "2:00 PM",
         sessionIds: [503]
     }
     - {
-        startTime: "2:30 PM",
-        endTime: "5:00 PM",
+        startTime: "2:00 PM",
+        endTime: "4:00 PM",
         sessionIds: [401, 404]
     }
     - {
         startTime: "10:00 PM",
-        endTime: "12:30 AM*",
+        endTime: "12:00 AM*",
         sessionIds: [404, 402]
     }
 
