@@ -191,8 +191,13 @@
   timeslots:
     - {
         startTime: "9:00 AM",
-        endTime: "12:35 PM",
+        endTime: "11:35 AM",
         sessionIds: [201]
+    }
+    - {
+        startTime: "11:35 AM",
+        endTime: "12:35 PM",
+        sessionIds: [000.4]
     }
     - {
         startTime: "12:35 PM",
@@ -222,8 +227,13 @@
   timeslots:
     - {
         startTime: "9:00 AM",
-        endTime: "12:35 PM",
+        endTime: "11:35 AM",
         sessionIds: [202]
+    }
+    - {
+        startTime: "11:35 AM",
+        endTime: "12:35 PM",
+        sessionIds: [000.5]
     }
     - {
         startTime: "12:35 PM",
@@ -254,8 +264,13 @@
   timeslots:
     - {
         startTime: "9:00 AM",
-        endTime: "12:35 PM",
+        endTime: "11:35 AM",
         sessionIds: [203]
+    }
+    - {
+        startTime: "11:35 AM",
+        endTime: "12:35 PM",
+        sessionIds: [000.3]
     }
     - {
         startTime: "12:35 PM",
@@ -286,8 +301,13 @@
   timeslots:
     - {
         startTime: "9:00 AM",
-        endTime: "12:35 PM",
+        endTime: "11:35 AM",
         sessionIds: [204]
+    }
+    - {
+        startTime: "11:35 AM",
+        endTime: "12:35 PM",
+        sessionIds: [000.5]
     }
     - {
         startTime: "12:35 PM",

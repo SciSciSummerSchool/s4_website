@@ -37,7 +37,6 @@
   subtype: lecture
   speakers: 
   language: en
-
 -
   id: 000.3
   title: "Group session with Mentor"
@@ -45,7 +44,20 @@
   subtype: workshop
   speakers: 
   language: en
-
+-
+  id: 000.4
+  title: "Q & A Panel"
+  description: ""
+  subtype: workshop
+  speakers: [9]
+  language: en
+-
+  id: 000.5
+  title: "Q & A Panel"
+  description: ""
+  subtype: workshop
+  speakers: [10]
+  language: en
 
 -
   id: 101
