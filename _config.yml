@@ -13,8 +13,8 @@ exclude: ['/automation/', 'README.md', 'LICENSE.txt', 'CNAME']
 title: "Science of Science Summer School"
 email: "zyi103@syr.edu"
 description: ""
-baseurl: "/s4_website"
-url: "https://SciSciSummerSchool.github.io/" # temp link
+baseurl: ""
+url: "http://s4.scienceofscience.org/" # temp link
 permalink: "/announcement/:title"
 # googleAnalyticsTrackingId: "UA-43643469-5"
 # googleAnalyticsSiteUrl: "gdg-x.github.io"
