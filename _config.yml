@@ -12,7 +12,7 @@ exclude: ['/automation/', 'README.md', 'LICENSE.txt', 'CNAME']
 # Site Settings
 title: "Science of Science Summer School"
 email: "zyi103@syr.edu"
-description: ""
+description: "NSF-funded virtual summer school. Free. More info on the website!"
 baseurl: ""
 url: "http://s4.scienceofscience.org/" # temp link
 permalink: "/announcement/:title"
