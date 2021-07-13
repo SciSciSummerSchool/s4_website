@@ -4164,14 +4164,15 @@ nav li a:hover {
     width: 100%;
 }
 
-.partners img.hover{
+.partners img.grey {
+    width: 100%;
     -webkit-transition: all 0.3s;
     transition: all 0.3s;
     -webkit-filter: grayscale(1);
     filter: grayscale(1)
 }
 
-.partners img.hover:hover {
+.partners img.grey:hover {
     -webkit-filter: grayscale(0);
     filter: grayscale(0)
 }
