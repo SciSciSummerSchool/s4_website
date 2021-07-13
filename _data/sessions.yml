@@ -10,12 +10,12 @@
   service: true
 -
   id: 401
-  title: "Group Workshop 1"
-  description: "..."
+  title: "Group Workshop"
+  description: " "
 
 -
   id: 402
-  title: "Group Workshop 2"
+  title: "Group Workshop"
 
 -
   id: 403

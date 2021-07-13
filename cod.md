@@ -3,6 +3,7 @@ layout: post
 title: Code of Conduct
 permalink: /cod/
 isStaticPost: true
+color: "#0c233f"
 ---
 
 ### The S4 Conduct Policy

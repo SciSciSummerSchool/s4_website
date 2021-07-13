@@ -110,7 +110,7 @@
   title: "Assistant Professor in the School of Information Studies at Syracuse University"
   bio: "Daniel Acuña is an Assistant Professor in the School of Information Studies at Syracuse University, Syracuse, NY. The goal of his current research is to understand decision making in science—from helping hiring committees to predict future academic success to removing the potential biases that scientists and funding agencies commit during peer review."
   thumbnailUrl: daniel.png
-  rockstar: true
+  speaker: true
   social: 
     - {name: "site", link: "https://acuna.io/"}
     - {name: "twitter", link: "https://twitter.com/daniel_akuna"}
@@ -124,14 +124,14 @@
   title: "Associate Professor of Otolaryngology - Head and Neck Surgery, School of Medicine"
   bio: "Stephen David joined the OHSU faculty in February 2012. Before coming to OHSU, he received his Ph.D. in Bioengineering from the University of California, Berkeley in 2006 and subsequently completed postdoctoral work in the Institute for Systems Research at the University of Maryland, College Park."
   thumbnailUrl: stephen.jpg
-  rockstar: true
+  speaker: true
   social: 
     - {name: "site", link: "https://www.ohsu.edu/people/stephen-v-david-phd"}
 -
   id: 11
   name: "Luís A. Nunes"
   surname: "Amaral"
-  company: "Northwestern Institute on Complex Systems"
+  company: "Northwestern Institute"
   title: "co-Director, Northwestern Institute on Complex Systems Professor of Chemical & Biological Engineering"
   bio: "Professor Amaral, a native of Portugal, conducts and directs research that provides insight into the emergence, evolution, and stability of complex social and biological systems. His research aims to address some of the most pressing challenges facing human societies and the world’s ecosystems, including the mitigation of errors in healthcare settings, the characterization of the conditions fostering innovation and creativity, or the growth limits imposed by sustainability."
   thumbnailUrl: luis.png
@@ -146,7 +146,7 @@
   title: "Bill & Lewis Suit Professor School of Information University of Texas at Austin"
   bio: "Dr. Ying Ding is Bill & Lewis Suit Professor at School of Information, University of Texas at Austin. Before that, she was a professor and director of graduate studies for data science program at School of Informatics, Computing, and Engineering at Indiana University. She has led the effort to develop the online data science graduate program for Indiana University. She also worked as a senior researcher at Department of Computer Science, University of Innsburck (Austria) and Free University of Amsterdam (the Netherlands). "
   thumbnailUrl: ying.jpg
-  speaker: true
+  rockstar: true
   social: 
     - {name: "site", link: "https://yingding.ischool.utexas.edu/"}
 -
