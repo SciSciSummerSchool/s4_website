@@ -7,7 +7,7 @@
     - {
     	startTime: "9:00 AM",
     	endTime: "11:00 AM",
-    	sessionIds: [001]
+    	sessionIds: [101]
     }
     - {
         startTime: "11:00 AM",
@@ -43,7 +43,7 @@
     - {
     	startTime: "9:00 AM",
     	endTime: "9:45 AM",
-    	sessionIds: [002]
+    	sessionIds: [102]
     }
     - {
         startTime: "9:45 AM",
@@ -79,7 +79,7 @@
     - {
     	startTime: "9:00 AM",
     	endTime: "9:45 AM",
-    	sessionIds: [003]
+    	sessionIds: [103]
     }
     - {
         startTime: "9:45 AM",
@@ -115,7 +115,7 @@
     - {
     	startTime: "9:00 AM",
     	endTime: "9:45 AM",
-    	sessionIds: [004]
+    	sessionIds: [104]
     }
     - {
         startTime: "9:45 AM",
@@ -151,7 +151,7 @@
     - {
     	startTime: "9:00 AM",
     	endTime: "9:45 AM",
-    	sessionIds: [005]
+    	sessionIds: [105]
     }
     - {
         startTime: "9:45 AM",
@@ -178,3 +178,147 @@
         endTime: "12:30 AM*",
         sessionIds: [404, 402]
     }
+
+
+
+## week 2
+
+- 
+  date: "2021-08-02"
+  dateReadable: "Aug 02"
+  tracks: 
+    - {title: "Events", color: "#03a9f4"}
+  timeslots:
+    - {
+        startTime: "9:00 AM",
+        endTime: "12:35 PM",
+        sessionIds: [201]
+    }
+    - {
+        startTime: "12:35 PM",
+        endTime: "2:15 PM",
+        sessionIds: [503]
+    }
+    - {
+        startTime: "3:30 PM",
+        endTime: "4:30 PM",
+        sessionIds: [403, 404]
+    }
+    - {
+        startTime: "10:00 PM",
+        endTime: "11:00 PM",
+        sessionIds: [404, 403]
+    }
+- 
+  date: "2021-08-03"
+  dateReadable: "Aug 03"
+  tracks: 
+    - {title: "Events", color: "#03a9f4"}
+  timeslots:
+    - {
+        startTime: "9:00 AM",
+        endTime: "12:35 PM",
+        sessionIds: [202]
+    }
+    - {
+        startTime: "12:35 PM",
+        endTime: "2:15 PM",
+        sessionIds: [503]
+    }
+    - {
+        startTime: "3:30 PM",
+        endTime: "4:30 PM",
+        sessionIds: [403, 404]
+    }
+    - {
+        startTime: "10:00 PM",
+        endTime: "11:00 PM",
+        sessionIds: [404, 403]
+    }
+
+- 
+  date: "2021-08-04"
+  dateReadable: "Aug 04"
+  tracks: 
+    - {title: "Events", color: "#03a9f4"}
+  timeslots:
+    - {
+        startTime: "9:00 AM",
+        endTime: "12:35 PM",
+        sessionIds: [203]
+    }
+    - {
+        startTime: "12:35 PM",
+        endTime: "2:15 PM",
+        sessionIds: [503]
+    }
+    - {
+        startTime: "3:30 PM",
+        endTime: "4:30 PM",
+        sessionIds: [403, 404]
+    }
+    - {
+        startTime: "10:00 PM",
+        endTime: "11:00 PM",
+        sessionIds: [404, 403]
+    }
+
+- 
+  date: "2021-08-05"
+  dateReadable: "Aug 05"
+  tracks: 
+    - {title: "Events", color: "#03a9f4"}
+  timeslots:
+    - {
+        startTime: "9:00 AM",
+        endTime: "12:35 PM",
+        sessionIds: [204]
+    }
+    - {
+        startTime: "12:35 PM",
+        endTime: "2:15 PM",
+        sessionIds: [503]
+    }
+    - {
+        startTime: "3:30 PM",
+        endTime: "4:30 PM",
+        sessionIds: [403, 404]
+    }
+    - {
+        startTime: "10:00 PM",
+        endTime: "11:00 PM",
+        sessionIds: [404, 403]
+    }
+
+- 
+  date: "2021-08-06"
+  dateReadable: "Aug 06"
+  tracks: 
+    - {title: "Events", color: "#03a9f4"}
+  timeslots:
+    - {
+        startTime: "9:00 AM",
+        endTime: "9:05 AM",
+        sessionIds: [205]
+    }
+    - {
+        startTime: "9:05 AM",
+        endTime: "12:00 PM",
+        sessionIds: [206]
+    }
+    - {
+        startTime: "12:00 PM",
+        endTime: "1:00 PM",
+        sessionIds: [503]
+    }
+    - {
+        startTime: "1:00 PM",
+        endTime: "2:35 PM",
+        sessionIds: [206]
+    }
+    - {
+        startTime: "2:35 PM",
+        endTime: "3:35 PM",
+        sessionIds: [207]
+    }
+
