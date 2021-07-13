@@ -2,7 +2,7 @@
   date: "2021-07-26"
   dateReadable: "July 26"
   tracks: 
-    - {title: "Events", color: "#03a9f4"}
+    - {title: "Events (All times in Eastern Time)", color: "#03a9f4"}
   timeslots:
     - {
     	startTime: "9:00 AM",
@@ -31,14 +31,14 @@
     }
     - {
         startTime: "10:00 PM",
-        endTime: "12:00 AM",
+        endTime: "12:00 AM*",
         sessionIds: [404, 402]
     }
 - 
   date: "2021-07-27"
   dateReadable: "July 27"
   tracks: 
-    - {title: "Events", color: "#03a9f4"}
+    - {title: "Events (All times in Eastern Time)", color: "#03a9f4"}
   timeslots:
     - {
     	startTime: "9:00 AM",
@@ -67,14 +67,14 @@
     }
     - {
         startTime: "10:00 PM",
-        endTime: "12:00 AM",
+        endTime: "12:00 AM*",
         sessionIds: [404, 402]
     }
 - 
   date: "2021-07-28"
   dateReadable: "July 28"
   tracks: 
-    - {title: "Events", color: "#03a9f4"}
+    - {title: "Events (All times in Eastern Time)", color: "#03a9f4"}
   timeslots:
     - {
     	startTime: "9:00 AM",
@@ -103,14 +103,14 @@
     }
     - {
         startTime: "10:00 PM",
-        endTime: "12:00 AM",
+        endTime: "12:00 AM*",
         sessionIds: [404, 402]
     }
 - 
   date: "2021-07-29"
   dateReadable: "July 29"
   tracks: 
-    - {title: "Events", color: "#03a9f4"}
+    - {title: "Events (All times in Eastern Time)", color: "#03a9f4"}
   timeslots:
     - {
     	startTime: "9:00 AM",
@@ -139,14 +139,14 @@
     }
     - {
         startTime: "10:00 PM",
-        endTime: "12:00 AM",
+        endTime: "12:00 AM*",
         sessionIds: [404, 402]
     }
 - 
   date: "2021-07-30"
   dateReadable: "July 30"
   tracks: 
-    - {title: "Events", color: "#03a9f4"}
+    - {title: "Events (All times in Eastern Time)", color: "#03a9f4"}
   timeslots:
     - {
     	startTime: "9:00 AM",
@@ -175,7 +175,7 @@
     }
     - {
         startTime: "10:00 PM",
-        endTime: "12:00 AM",
+        endTime: "12:00 AM*",
         sessionIds: [404, 402]
     }
 
@@ -187,7 +187,7 @@
   date: "2021-08-02"
   dateReadable: "Aug 02"
   tracks: 
-    - {title: "Events", color: "#03a9f4"}
+    - {title: "Events (All times in Eastern Time)", color: "#03a9f4"}
   timeslots:
     - {
         startTime: "9:00 AM",
@@ -223,7 +223,7 @@
   date: "2021-08-03"
   dateReadable: "Aug 03"
   tracks: 
-    - {title: "Events", color: "#03a9f4"}
+    - {title: "Events (All times in Eastern Time)", color: "#03a9f4"}
   timeslots:
     - {
         startTime: "9:00 AM",
@@ -260,7 +260,7 @@
   date: "2021-08-04"
   dateReadable: "Aug 04"
   tracks: 
-    - {title: "Events", color: "#03a9f4"}
+    - {title: "Events (All times in Eastern Time)", color: "#03a9f4"}
   timeslots:
     - {
         startTime: "9:00 AM",
@@ -297,7 +297,7 @@
   date: "2021-08-05"
   dateReadable: "Aug 05"
   tracks: 
-    - {title: "Events", color: "#03a9f4"}
+    - {title: "Events (All times in Eastern Time)", color: "#03a9f4"}
   timeslots:
     - {
         startTime: "9:00 AM",
@@ -334,7 +334,7 @@
   date: "2021-08-06"
   dateReadable: "Aug 06"
   tracks: 
-    - {title: "Events", color: "#03a9f4"}
+    - {title: "Events (All times in Eastern Time)", color: "#03a9f4"}
   timeslots:
     - {
         startTime: "9:00 AM",
