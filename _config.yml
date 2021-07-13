@@ -67,9 +67,9 @@ heroButtons:
 # About Block
 aboutTitle: "About SoS Summer School"
 aboutBlock:
- - {title: "Lecture", image: "lecture.jpg", text: "Join our morning live Lecture week! Awesome speakers and lots of fun!" }
- - {title: "Workshops", image: "workshop.jpg", text: "Afternoon/Evening workshops, hands-on experience. Come and tame your favourite technology!" }
- - {title: "Summer School", image: "summer-school.jpg", text: "Meet the mentors!" }
+ - {title: "Lectures", image: "lecture.jpg", text: "Join our morning live Lecture week! Awesome speakers and lots of fun!" }
+ - {title: "Workshops", image: "workshop.jpg", text: "Afternoon/Evening workshops, hands-on experience." }
+ - {title: "Mentoring", image: "summer-school.jpg", text: "Meet the mentors!" }
 
 # Statistic Block
 # statisticBlockImage: "statistic.jpg"
