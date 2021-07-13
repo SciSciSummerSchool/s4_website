@@ -10,8 +10,8 @@ exclude: ['/automation/', 'README.md', 'LICENSE.txt', 'CNAME']
 
 
 # Site Settings
-title: "S4 Summer School"
-email: "deacuna@syr.edu"
+title: "Science of Science Summer School"
+email: "zyi103@syr.edu"
 description: ""
 baseurl: "/zeppelin"
 url: "https://zyi103.github.io/" # temp link

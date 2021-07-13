@@ -197,7 +197,7 @@
     - {
         startTime: "11:35 AM",
         endTime: "12:35 PM",
-        sessionIds: [000.4]
+        sessionIds: [201.1]
     }
     - {
         startTime: "12:35 PM",
@@ -233,7 +233,7 @@
     - {
         startTime: "11:35 AM",
         endTime: "12:35 PM",
-        sessionIds: [000.5]
+        sessionIds: [202.1]
     }
     - {
         startTime: "12:35 PM",
@@ -270,7 +270,7 @@
     - {
         startTime: "11:35 AM",
         endTime: "12:35 PM",
-        sessionIds: [000.4]
+        sessionIds: [203.1]
     }
     - {
         startTime: "12:35 PM",
@@ -307,7 +307,7 @@
     - {
         startTime: "11:35 AM",
         endTime: "12:35 PM",
-        sessionIds: [000.5]
+        sessionIds: [204.1]
     }
     - {
         startTime: "12:35 PM",

@@ -44,20 +44,7 @@
   subtype: workshop
   speakers: 
   language: en
--
-  id: 000.4
-  title: "Q & A Panel"
-  description: ""
-  subtype: workshop
-  speakers: [9]
-  language: en
--
-  id: 000.5
-  title: "Q & A Panel"
-  description: ""
-  subtype: workshop
-  speakers: [10]
-  language: en
+
 
 -
   id: 101
@@ -113,7 +100,13 @@
   language: en
   # presentation: "https://speakerdeck.com/gdglviv/dmytro-danylyk-android-l-animation"
   # video: "//www.youtube.com/embed/v3SCiUqI1yQ"
-
+-
+  id: 201.1
+  title: "Q & A Panel"
+  description: ""
+  subtype: workshop
+  speakers: [9,2,6,12]
+  language: en
 -
   id: 202
   title: "Speaker of the Day"
@@ -124,6 +117,13 @@
   # presentation: "https://speakerdeck.com/gdglviv/dmytro-danylyk-android-l-animation"
   # video: "//www.youtube.com/embed/v3SCiUqI1yQ"
 -
+  id: 202.1
+  title: "Q & A Panel"
+  description: ""
+  subtype: workshop
+  speakers: [10,8,1,11]
+  language: en
+-
   id: 203
   title: "Speaker of the Day"
   description: ""
@@ -133,6 +133,13 @@
   # presentation: "https://speakerdeck.com/gdglviv/dmytro-danylyk-android-l-animation"
   # video: "//www.youtube.com/embed/v3SCiUqI1yQ"
 -
+  id: 203.1
+  title: "Q & A Panel"
+  description: ""
+  subtype: workshop
+  speakers: [9,5,3,13]
+  language: en
+-
   id: 204
   title: "Speaker of the Day"
   description: ""
@@ -141,6 +148,13 @@
   language: en
   # presentation: "https://speakerdeck.com/gdglviv/dmytro-danylyk-android-l-animation"
   # video: "//www.youtube.com/embed/v3SCiUqI1yQ"
+-
+  id: 204.1
+  title: "Q & A Panel"
+  description: ""
+  subtype: workshop
+  speakers: [10,4,7,14]
+  language: en
 -
   id: 205
   title: "S4 Presentation Starts!"
