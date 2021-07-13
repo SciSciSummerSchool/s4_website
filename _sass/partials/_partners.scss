@@ -16,6 +16,8 @@
     }
     img {
         width: 100%;
+    }
+    .gray {
         transition: $base-transition;
         filter: grayscale(1);
         &:hover {
