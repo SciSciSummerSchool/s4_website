@@ -173,6 +173,17 @@
     - {name: "site", link: "http://jianqin.metadataetc.org/"}
 -
   id: 15
+  name: "Lucy"
+  surname: "Wang"
+  company: "Allen Institute for AI (AI2)"
+  title: "Postdoctoral Investigator, Allen Institute for AI (AI2)"
+  bio: "I am a Postdoctoral Investigator at the Allen Institute for AI (AI2) in the Semantic Scholar research group. I work on KR and biomedical ontologies, text mining and NLP for biomedical and scientific text, open access, and meta-science. I completed my PhD in the Department of Biomedical Informatics and Medical Education (BIME) at the University of Washington in Seattle, WA. I also hold degrees in Biomedical Engineering and Physics from Johns Hopkins and MIT respectively."
+  thumbnailUrl: lucy.jpg
+  speaker: true
+  social: 
+    - {name: "site", link: "https://www.llwang.net/"}
+-
+  id: 16
   name: "Lizhen"
   surname: "Liang"
   title: "PhD. at Syracuse University"
@@ -181,7 +192,7 @@
   social: 
     - {name: "github", link: "https://github.com/LiamLiang"}
 -
-  id: 16
+  id: 17
   name: "Qing"
   surname: "Ke"
   company: "Syracuse University"

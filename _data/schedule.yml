@@ -6,8 +6,13 @@
   timeslots:
     - {
     	startTime: "9:00 AM",
-    	endTime: "12:30 PM",
+    	endTime: "11:00 AM",
     	sessionIds: [001]
+    }
+    - {
+        startTime: "11:00 AM",
+        endTime: "12:30 PM",
+        sessionIds: [000.1]
     }
     - {
         startTime: "12:30 PM",
@@ -16,13 +21,18 @@
     }
     - {
         startTime: "1:30 PM",
+        endTime: "2:15 PM",
+        sessionIds: [000.2]
+    }
+    - {
+        startTime: "2:30 PM",
         endTime: "5:00 PM",
-        sessionIds: [201, 404]
+        sessionIds: [401, 404]
     }
     - {
         startTime: "10:00 PM",
-        endTime: "1:30 AM*",
-        sessionIds: [404, 202]
+        endTime: "12:30 AM*",
+        sessionIds: [404, 402]
     }
 - 
   date: "2021-07-27"
@@ -32,23 +42,33 @@
   timeslots:
     - {
     	startTime: "9:00 AM",
-    	endTime: "1:00 PM",
+    	endTime: "9:45 AM",
     	sessionIds: [002]
     }
     - {
+        startTime: "9:45 AM",
+        endTime: "12:30 PM",
+        sessionIds: [000.1]
+    }
+    - {
+        startTime: "11:15 AM",
+        endTime: "1:00 PM",
+        sessionIds: [000.2]
+    }
+    - {
         startTime: "1:00 PM",
-        endTime: "1:30 PM",
+        endTime: "2:30 PM",
         sessionIds: [503]
     }
     - {
-        startTime: "1:30 PM",
+        startTime: "2:30 PM",
         endTime: "5:00 PM",
-        sessionIds: [201, 404]
+        sessionIds: [401, 404]
     }
     - {
         startTime: "10:00 PM",
-        endTime: "1:30 AM*",
-        sessionIds: [404, 202]
+        endTime: "12:30 AM*",
+        sessionIds: [404, 402]
     }
 - 
   date: "2021-07-28"
@@ -58,23 +78,33 @@
   timeslots:
     - {
     	startTime: "9:00 AM",
-    	endTime: "1:00 PM",
+    	endTime: "9:45 AM",
     	sessionIds: [003]
     }
     - {
+        startTime: "9:45 AM",
+        endTime: "11:15 AM",
+        sessionIds: [000.1]
+    }
+    - {
+        startTime: "11:30 AM",
+        endTime: "1:00 PM",
+        sessionIds: [000.2]
+    }
+    - {
         startTime: "1:00 PM",
-        endTime: "1:30 PM",
+        endTime: "2:30 PM",
         sessionIds: [503]
     }
     - {
-        startTime: "1:30 PM",
+        startTime: "2:30 PM",
         endTime: "5:00 PM",
-        sessionIds: [201, 404]
+        sessionIds: [401, 404]
     }
     - {
         startTime: "10:00 PM",
-        endTime: "1:30 AM*",
-        sessionIds: [404, 202]
+        endTime: "12:30 AM*",
+        sessionIds: [404, 402]
     }
 - 
   date: "2021-07-29"
@@ -84,28 +114,33 @@
   timeslots:
     - {
     	startTime: "9:00 AM",
-    	endTime: "10:00 AM",
-    	sessionIds: [104]
-    }
-    - {
-    	startTime: "10:00 AM",
-    	endTime: "1:00 PM",
+    	endTime: "9:45 AM",
     	sessionIds: [004]
     }
     - {
+        startTime: "9:45 AM",
+        endTime: "11:15 AM",
+        sessionIds: [000.1]
+    }
+    - {
+        startTime: "11:30 AM",
+        endTime: "1:00 PM",
+        sessionIds: [000.2]
+    }
+    - {
         startTime: "1:00 PM",
-        endTime: "1:30 PM",
+        endTime: "2:30 PM",
         sessionIds: [503]
     }
     - {
-        startTime: "1:30 PM",
+        startTime: "2:30 PM",
         endTime: "5:00 PM",
-        sessionIds: [201, 404]
+        sessionIds: [401, 404]
     }
     - {
         startTime: "10:00 PM",
-        endTime: "1:30 AM*",
-        sessionIds: [404, 202]
+        endTime: "12:30 AM*",
+        sessionIds: [404, 402]
     }
 - 
   date: "2021-07-30"
@@ -115,21 +150,31 @@
   timeslots:
     - {
     	startTime: "9:00 AM",
-    	endTime: "1:00 PM",
+    	endTime: "9:45 AM",
     	sessionIds: [005]
     }
     - {
+        startTime: "9:45 AM",
+        endTime: "11:15 AM",
+        sessionIds: [000.1]
+    }
+    - {
+        startTime: "11:30 AM",
+        endTime: "1:00 PM",
+        sessionIds: [000.2]
+    }
+    - {
         startTime: "1:00 PM",
-        endTime: "1:30 PM",
+        endTime: "2:30 PM",
         sessionIds: [503]
     }
     - {
-        startTime: "1:30 PM",
+        startTime: "2:30 PM",
         endTime: "5:00 PM",
-        sessionIds: [201, 404]
+        sessionIds: [401, 404]
     }
     - {
         startTime: "10:00 PM",
-        endTime: "1:30 AM*",
-        sessionIds: [404, 202]
+        endTime: "12:30 AM*",
+        sessionIds: [404, 402]
     }

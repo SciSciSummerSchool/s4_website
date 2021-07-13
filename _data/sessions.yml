@@ -9,16 +9,33 @@
   title: "Lunch Break"
   service: true
 -
-  id: 201
+  id: 401
   title: "Group Workshop 1"
   description: "..."
 
 -
-  id: 202
+  id: 402
   title: "Group Workshop 2"
+
+
+
+-
+  id: 000.1
+  title: "Lecture 1"
+  description: ""
+  subtype: lecture
+  speakers: 
+  language: en
+-
+  id: 000.2
+  title: "Lecture 2"
+  description: ""
+  subtype: lecture
+  speakers: 
+  language: en
 -
   id: 001
-  title: "Introduction, ice breaker, and technology setup"
+  title: "Opening and introduction to science of science"
   description: "We will go through the basic technology: Jupyterlab, Python, Numpy, Pandas, scikit-learn. Coding: Data loading, cleaning, exploration"
   subtype: workshop
   speakers: 
@@ -27,7 +44,7 @@
   # video: "//www.youtube.com/embed/v3SCiUqI1yQ"
 -
   id: 002
-  title: "Statistical learning, machine learning, artificial intelligence Model evaluation (cross-validation, bias-variance tradeoff)"
+  title: "Overview of machine learning in science of science"
   description: ""
   subtype: presentation
   speakers: 
@@ -39,31 +56,22 @@
   title: "Network science"
   description: ""
   subtype: presentation
-  speakers: 
+  speakers: [10,17]
   language: en
   # presentation: "https://speakerdeck.com/gdglviv/dmytro-danylyk-android-l-animation"
   # video: "//www.youtube.com/embed/v3SCiUqI1yQ"
 -
   id: 004
-  title: "Deep learning"
+  title: "Presentation by Lucy Wang (AI2)"
   description: ""
   subtype: presentation
-  speakers: 
-  language: en
-  # presentation: "https://speakerdeck.com/gdglviv/dmytro-danylyk-android-l-animation"
-  # video: "//www.youtube.com/embed/v3SCiUqI1yQ"
--
-  id: 104
-  title: "Deep learning speaker"
-  description: ""
-  subtype: presentation
-  speakers: [9]
+  speakers: [15]
   language: en
   # presentation: "https://speakerdeck.com/gdglviv/dmytro-danylyk-android-l-animation"
   # video: "//www.youtube.com/embed/v3SCiUqI1yQ"
 -
   id: 005
-  title: "Causal inference"
+  title: "Causal learning research talk"
   description: ""
   subtype: presentation
   speakers: 
