@@ -29,21 +29,21 @@
   description: ""
   subtype: lecture
   speakers: 
-  language: en
+  
 -
   id: 000.2
   title: "Lecture 2"
   description: ""
   subtype: lecture
   speakers: 
-  language: en
+  
 -
   id: 000.3
   title: "Group session with Mentor"
   description: ""
   subtype: workshop
   speakers: 
-  language: en
+  
 
 
 -
@@ -52,7 +52,7 @@
   description: "We will go through the basic technology: Jupyterlab, Python, Numpy, Pandas, scikit-learn. Coding: Data loading, cleaning, exploration"
   subtype: workshop
   speakers: 
-  language: en
+  
   # complexity: "Intermediate"
   # video: "//www.youtube.com/embed/v3SCiUqI1yQ"
 -
@@ -61,7 +61,7 @@
   description: ""
   subtype: presentation
   speakers: 
-  language: en
+  
   # presentation: "https://speakerdeck.com/gdglviv/dmytro-danylyk-android-l-animation"
   # video: "//www.youtube.com/embed/v3SCiUqI1yQ"
 -
@@ -70,7 +70,7 @@
   description: ""
   subtype: presentation
   speakers: [10,17]
-  language: en
+  
   # presentation: "https://speakerdeck.com/gdglviv/dmytro-danylyk-android-l-animation"
   # video: "//www.youtube.com/embed/v3SCiUqI1yQ"
 -
@@ -79,7 +79,7 @@
   description: ""
   subtype: presentation
   speakers: [15]
-  language: en
+  
   # presentation: "https://speakerdeck.com/gdglviv/dmytro-danylyk-android-l-animation"
   # video: "//www.youtube.com/embed/v3SCiUqI1yQ"
 -
@@ -88,7 +88,7 @@
   description: ""
   subtype: presentation
   speakers: 
-  language: en
+  
   # presentation: "https://speakerdeck.com/gdglviv/dmytro-danylyk-android-l-animation"
   # video: "//www.youtube.com/embed/v3SCiUqI1yQ"
 -
@@ -97,7 +97,7 @@
   description: ""
   subtype: presentation
   speakers: [2,6,12]
-  language: en
+  
   # presentation: "https://speakerdeck.com/gdglviv/dmytro-danylyk-android-l-animation"
   # video: "//www.youtube.com/embed/v3SCiUqI1yQ"
 -
@@ -106,14 +106,14 @@
   description: ""
   subtype: workshop
   speakers: [9,2,6,12]
-  language: en
+  
 -
   id: 202
   title: "Speakers of the Day"
   description: ""
   subtype: presentation
   speakers: [8,1,11]
-  language: en
+  
   # presentation: "https://speakerdeck.com/gdglviv/dmytro-danylyk-android-l-animation"
   # video: "//www.youtube.com/embed/v3SCiUqI1yQ"
 -
@@ -122,14 +122,14 @@
   description: ""
   subtype: workshop
   speakers: [10,8,1,11]
-  language: en
+  
 -
   id: 203
   title: "Speakers of the Day"
   description: ""
   subtype: presentation
   speakers: [5,3,13]
-  language: en
+  
   # presentation: "https://speakerdeck.com/gdglviv/dmytro-danylyk-android-l-animation"
   # video: "//www.youtube.com/embed/v3SCiUqI1yQ"
 -
@@ -138,14 +138,14 @@
   description: ""
   subtype: workshop
   speakers: [9,5,3,13]
-  language: en
+  
 -
   id: 204
   title: "Speakers of the Day"
   description: ""
   subtype: presentation
   speakers: [4,7,14]
-  language: en
+  
   # presentation: "https://speakerdeck.com/gdglviv/dmytro-danylyk-android-l-animation"
   # video: "//www.youtube.com/embed/v3SCiUqI1yQ"
 -
@@ -154,14 +154,14 @@
   description: ""
   subtype: workshop
   speakers: [10,4,7,14]
-  language: en
+  
 -
   id: 205
   title: "S4 Presentation Starts!"
   description: ""
   subtype: presentation
   speakers: 
-  language: en
+  
   # presentation: "https://speakerdeck.com/gdglviv/dmytro-danylyk-android-l-animation"
   # video: "//www.youtube.com/embed/v3SCiUqI1yQ"
 -
@@ -170,7 +170,7 @@
   description: ""
   subtype: presentation
   speakers: 
-  language: en
+  
   # presentation: "https://speakerdeck.com/gdglviv/dmytro-danylyk-android-l-animation"
   # video: "//www.youtube.com/embed/v3SCiUqI1yQ"
 -
@@ -179,6 +179,6 @@
   description: ""
   subtype: presentation
   speakers: 
-  language: en
+  
   # presentation: "https://speakerdeck.com/gdglviv/dmytro-danylyk-android-l-animation"
   # video: "//www.youtube.com/embed/v3SCiUqI1yQ"

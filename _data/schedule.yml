@@ -31,7 +31,7 @@
     }
     - {
         startTime: "10:00 PM",
-        endTime: "12:00 AM*",
+        endTime: "12:00 AM",
         sessionIds: [404, 402]
     }
 - 
@@ -67,7 +67,7 @@
     }
     - {
         startTime: "10:00 PM",
-        endTime: "12:00 AM*",
+        endTime: "12:00 AM",
         sessionIds: [404, 402]
     }
 - 
@@ -103,7 +103,7 @@
     }
     - {
         startTime: "10:00 PM",
-        endTime: "12:00 AM*",
+        endTime: "12:00 AM",
         sessionIds: [404, 402]
     }
 - 
@@ -139,7 +139,7 @@
     }
     - {
         startTime: "10:00 PM",
-        endTime: "12:00 AM*",
+        endTime: "12:00 AM",
         sessionIds: [404, 402]
     }
 - 
@@ -175,7 +175,7 @@
     }
     - {
         startTime: "10:00 PM",
-        endTime: "12:00 AM*",
+        endTime: "12:00 AM",
         sessionIds: [404, 402]
     }
 
