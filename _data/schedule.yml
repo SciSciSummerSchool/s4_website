@@ -41,7 +41,7 @@
     }
 - 
   date: "2021-07-27"
-  dateReadable: "July 27"
+  dateReadable: "Tue July 27"
   tracks: 
     - {title: "Events (All times in Eastern Time)", color: "#03a9f4"}
   timeslots:
@@ -77,7 +77,7 @@
     }
 - 
   date: "2021-07-28"
-  dateReadable: "July 28"
+  dateReadable: "Wed July 28"
   tracks: 
     - {title: "Events (All times in Eastern Time)", color: "#03a9f4"}
   timeslots:
@@ -113,7 +113,7 @@
     }
 - 
   date: "2021-07-29"
-  dateReadable: "July 29"
+  dateReadable: "Thu July 29"
   tracks: 
     - {title: "Events (All times in Eastern Time)", color: "#03a9f4"}
   timeslots:
@@ -149,7 +149,7 @@
     }
 - 
   date: "2021-07-30"
-  dateReadable: "July 30"
+  dateReadable: "Fri July 30"
   tracks: 
     - {title: "Events (All times in Eastern Time)", color: "#03a9f4"}
   timeslots:
@@ -190,7 +190,7 @@
 
 - 
   date: "2021-08-02"
-  dateReadable: "Aug 02"
+  dateReadable: "Mon Aug 02"
   tracks: 
     - {title: "Events (All times in Eastern Time)", color: "#03a9f4"}
   timeslots:
@@ -257,7 +257,7 @@
     }
 - 
   date: "2021-08-03"
-  dateReadable: "Aug 03"
+  dateReadable: "Tue Aug 03"
   tracks: 
     - {title: "Events (All times in Eastern Time)", color: "#03a9f4"}
   timeslots:
@@ -325,7 +325,7 @@
 
 - 
   date: "2021-08-04"
-  dateReadable: "Aug 04"
+  dateReadable: "Wed Aug 04"
   tracks: 
     - {title: "Events (All times in Eastern Time)", color: "#03a9f4"}
   timeslots:
@@ -393,7 +393,7 @@
 
 - 
   date: "2021-08-05"
-  dateReadable: "Aug 05"
+  dateReadable: "Thu Aug 05"
   tracks: 
     - {title: "Events (All times in Eastern Time)", color: "#03a9f4"}
   timeslots:
@@ -461,7 +461,7 @@
 
 - 
   date: "2021-08-06"
-  dateReadable: "Aug 06"
+  dateReadable: "Fri Aug 06"
   tracks: 
     - {title: "Events (All times in Eastern Time)", color: "#03a9f4"}
   timeslots:

@@ -191,8 +191,8 @@
   speakers: [8]
 -
   id: 2023
-  title: "Title TBA"
-  description: " "
+  title: "Reproducibility: how to say what you mean, and explain why it matters"
+  description: "Reproducibility means many things to many people. This session will cover 1) various uses of ‘replication’ and ‘reproducibility’ in different communities 2) how Nature commissions and edits opinion articles on improving science and 3) how to pitch and write articles for a general scientific audience"
   subtype: presentation
   speakers: [1]
 -
