@@ -25,14 +25,19 @@
 
 -
   id: 0001
-  title: "Lecture 1"
+  title: "Lecture Block 1"
   description: " "
   subtype: lecture
   speakers: 
-  
+-
+  id: 1011
+  title: "Students Introduction"
+  description: " "
+  subtype: lecture
+  speakers: 
 -
   id: 0002
-  title: "Lecture 2"
+  title: "Lecture Block 2"
   description: " "
   subtype: lecture
   speakers: 
@@ -40,61 +45,61 @@
 ## group sessions
 -
   id: 1003
-  title: "Group session with Mentor"
+  title: "Group sessions with mentors"
   description: " "
   subtype: workshop
-  speakers: [6]
+  speakers: [6,12]
 -
   id: 2003
-  title: "Group session with Mentor"
+  title: "Group sessions with mentors"
   description: " "
   subtype: workshop
-  speakers: 
+  speakers: [12]
 -
   id: 3003
-  title: "Group session with Mentor"
+  title: "Group sessions with mentors"
   description: " "
   subtype: workshop
-  speakers: 
+  speakers: [12,11] 
 -
   id: 4003
-  title: "Group session with Mentor"
+  title: "Group sessions with mentors"
   description: " "
   subtype: workshop
-  speakers: 
+  speakers: [12]
 -
   id: 5003
-  title: "Group session with Mentor"
+  title: "Group sessions with mentors"
   description: " "
   subtype: workshop
   speakers: [3,13]
 -
   id: 6003
-  title: "Group session with Mentor"
+  title: "Group sessions with mentors"
   description: " "
   subtype: workshop
   speakers: [3]
 -
   id: 7003
-  title: "Group session with Mentor"
+  title: "Group sessions with mentors"
   description: " "
   subtype: workshop
   speakers: [3,14]
 -
   id: 8003
-  title: "Group session with Mentor"
+  title: "Group sessions with mentors"
   description: " "
   subtype: workshop
   speakers: [3,14]
 -
   id: 9003
-  title: "Group session with Mentor"
+  title: "Group sessions with mentors"
   description: " "
   subtype: workshop
   speakers: [14]
 -
   id: 10003
-  title: "Group session with Mentor"
+  title: "Group sessions with mentors"
   description: " "
   subtype: workshop
   speakers: [14]
@@ -105,7 +110,7 @@
   title: "Opening and introduction to science of science"
   description: "We will go through the basic technology: Jupyterlab, Python, Numpy, Pandas, scikit-learn. Coding: Data loading, cleaning, exploration"
   subtype: workshop
-  speakers: 
+  speakers: [9, 10]
   
   # complexity: "Intermediate"
   # video: "//www.youtube.com/embed/v3SCiUqI1yQ"
@@ -267,7 +272,7 @@
   # video: "//www.youtube.com/embed/v3SCiUqI1yQ"
 -
   id: 205
-  title: "Project Presentation"
+  title: "Project Presentations"
   description: " "
   subtype: presentation
   speakers: 

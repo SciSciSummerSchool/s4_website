@@ -1,6 +1,6 @@
 - 
   date: "2021-07-26"
-  dateReadable: "July 26"
+  dateReadable: "Mon July 26"
   tracks: 
     - {title: "Events (All times in Eastern Time)", color: "#03a9f4"}
   timeslots:
@@ -10,7 +10,12 @@
     	sessionIds: [101]
     }
     - {
-        startTime: "9:45 AM",
+        startTime: "10:00 AM",
+        endTime: "11:00 AM",
+        sessionIds: [1011]
+    }
+    - {
+        startTime: "11:00 AM",
         endTime: "12:30 PM",
         sessionIds: [0001]
     }
@@ -31,7 +36,7 @@
     }
     - {
         startTime: "10:00 PM",
-        endTime: "12:00 AM*",
+        endTime: "12:00 AM",
         sessionIds: [404, 402]
     }
 - 
@@ -67,7 +72,7 @@
     }
     - {
         startTime: "10:00 PM",
-        endTime: "12:00 AM*",
+        endTime: "12:00 AM",
         sessionIds: [404, 402]
     }
 - 
@@ -103,7 +108,7 @@
     }
     - {
         startTime: "10:00 PM",
-        endTime: "12:00 AM*",
+        endTime: "12:00 AM",
         sessionIds: [404, 402]
     }
 - 
@@ -139,7 +144,7 @@
     }
     - {
         startTime: "10:00 PM",
-        endTime: "12:00 AM*",
+        endTime: "12:00 AM",
         sessionIds: [404, 402]
     }
 - 
@@ -175,7 +180,7 @@
     }
     - {
         startTime: "10:00 PM",
-        endTime: "12:00 AM*",
+        endTime: "12:00 AM",
         sessionIds: [404, 402]
     }
 
