@@ -37,13 +37,67 @@
   subtype: lecture
   speakers: 
   
+## group sessions
 -
-  id: 0003
+  id: 1003
+  title: "Group session with Mentor"
+  description: " "
+  subtype: workshop
+  speakers: [6]
+-
+  id: 2003
   title: "Group session with Mentor"
   description: " "
   subtype: workshop
   speakers: 
-  
+-
+  id: 3003
+  title: "Group session with Mentor"
+  description: " "
+  subtype: workshop
+  speakers: 
+-
+  id: 4003
+  title: "Group session with Mentor"
+  description: " "
+  subtype: workshop
+  speakers: 
+-
+  id: 5003
+  title: "Group session with Mentor"
+  description: " "
+  subtype: workshop
+  speakers: [3,13]
+-
+  id: 6003
+  title: "Group session with Mentor"
+  description: " "
+  subtype: workshop
+  speakers: [3]
+-
+  id: 7003
+  title: "Group session with Mentor"
+  description: " "
+  subtype: workshop
+  speakers: [3,14]
+-
+  id: 8003
+  title: "Group session with Mentor"
+  description: " "
+  subtype: workshop
+  speakers: [3,14]
+-
+  id: 9003
+  title: "Group session with Mentor"
+  description: " "
+  subtype: workshop
+  speakers: [14]
+-
+  id: 10003
+  title: "Group session with Mentor"
+  description: " "
+  subtype: workshop
+  speakers: [14]
 
 
 -
@@ -98,19 +152,19 @@
 
 -
   id: 2012
-  title: "Speakers of the Day"
+  title: "Title TBA"
   description: " "
   subtype: presentation
   speakers: [2]
 -
   id: 2013
-  title: "Speakers of the Day"
+  title: "Title TBA"
   description: " "
   subtype: presentation
   speakers: [6]
 -
   id: 2014
-  title: "Speakers of the Day"
+  title: "Title TBA"
   description: " "
   subtype: presentation
   speakers: [12]
@@ -119,26 +173,26 @@
   # video: "//www.youtube.com/embed/v3SCiUqI1yQ"
 -
   id: 2011
-  title: "Q & A Panel"
+  title: "Discussion Panel"
   description: " "
   subtype: workshop
   speakers: [9,2,6,12]
   
 -
   id: 2022
-  title: "Speakers of the Day"
+  title: "Title TBA"
   description: " "
   subtype: presentation
   speakers: [8]
 -
   id: 2023
-  title: "Speakers of the Day"
+  title: "Title TBA"
   description: " "
   subtype: presentation
   speakers: [1]
 -
   id: 2024
-  title: "Speakers of the Day"
+  title: "Title TBA"
   description: " "
   subtype: presentation
   speakers: [11]
@@ -147,14 +201,14 @@
   # video: "//www.youtube.com/embed/v3SCiUqI1yQ"
 -
   id: 2021
-  title: "Q & A Panel"
+  title: "Discussion Panel"
   description: " "
   subtype: workshop
   speakers: [10,8,1,11]
   
 -
   id: 2032
-  title: "Speakers of the Day"
+  title: "Title TBA"
   description: " "
   subtype: presentation
   speakers: [5]
@@ -172,38 +226,38 @@
   speakers: [13]
 -
   id: 2031
-  title: "Q & A Panel"
+  title: "Discussion Panel"
   description: " "
   subtype: workshop
   speakers: [9,5,3,13]
   
 -
   id: 2042
-  title: "Speakers of the Day"
+  title: "Title TBA"
   description: " "
   subtype: presentation
   speakers: [4]
 -
   id: 2043
-  title: "Speakers of the Day"
+  title: "Title TBA"
   description: " "
   subtype: presentation
   speakers: [7]
 -
   id: 2044
-  title: "Speakers of the Day"
+  title: "Title TBA"
   description: " "
   subtype: presentation
   speakers: [14]
 -
   id: 2041
-  title: "Q & A Panel"
-  description: "Q & A Panel"
+  title: "Discussion Panel"
+  description: "Discussion Panel"
   subtype: workshop
   speakers: [10,4,7,14]
   
 -
-  id: 205
+  id: 2051
   title: "S4 Presentation Starts!"
   description: " "
   subtype: presentation
@@ -212,7 +266,7 @@
   # presentation: "https://speakerdeck.com/gdglviv/dmytro-danylyk-android-l-animation"
   # video: "//www.youtube.com/embed/v3SCiUqI1yQ"
 -
-  id: 206
+  id: 205
   title: "Project Presentation"
   description: " "
   subtype: presentation

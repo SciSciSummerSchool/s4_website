@@ -226,9 +226,20 @@
     }
     - {
         startTime: "1:15 PM",
-        endTime: "3:30 PM",
-        sessionIds: [0003]
+        endTime: "2:15 PM",
+        sessionIds: [1003]
     }
+    - {
+        startTime: "2:15 PM",
+        endTime: "2:30 PM",
+        sessionIds: [307]
+    }
+    - {
+        startTime: "2:30 PM",
+        endTime: "3:30 PM",
+        sessionIds: [2003]
+    }
+
     - {
         startTime: "3:30 PM",
         endTime: "4:30 PM",
@@ -282,9 +293,20 @@
     }
     - {
         startTime: "1:15 PM",
-        endTime: "3:30 PM",
-        sessionIds: [0003]
+        endTime: "2:15 PM",
+        sessionIds: [3003]
     }
+    - {
+        startTime: "2:15 PM",
+        endTime: "2:30 PM",
+        sessionIds: [307]
+    }
+    - {
+        startTime: "2:30 PM",
+        endTime: "3:30 PM",
+        sessionIds: [4003]
+    }
+
     - {
         startTime: "3:30 PM",
         endTime: "4:30 PM",
@@ -339,9 +361,20 @@
     }
     - {
         startTime: "1:15 PM",
-        endTime: "3:30 PM",
-        sessionIds: [0003]
+        endTime: "2:15 PM",
+        sessionIds: [5003]
     }
+    - {
+        startTime: "2:15 PM",
+        endTime: "2:30 PM",
+        sessionIds: [307]
+    }
+    - {
+        startTime: "2:30 PM",
+        endTime: "3:30 PM",
+        sessionIds: [6003]
+    }
+
     - {
         startTime: "3:30 PM",
         endTime: "4:30 PM",
@@ -396,9 +429,20 @@
     }
     - {
         startTime: "1:15 PM",
-        endTime: "3:30 PM",
-        sessionIds: [0003]
+        endTime: "2:15 PM",
+        sessionIds: [7003]
     }
+    - {
+        startTime: "2:15 PM",
+        endTime: "2:30 PM",
+        sessionIds: [307]
+    }
+    - {
+        startTime: "2:30 PM",
+        endTime: "3:30 PM",
+        sessionIds: [8003]
+    }
+
     - {
         startTime: "3:30 PM",
         endTime: "4:30 PM",
@@ -419,12 +463,22 @@
     - {
         startTime: "9:00 AM",
         endTime: "9:05 AM",
-        sessionIds: [205]
+        sessionIds: [2051]
     }
     - {
         startTime: "9:05 AM",
-        endTime: "12:00 PM",
-        sessionIds: [206]
+        endTime: "10:00 AM",
+        sessionIds: [205]
+    }
+    - {
+        startTime: "10:00 AM",
+        endTime: "11:00 AM",
+        sessionIds: [9003, 205]
+    }
+    - {
+        startTime: "11:00 AM",
+        endTime: "12:00",
+        sessionIds: [10003, 205]
     }
     - {
         startTime: "12:00 PM",
@@ -434,7 +488,7 @@
     - {
         startTime: "1:00 PM",
         endTime: "2:35 PM",
-        sessionIds: [206]
+        sessionIds: [205]
     }
     - {
         startTime: "2:35 PM",
