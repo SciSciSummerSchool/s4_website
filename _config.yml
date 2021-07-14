@@ -15,7 +15,7 @@ email: "zyi103@syr.edu"
 description: "NSF-funded virtual summer school. Free. More info on the website!"
 baseurl: ""
 url: "http://s4.scienceofscience.org/" # temp link
-socialcardimg: "s4_socialmedia_large.png"
+socialcardimg: "/img/seo/s4_socialmedia_large.png"
 permalink: "/announcement/:title"
 # googleAnalyticsTrackingId: "UA-43643469-5"
 # googleAnalyticsSiteUrl: "gdg-x.github.io"
