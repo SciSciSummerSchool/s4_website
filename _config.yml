@@ -29,7 +29,7 @@ permalink: "/announcement/:title"
 # organizerLink: "https://scienceofscience.org/about/"
 
 # Head
-metaKeywords: "sos cd, science of science summer school, nsf, Statistical learning, machine learning, artificial intelligence"
+metaKeywords: "SOS CD, science of science summer school, nsf, Statistical learning, machine learning, artificial intelligence"
 # twitterAccount: "@DevFest"
 socialImageSrcGooglePlus: "/img/seo/s4_socialmedia_large.png"
 socialImageSrcTwitter: "/img/seo/s4_socialmedia_large.png"
@@ -181,8 +181,8 @@ footerBlocks:
  -
   title: "Links"
   links:
-   - {link: "https://scienceofscience.org/", text: "sos+cd Lab"}
-   - {link: "https://ischool.syr.edu/", text: "SU, School of Information Studies"}
+   - {link: "https://scienceofscience.org/", text: "SOS+CD Lab"}
+   - {link: "https://ischool.syr.edu/", text: "School of Information Studies at Syracuse University"}
  -
   title: "Contacts"
   links:
@@ -200,7 +200,7 @@ announcementCommentsEnabled: False
 discusShortName: "s4"
 
 # Speakers List Block
-showSessions: false
+showSessions: true
 
 # Team Block
 teamBlockTitle: "About us"

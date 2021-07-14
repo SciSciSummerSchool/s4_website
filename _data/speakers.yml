@@ -203,3 +203,14 @@
     - {name: "site", link: "https://qke.github.io/"}
     - {name: "github", link: "https://github.com/qke"}
     - {name: "twitter", link: "https://www.twitter.com/quingke"}
+-
+  id: 18
+  name: "Jianxuan"
+  surname: "Liu"
+  company: "Syracuse University"
+  title: "Assistant Professor, Department of Mathematics, Syracuse University"
+  bio: ""
+  thumbnailUrl: jianxuan.jpg
+  speaker: true
+  social: 
+    - {name: "site", link: "https://jliu193.expressions.syr.edu"}

@@ -1,6 +1,6 @@
 -
   id: 307
-  title: "Coffee Break"
+  title: "Short Break"
   place: "Hall"
   service: true
   description: "The best time to talk with speakers and attendees"
@@ -24,23 +24,23 @@
 
 
 -
-  id: 000.1
+  id: 0001
   title: "Lecture 1"
-  description: ""
+  description: " "
   subtype: lecture
   speakers: 
   
 -
-  id: 000.2
+  id: 0002
   title: "Lecture 2"
-  description: ""
+  description: " "
   subtype: lecture
   speakers: 
   
 -
-  id: 000.3
+  id: 0003
   title: "Group session with Mentor"
-  description: ""
+  description: " "
   subtype: workshop
   speakers: 
   
@@ -58,7 +58,7 @@
 -
   id: 102
   title: "Overview of machine learning in science of science"
-  description: ""
+  description: " "
   subtype: presentation
   speakers: 
   
@@ -67,7 +67,7 @@
 -
   id: 103
   title: "Network science"
-  description: ""
+  description: " "
   subtype: presentation
   speakers: [10,17]
   
@@ -75,8 +75,8 @@
   # video: "//www.youtube.com/embed/v3SCiUqI1yQ"
 -
   id: 104
-  title: "Presentation by Lucy Wang (AI2)"
-  description: ""
+  title: "Practical NLP and deep learning for scientific text mining"
+  description: "Keeping up with scientific literature is like drinking from a firehose. As more papers are published each year, automated methods for discovering, reading, and understanding the literature are needed to help us identify the latest and most applicable findings. This is especially the case in biomedical literature, where novel developments may have direct and immediate ramifications to patient care. In this talk, I will provide an overview of several projects that focus on scientific document understanding. I will discuss recent work on classifying text in scientific papers by combining document visual layout and semantics, which can produce high-fidelity, machine-readable representations of scientific papers that are useful for a variety of downstream applications. I will then provide several examples of how NLP and deep learning methods can be applied to specific problems in biomedical text mining such as relation extraction, fact checking, and multi-document summarization. These problems involve interactions between many documents, and the success of our models depends on our ability to accurately retrieve and extract information from all relevant documents. I will close with a discussion of ongoing challenges in this domain, and how we are hoping to address these challenges going forward."
   subtype: presentation
   speakers: [15]
   
@@ -85,80 +85,127 @@
 -
   id: 105
   title: "Causal learning research talk"
-  description: ""
+  description: " "
   subtype: presentation
-  speakers: 
+  speakers: [18]
   
   # presentation: "https://speakerdeck.com/gdglviv/dmytro-danylyk-android-l-animation"
   # video: "//www.youtube.com/embed/v3SCiUqI1yQ"
+- 
+  id: 200
+  title: "Opening"
+  subtype: presentation
+
 -
-  id: 201
+  id: 2012
   title: "Speakers of the Day"
-  description: ""
+  description: " "
   subtype: presentation
-  speakers: [2,6,12]
+  speakers: [2]
+-
+  id: 2013
+  title: "Speakers of the Day"
+  description: " "
+  subtype: presentation
+  speakers: [6]
+-
+  id: 2014
+  title: "Speakers of the Day"
+  description: " "
+  subtype: presentation
+  speakers: [12]
   
   # presentation: "https://speakerdeck.com/gdglviv/dmytro-danylyk-android-l-animation"
   # video: "//www.youtube.com/embed/v3SCiUqI1yQ"
 -
-  id: 201.1
+  id: 2011
   title: "Q & A Panel"
-  description: ""
+  description: " "
   subtype: workshop
   speakers: [9,2,6,12]
   
 -
-  id: 202
+  id: 2022
   title: "Speakers of the Day"
-  description: ""
+  description: " "
   subtype: presentation
-  speakers: [8,1,11]
+  speakers: [8]
+-
+  id: 2023
+  title: "Speakers of the Day"
+  description: " "
+  subtype: presentation
+  speakers: [1]
+-
+  id: 2024
+  title: "Speakers of the Day"
+  description: " "
+  subtype: presentation
+  speakers: [11]
   
   # presentation: "https://speakerdeck.com/gdglviv/dmytro-danylyk-android-l-animation"
   # video: "//www.youtube.com/embed/v3SCiUqI1yQ"
 -
-  id: 202.1
+  id: 2021
   title: "Q & A Panel"
-  description: ""
+  description: " "
   subtype: workshop
   speakers: [10,8,1,11]
   
 -
-  id: 203
+  id: 2032
   title: "Speakers of the Day"
-  description: ""
+  description: " "
   subtype: presentation
-  speakers: [5,3,13]
-  
-  # presentation: "https://speakerdeck.com/gdglviv/dmytro-danylyk-android-l-animation"
-  # video: "//www.youtube.com/embed/v3SCiUqI1yQ"
+  speakers: [5]
 -
-  id: 203.1
+  id: 2033
+  title: "Are self-citations a normal feature of knowledge accumulation or a perversion of research evaluation?"
+  description: "Science is a cumulative activity, in which past knowledge serves as a foundation for new knowledge. One of the mechanisms through which the cumulative nature of science manifests itself is the act of citing. However, citations are also central to research evaluation, thus creating incentive for researchers to cite their own work. Therefore, such self-citations have been one of the most constant criticism against the use of citation indicators for the measurement of research impact. Using a dataset containing millions of papers and disambiguated authors, this talk will examine the relative importance of self-citations and self-references in the scholarly communication landscape, their relationship with age and gender of authors, as well as their effects on various research evaluation indicators. It will also present the results of a comparison of the content of cited and citing papers, thus making it possible to test whether researchers cite their own work in order to inflate their impact indicators. The talk with conclude with a discussion of the role of self-citations in the research ecosystem."
+  subtype: presentation
+  speakers: [3]
+-
+  id: 2034
+  title: "Epistemicide and Epistemic Injustices in the Information Field"
+  description: "The information professions need a paradigmatic shift to examine the ways we have systematically undermined knowledge systems falling outside of Western traditions. Epistemicide is the killing, silencing, annihilation, or devaluing of a knowledge system. Epistemicide happens when epistemic injustices are persistent, systematic, and collectively work as a structured oppression of particular ways of knowing. Addressing epistemicide is critical for information professionals because we task ourselves with handling knowledge from every field. There has to be a reckoning before the paradigm can truly shift; if there is no acknowledgement of injustice, there is no room for justice."
+  subtype: presentation
+  speakers: [13]
+-
+  id: 2031
   title: "Q & A Panel"
-  description: ""
+  description: " "
   subtype: workshop
   speakers: [9,5,3,13]
   
 -
-  id: 204
+  id: 2042
   title: "Speakers of the Day"
-  description: ""
+  description: " "
   subtype: presentation
-  speakers: [4,7,14]
-  
-  # presentation: "https://speakerdeck.com/gdglviv/dmytro-danylyk-android-l-animation"
-  # video: "//www.youtube.com/embed/v3SCiUqI1yQ"
+  speakers: [4]
 -
-  id: 204.1
+  id: 2043
+  title: "Speakers of the Day"
+  description: " "
+  subtype: presentation
+  speakers: [7]
+-
+  id: 2044
+  title: "Speakers of the Day"
+  description: " "
+  subtype: presentation
+  speakers: [14]
+-
+  id: 2041
   title: "Q & A Panel"
-  description: ""
+  description: "Q & A Panel"
   subtype: workshop
   speakers: [10,4,7,14]
   
 -
   id: 205
   title: "S4 Presentation Starts!"
-  description: ""
+  description: " "
   subtype: presentation
   speakers: 
   
@@ -167,7 +214,7 @@
 -
   id: 206
   title: "Project Presentation"
-  description: ""
+  description: " "
   subtype: presentation
   speakers: 
   
@@ -176,7 +223,7 @@
 -
   id: 207
   title: "S4 Summary"
-  description: ""
+  description: " "
   subtype: presentation
   speakers: 
   

@@ -16,7 +16,7 @@ Participants must register for a Virtual Meeting and provide an email, text, pho
 
 Our aim in hosting a virtual event is to build a stronger community. Our goal is to create an environment where everyone feels welcome to participate, speak up, ask questions, and engage in conversation. This requires a harassment free and inclusive environment that recognizes the inherent worth of every participant. We invite all those who participate to help us create safe and positive experiences for everyone.
 
-We are dedicated to providing a harassment-free environment for everyone, regardless of gender, gender identity and expression, age, sexual orientation, disability, physical appearance, body size, race, ethnicity, or religion (or lack thereof). We do not tolerate harassment of participants in any form. Sexual language and imagery is not appropriate during any aspect of this virtual event/conference, including talks, workshops, and social media such as Twitter, or other online media.
+We are dedicated to providing a harassment-free environment for everyone, regardless of gender, gender identity and expression, age, sexual orientation, disability, physical appearance, body size, race, ethnicitby, or religion (or lack thereof). We do not tolerate harassment of participants in any form. Sexual language and imagery is not appropriate during any aspect of this virtual event/conference, including talks, workshops, and social media such as Twitter, or other online media.
 
 Following a Code of Conduct allows S4 to create the best experience possible for all attendees.
 
@@ -29,7 +29,7 @@ Following a Code of Conduct allows S4 to create the best experience possible for
 *   During this virtual event or any of its related events no participant should engage in harassment in any form.
 *   Do not disrupt the virtual meeting (e.g., “zoom-bombing”) or engage in harm or threats of harm of any kind. Do not create/contribute to a safety threat or unsafe or exclusionary situation.
 *   Do not make audio or visual recordings of the Virtual Meeting in any medium—and do not distribute audio or visual recordings of the Virtual Meeting (via social media or any other means). Only S4 or its representatives may do so, after warning participants to give them an opportunity to opt out.
-*   Do not take or distribute pictures of or copy research posters/presentation materials unless explicit permission is granted.
+*   Do not distribute pictures of or copy research posters/presentation materials unless screenshots are taken for personal use or explicit permission is granted.
 *   Participants violating these rules may be expelled from without a refund at the discretion of S4. Participants asked to stop any harassing behavior are expected to comply immediately.
 
 ##### Note About Differences of Opinion and Offense
@@ -39,5 +39,3 @@ To achieve the purposes of a virtual event in the limited time provided, with th
 #### Reporting an incident:
 
 If you see, overhear or experience a violation of the Code of Conduct during a virtual event, and would like to report a violation, you please email us at [deacuna@syr.edu](mailto:deacuna@syr.edu)
-
-</div>
