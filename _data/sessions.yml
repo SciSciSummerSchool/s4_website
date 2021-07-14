@@ -68,14 +68,14 @@
   title: "Group sessions with mentors"
   description: " "
   subtype: workshop
-  speakers: [12]
+  speakers: [1,12]
 # day 8
 -
   id: 5003
   title: "Group sessions with mentors"
   description: " "
   subtype: workshop
-  speakers: [1,3,13]
+  speakers: [3,13]
 -
   id: 6003
   title: "Group sessions with mentors"
