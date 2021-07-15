@@ -13,7 +13,7 @@
 							<div class="close-mask" data-dismiss="modal"></div>
 						</div>
 						{% if site.showSessions %}
-							{% for session in site.data.sessions %}
+							{% for session in site.data.sessions %} {% if session.subtype != "workshop" %}
 								{% for session_speaker in session.speakers %}
 									{% if session_speaker == speaker.id %}
 										<h4>{{ session.title }}</h4>
@@ -34,7 +34,7 @@
 										{% endif %}
 									{% endif %}
 								{% endfor %}		
-							{% endfor %}
+							{% endif %} {% endfor %}
 							<hr>
 						{% endif %}
 						<div class="people-details">

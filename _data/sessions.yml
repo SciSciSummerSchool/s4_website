@@ -256,8 +256,8 @@
   speakers: [7]
 -
   id: 2044
-  title: "Title TBA"
-  description: " "
+  title: "Evaluating the impact of collaboration enablers through metadata analytics"
+  description: "Data production processes have rarely been included in quantitative study of science not only due to the difficulty in gathering evidence and wide variant data production methods and methods in different fields, but also due to its low status in scholarly publishing hierarchy. The enablers of research collaboration include cyberinfrastructure, science policy, and sci-tech human capital. To evaluate how effectively these enablers support and foster research collaboration needs to take more than publication metadata into the metrics. The abundance of scientific data repositories and the metadata in these repositories in particular offer a great opportunity for us to reexamine the measure and methods for impact assessment, or assessment of the effectiveness of enablers in fostering collaboration and accelerating the transition from data to knowledge. This presentation talks about the theory development of the collaboration capacity framework through using the GenBank metadata as empirical evidence in the data-intensive biomedical research."
   subtype: presentation
   speakers: [14]
 -
