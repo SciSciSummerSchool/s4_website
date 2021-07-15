@@ -16,8 +16,8 @@ description: "NSF-funded virtual summer school. Free. More info on the website!"
 baseurl: ""
 url: "http://s4.scienceofscience.org" # temp link
 permalink: "/announcement/:title"
-# googleAnalyticsTrackingId: "UA-43643469-5"
-# googleAnalyticsSiteUrl: "gdg-x.github.io"
+googleAnalyticsTrackingId: "UA-53191307-1"
+googleAnalyticsSiteUrl: "https://s4.scienceofscience.org/"
 # siteVerification: "b9imDOrFawXaBXCC4r3uJDdswSYcalD-wWpMYhFq-no"
 
 # # Organizer Info
@@ -46,6 +46,7 @@ navigationLinks:
  - {permalink: "/announcement/", text: "Announcement"}
  - {permalink: "/schedule/", text: "Schedule"}
  - {permalink: "/speakers/", text: "Speakers"}
+ - {permalink: "/faq/", text: "FAQ"}
  - {permalink: "/team/", text: "Team"}
 #  - {permalink: "/logistics/", text: "Logistics"}
 #  - {permalink: "/hackathon/", text: "Hackathon"}
