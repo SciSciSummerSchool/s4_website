@@ -29,13 +29,9 @@ googleAnalyticsSiteUrl: "https://s4.scienceofscience.org/"
 # organizerLink: "https://scienceofscience.org/about/"
 
 # Head
-<<<<<<< HEAD
-metaKeywords: "sos cd, science of science summer school, nsf, Statistical learning, machine learning, artificial intelligence"
-twitterAccount: "@daniel_akuna"
-=======
+
 metaKeywords: "SOS CD, science of science summer school, nsf, Statistical learning, machine learning, artificial intelligence"
-# twitterAccount: "@DevFest"
->>>>>>> a2ae7833c088afb5895f52cc018ade0c8869f43a
+twitterAccount: "@daniel_akuna"
 socialImageSrcGooglePlus: "/img/seo/s4_socialmedia_large.png"
 socialImageSrcTwitter: "/img/seo/s4_socialmedia_large.png"
 socialImageSrcFacebook: "/img/seo/s4_socialmedia_large.png"
