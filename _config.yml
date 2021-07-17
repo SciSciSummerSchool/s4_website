@@ -30,7 +30,7 @@ permalink: "/announcement/:title"
 
 # Head
 metaKeywords: "sos cd, science of science summer school, nsf, Statistical learning, machine learning, artificial intelligence"
-# twitterAccount: "@DevFest"
+twitterAccount: "@daniel_akuna"
 socialImageSrcGooglePlus: "/img/seo/s4_socialmedia_large.png"
 socialImageSrcTwitter: "/img/seo/s4_socialmedia_large.png"
 socialImageSrcFacebook: "/img/seo/s4_socialmedia_large.png"
