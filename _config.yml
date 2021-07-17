@@ -16,8 +16,8 @@ description: "NSF-funded virtual summer school. Free. More info on the website!"
 baseurl: ""
 url: "http://s4.scienceofscience.org" # temp link
 permalink: "/announcement/:title"
-# googleAnalyticsTrackingId: "UA-43643469-5"
-# googleAnalyticsSiteUrl: "gdg-x.github.io"
+googleAnalyticsTrackingId: "UA-53191307-1"
+googleAnalyticsSiteUrl: "https://s4.scienceofscience.org/"
 # siteVerification: "b9imDOrFawXaBXCC4r3uJDdswSYcalD-wWpMYhFq-no"
 
 # # Organizer Info
@@ -29,8 +29,13 @@ permalink: "/announcement/:title"
 # organizerLink: "https://scienceofscience.org/about/"
 
 # Head
+<<<<<<< HEAD
 metaKeywords: "sos cd, science of science summer school, nsf, Statistical learning, machine learning, artificial intelligence"
 twitterAccount: "@daniel_akuna"
+=======
+metaKeywords: "SOS CD, science of science summer school, nsf, Statistical learning, machine learning, artificial intelligence"
+# twitterAccount: "@DevFest"
+>>>>>>> a2ae7833c088afb5895f52cc018ade0c8869f43a
 socialImageSrcGooglePlus: "/img/seo/s4_socialmedia_large.png"
 socialImageSrcTwitter: "/img/seo/s4_socialmedia_large.png"
 socialImageSrcFacebook: "/img/seo/s4_socialmedia_large.png"
@@ -46,6 +51,7 @@ navigationLinks:
  - {permalink: "/announcement/", text: "Announcement"}
  - {permalink: "/schedule/", text: "Schedule"}
  - {permalink: "/speakers/", text: "Speakers"}
+ - {permalink: "/faq/", text: "FAQ"}
  - {permalink: "/team/", text: "Team"}
 #  - {permalink: "/logistics/", text: "Logistics"}
 #  - {permalink: "/hackathon/", text: "Hackathon"}
@@ -181,8 +187,8 @@ footerBlocks:
  -
   title: "Links"
   links:
-   - {link: "https://scienceofscience.org/", text: "sos+cd Lab"}
-   - {link: "https://ischool.syr.edu/", text: "SU, School of Information Studies"}
+   - {link: "https://scienceofscience.org/", text: "SOS+CD Lab"}
+   - {link: "https://ischool.syr.edu/", text: "School of Information Studies at Syracuse University"}
  -
   title: "Contacts"
   links:
@@ -200,7 +206,7 @@ announcementCommentsEnabled: False
 discusShortName: "s4"
 
 # Speakers List Block
-showSessions: false
+showSessions: true
 
 # Team Block
 teamBlockTitle: "About us"
