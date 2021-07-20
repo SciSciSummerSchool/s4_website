@@ -4,8 +4,8 @@
         {% for aq in site.data.faq %}
         <div class="row faq">
             <div class="col-lg-8 col-lg-offset-2">
-                <h4 class="text-left animated hiding appear-animation-trigger faq-question" data-animation="fadeInUp" data-delay="0"> {{ aq.question }}</h4>
-                <h6 class="effect-wrapper appear-animation text-left faq-answer"> {{ aq.answer }}</h6>
+                <h4 class="text-left animated hiding appear-animation-trigger faq-question" data-animation="fadeInUp" data-delay="0"><strong>{{ aq.question }}</strong></h4>
+                <h6 class="text-left faq-answer appear-animation"> {{ aq.answer }}</h6>
             </div>
         </div>
         {% endfor %}
