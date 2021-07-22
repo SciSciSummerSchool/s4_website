@@ -88,26 +88,26 @@
   title: "Group sessions with mentors"
   description: " "
   subtype: workshop
-  speakers: [3,14,7]
+  speakers: [3,14,7,4]
 -
   id: 8003
   title: "Group sessions with mentors"
   description: " "
   subtype: workshop
-  speakers: [3,14,7]
+  speakers: [3,14,7,4]
 # day 10
 -
   id: 9003
   title: "Group sessions with mentors"
   description: " "
   subtype: workshop
-  speakers: [14,7]
+  speakers: [14,7,4]
 -
   id: 10003
   title: "Group sessions with mentors"
   description: " "
   subtype: workshop
-  speakers: [14,7]
+  speakers: [14,7,4]
 
 ## details
 
@@ -149,8 +149,8 @@
   # video: "//www.youtube.com/embed/v3SCiUqI1yQ"
 -
   id: 105
-  title: "Causal learning research talk"
-  description: " "
+  title: "Causal inference for complex observational data"
+  description: "The goal of most empirical studies in policy research and medical research is to determine whether an alteration in an intervention or a treatment will cause a change in the desired outcome response. Unlike randomized designs, establishing the causal relationship based on observational studies is a challenging problem because the ceteris paribus condition is violated. When the covariates of interest are measured with errors, evaluating the causal effects becomes a thorny issue. Additional challenge arises from confounding variables which are often of high dimensional or correlated with the error-prone covariates. Most of the existing methods for estimating the average causal effect heavily rely on parametric assumptions about the propensity score or the outcome regression model one way or the other. In reality, both models are prone to misspecification, which can have undue influence on the estimated average causal effect. To the best of our knowledge, all the existing methods cannot handle high-dimensional covariates in the presence of error-prone covariates. We propose a semiparametric method to establish the causal relationship, which yields a consistent estimator of the average causal effect. The method we proposed results in efficient estimators of the covariate effects. We investigate their theoretical properties and demonstrate their finite sample performance through extensive simulation studies."
   subtype: presentation
   speakers: [18]
   
@@ -244,8 +244,8 @@
   
 -
   id: 2042
-  title: "Title TBA"
-  description: " "
+  title: "Capturing tectonic shifts in contemporary science"
+  description: "Scientific enterprise has undergone a major transformation since World War II. In order to help solve increasingly complex outstanding problems and questions, contemporary science has adopted new approaches to knowledge production that are predominantly team based and are less confined by disciplinary boundaries. The character of the social, institutional and intellectual aspects of science and their interplay is very complex, and requires new approaches. In this talk I will showcase a number of studies that use the data from scientific publications to shed light on contemporary research practices, such as the formation of research teams, research workforce, interdisciplinarity, productivity and citation dynamics."
   subtype: presentation
   speakers: [4]
 -
