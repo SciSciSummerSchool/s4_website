@@ -223,7 +223,7 @@
   speakers: [5]
 -
   id: 2033
-  title: "are Self-Citations a Normal Feature of Knowledge accumulation or a Perversion of Research Evaluation?"
+  title: "Are Self-Citations a Normal Feature of Knowledge Accumulation or a Perversion of Research Evaluation?"
   description: "Science is a cumulative activity, in which past knowledge serves as a foundation for new knowledge. One of the mechanisms through which the cumulative nature of science manifests itself is the act of citing. However, citations are also central to research evaluation, thus creating incentive for researchers to cite their own work. Therefore, such self-citations have been one of the most constant criticism against the use of citation indicators for the measurement of research impact. Using a dataset containing millions of papers and disambiguated authors, this talk will examine the relative importance of self-citations and self-references in the scholarly communication landscape, their relationship with age and gender of authors, as well as their effects on various research evaluation indicators. it will also present the results of a comparison of the content of cited and citing papers, thus making it possible to test whether researchers cite their own work in order to inflate their impact indicators. The talk with conclude with a discussion of the role of self-citations in the research ecosystem."
   subtype: presentation
   speakers: [3]
