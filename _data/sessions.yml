@@ -15,13 +15,11 @@
 
 -
   id: 402
-  title: "Group Workshop (alternative time zone)"
+  title: "Group Workshop (alternative Time Zone)"
 
 -
   id: 403
-  title: "Social event"
-
-
+  title: "Social Event"
 
 -
   id: 0001
@@ -46,65 +44,65 @@
 # day 6
 -
   id: 1003
-  title: "Group sessions with mentors"
+  title: "Group Sessions With Mentors"
   description: " "
   subtype: workshop
   speakers: [6,12]
 -
   id: 2003
-  title: "Group sessions with mentors"
+  title: "Group Sessions With Mentors"
   description: " "
   subtype: workshop
   speakers: [12]
 # day 7
 -
   id: 3003
-  title: "Group sessions with mentors"
+  title: "Group Sessions With Mentors"
   description: " "
   subtype: workshop
   speakers: [1,12,11] 
 -
   id: 4003
-  title: "Group sessions with mentors"
+  title: "Group Sessions With Mentors"
   description: " "
   subtype: workshop
   speakers: [1,12]
 # day 8
 -
   id: 5003
-  title: "Group sessions with mentors"
+  title: "Group Sessions With Mentors"
   description: " "
   subtype: workshop
   speakers: [3,13]
 -
   id: 6003
-  title: "Group sessions with mentors"
+  title: "Group Sessions With Mentors"
   description: " "
   subtype: workshop
   speakers: [3]
 # day 9
 -
   id: 7003
-  title: "Group sessions with mentors"
+  title: "Group Sessions With Mentors"
   description: " "
   subtype: workshop
   speakers: [3,14,7]
 -
   id: 8003
-  title: "Group sessions with mentors"
+  title: "Group Sessions With Mentors"
   description: " "
   subtype: workshop
   speakers: [3,14,7]
 # day 10
 -
   id: 9003
-  title: "Group sessions with mentors"
+  title: "Group Sessions With Mentors"
   description: " "
   subtype: workshop
   speakers: [14,7]
 -
   id: 10003
-  title: "Group sessions with mentors"
+  title: "Group Sessions With Mentors"
   description: " "
   subtype: workshop
   speakers: [14,7]
@@ -113,7 +111,7 @@
 
 -
   id: 101
-  title: "Opening and introduction to science of science"
+  title: "Opening and Introduction to Science of Science"
   description: "We will go through the basic technology: Jupyterlab, Python, Numpy, Pandas, scikit-learn. Coding: Data loading, cleaning, exploration"
   subtype: presentation
   speakers: [9, 10]
@@ -122,7 +120,7 @@
   # video: "//www.youtube.com/embed/v3SCiUqI1yQ"
 -
   id: 102
-  title: "Overview of machine learning in science of science"
+  title: "Overview of Machine Learning in Science of Science"
   description: " "
   subtype: presentation
   speakers: 
@@ -131,7 +129,7 @@
   # video: "//www.youtube.com/embed/v3SCiUqI1yQ"
 -
   id: 103
-  title: "Network science"
+  title: "Network Science"
   description: " "
   subtype: presentation
   speakers: [10,17]
@@ -140,8 +138,8 @@
   # video: "//www.youtube.com/embed/v3SCiUqI1yQ"
 -
   id: 104
-  title: "Practical NLP and deep learning for scientific text mining"
-  description: "Keeping up with scientific literature is like drinking from a firehose. As more papers are published each year, automated methods for discovering, reading, and understanding the literature are needed to help us identify the latest and most applicable findings. This is especially the case in biomedical literature, where novel developments may have direct and immediate ramifications to patient care. In this talk, I will provide an overview of several projects that focus on scientific document understanding. I will discuss recent work on classifying text in scientific papers by combining document visual layout and semantics, which can produce high-fidelity, machine-readable representations of scientific papers that are useful for a variety of downstream applications. I will then provide several examples of how NLP and deep learning methods can be applied to specific problems in biomedical text mining such as relation extraction, fact checking, and multi-document summarization. These problems involve interactions between many documents, and the success of our models depends on our ability to accurately retrieve and extract information from all relevant documents. I will close with a discussion of ongoing challenges in this domain, and how we are hoping to address these challenges going forward."
+  title: "Practical NLP and Deep Learning for Scientific Text Mining"
+  description: "Keeping up with scientific literature is like drinking from a firehose. as more papers are published each year, automated methods for discovering, reading, and understanding the literature are needed to help us identify the latest and most applicable findings. This is especially the case in biomedical literature, where novel developments may have direct and immediate ramifications to patient care. in this talk, I will provide an overview of several projects that focus on scientific document understanding. I will discuss recent work on classifying text in scientific papers by combining document visual layout and semantics, which can produce high-fidelity, machine-readable representations of scientific papers that are useful for a variety of downstream applications. I will then provide several examples of how NLP and deep learning methods can be applied to specific problems in biomedical text mining such as relation extraction, fact checking, and multi-document summarization. These problems involve interactions between many documents, and the success of our models depends on our ability to accurately retrieve and extract information from all relevant documents. I will close with a discussion of ongoing challenges in this domain, and how we are hoping to address these challenges going forward."
   subtype: presentation
   speakers: [15]
   
@@ -149,7 +147,7 @@
   # video: "//www.youtube.com/embed/v3SCiUqI1yQ"
 -
   id: 105
-  title: "Causal learning research talk"
+  title: "Causal Learning Research Talk"
   description: " "
   subtype: presentation
   speakers: [18]
@@ -176,7 +174,7 @@
 -
   id: 2014
   title: "Team Power Dynamics: The Pathway to Team Success"
-  description: "Any understanding of teamwork and its success is incomplete if we ignore the notion of power. Power manifests through cooperation. As long as there are more than one person working on a given task, power starts to influence every step of communication and activities. Power is pervasive, complex, and often disguised in our research community. But power is an essential, unavoidable, yet unrecognized element of scientific collaboration. This talk will highlight some thoughts about team power, how to quantify team power in science of science, and the potential relationship between the dynamics of team power and team success. "
+  description: "any understanding of teamwork and its success is incomplete if we ignore the notion of power. Power manifests through cooperation. as long as there are more than one person working on a given task, power starts to influence every step of communication and activities. Power is pervasive, complex, and often disguised in our research community. But power is an essential, unavoidable, yet unrecognized element of scientific collaboration. This talk will highlight some thoughts about team power, how to quantify team power in science of science, and the potential relationship between the dynamics of team power and team success. "
   subtype: presentation
   speakers: [12]
   
@@ -197,7 +195,7 @@
   speakers: [8]
 -
   id: 2023
-  title: "Reproducibility: how to say what you mean, and explain why it matters"
+  title: "Reproducibility: How to Say What You Mean, and Explain Why it Matters"
   description: "Reproducibility means many things to many people. This session will cover 1) various uses of ‘replication’ and ‘reproducibility’ in different communities 2) how Nature commissions and edits opinion articles on improving science and 3) how to pitch and write articles for a general scientific audience"
   subtype: presentation
   speakers: [1]
@@ -225,14 +223,14 @@
   speakers: [5]
 -
   id: 2033
-  title: "Are self-citations a normal feature of knowledge accumulation or a perversion of research evaluation?"
-  description: "Science is a cumulative activity, in which past knowledge serves as a foundation for new knowledge. One of the mechanisms through which the cumulative nature of science manifests itself is the act of citing. However, citations are also central to research evaluation, thus creating incentive for researchers to cite their own work. Therefore, such self-citations have been one of the most constant criticism against the use of citation indicators for the measurement of research impact. Using a dataset containing millions of papers and disambiguated authors, this talk will examine the relative importance of self-citations and self-references in the scholarly communication landscape, their relationship with age and gender of authors, as well as their effects on various research evaluation indicators. It will also present the results of a comparison of the content of cited and citing papers, thus making it possible to test whether researchers cite their own work in order to inflate their impact indicators. The talk with conclude with a discussion of the role of self-citations in the research ecosystem."
+  title: "are Self-Citations a Normal Feature of Knowledge accumulation or a Perversion of Research Evaluation?"
+  description: "Science is a cumulative activity, in which past knowledge serves as a foundation for new knowledge. One of the mechanisms through which the cumulative nature of science manifests itself is the act of citing. However, citations are also central to research evaluation, thus creating incentive for researchers to cite their own work. Therefore, such self-citations have been one of the most constant criticism against the use of citation indicators for the measurement of research impact. Using a dataset containing millions of papers and disambiguated authors, this talk will examine the relative importance of self-citations and self-references in the scholarly communication landscape, their relationship with age and gender of authors, as well as their effects on various research evaluation indicators. it will also present the results of a comparison of the content of cited and citing papers, thus making it possible to test whether researchers cite their own work in order to inflate their impact indicators. The talk with conclude with a discussion of the role of self-citations in the research ecosystem."
   subtype: presentation
   speakers: [3]
 -
   id: 2034
   title: "Epistemicide and Epistemic Injustices in the Information Field"
-  description: "The information professions need a paradigmatic shift to examine the ways we have systematically undermined knowledge systems falling outside of Western traditions. Epistemicide is the killing, silencing, annihilation, or devaluing of a knowledge system. Epistemicide happens when epistemic injustices are persistent, systematic, and collectively work as a structured oppression of particular ways of knowing. Addressing epistemicide is critical for information professionals because we task ourselves with handling knowledge from every field. There has to be a reckoning before the paradigm can truly shift; if there is no acknowledgement of injustice, there is no room for justice."
+  description: "The information professions need a paradigmatic shift to examine the ways we have systematically undermined knowledge systems falling outside of Western traditions. Epistemicide is the killing, silencing, annihilation, or devaluing of a knowledge system. Epistemicide happens when epistemic injustices are persistent, systematic, and collectively work as a structured oppression of particular ways of knowing. addressing epistemicide is critical for information professionals because we task ourselves with handling knowledge from every field. There has to be a reckoning before the paradigm can truly shift; if there is no acknowledgement of injustice, there is no room for justice."
   subtype: presentation
   speakers: [13]
 -
@@ -250,14 +248,14 @@
   speakers: [4]
 -
   id: 2043
-  title: "UMETRICS: New Data and Findings"
-  description: "I describe two developing, publicly-available, interlinked data initiatives that provide unprecedented visibility into the STEM enterprise. UMETRICS uses data on payments on sponsored research projects from 72 university campuses comprising 40% of academic R&D in the U.S. to identify the full teams of researchers conducting research. These data have been linked to a wide range of researcher characteristics and research outputs, including Author-ity data on biomedical publications. We describe results on the production, diffusion, and value of research with a particular emphasis on underrepresentation."
+  title: "Umetrics: New Data and Findings"
+  description: "I describe two developing, publicly-available, interlinked data initiatives that provide unprecedented visibility into the STEM enterprise. UMETRICS uses data on payments on sponsored research projects from 72 university campuses comprising 40% of academic R&D in the U.S. to identify the full teams of researchers conducting research. These data have been linked to a wide range of researcher characteristics and research outputs, including author-ity data on biomedical publications. We describe results on the production, diffusion, and value of research with a particular emphasis on underrepresentation."
   subtype: presentation
   speakers: [7]
 -
   id: 2044
-  title: "Evaluating the impact of collaboration enablers through metadata analytics"
-  description: "Data production processes have rarely been included in quantitative study of science not only due to the difficulty in gathering evidence and wide variant data production methods and methods in different fields, but also due to its low status in scholarly publishing hierarchy. The enablers of research collaboration include cyberinfrastructure, science policy, and sci-tech human capital. To evaluate how effectively these enablers support and foster research collaboration needs to take more than publication metadata into the metrics. The abundance of scientific data repositories and the metadata in these repositories in particular offer a great opportunity for us to reexamine the measure and methods for impact assessment, or assessment of the effectiveness of enablers in fostering collaboration and accelerating the transition from data to knowledge. This presentation talks about the theory development of the collaboration capacity framework through using the GenBank metadata as empirical evidence in the data-intensive biomedical research."
+  title: "Evaluating The Impact of Collaboration Enablers Through Metadata analytics"
+  description: "Data production processes have rarely been included in quantitative study of science not only due to the difficulty in gathering evidence and wide variant data production methods and methods in different fields, but also due to its low status in scholarly publishing hierarchy. The enablers of research collaboration include cyberinfrastructure, science policy, and sci-tech human capital. to evaluate how effectively these enablers support and foster research collaboration needs to take more than publication metadata into the metrics. The abundance of scientific data repositories and the metadata in these repositories in particular offer a great opportunity for us to reexamine the measure and methods for impact assessment, or assessment of the effectiveness of enablers in fostering collaboration and accelerating the transition from data to knowledge. This presentation talks about the theory development of the collaboration capacity framework through using the GenBank metadata as empirical evidence in the data-intensive biomedical research."
   subtype: presentation
   speakers: [14]
 -
