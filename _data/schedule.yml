@@ -21,12 +21,12 @@
     }
     - {
         startTime: "12:30 PM",
-        endTime: "1:30 PM",
+        endTime: "1:15 PM",
         sessionIds: [503]
     }
     - {
-        startTime: "1:30 PM",
-        endTime: "2:15 PM",
+        startTime: "1:15 PM",
+        endTime: "2:30 PM",
         sessionIds: [0002]
     }
     - {
