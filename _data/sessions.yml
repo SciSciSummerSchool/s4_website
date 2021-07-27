@@ -30,12 +30,19 @@
   subtype: lecture
   speakers: 
 -
+  id: 0002
+  title: "Lecture Block 2"
+  description: " "
+  subtype: lecture
+  speakers: 
+
+
+-
   id: 1011
   title: "Students Introduction"
   description: " "
   subtype: lecture
   speakers: 
-
 -
   id: 1012
   title: "Lecture - Basic Python & Environment"
@@ -49,12 +56,15 @@
   description: "Professor Stephen went through the Project Proposal Guidelines (document can be found on slack)"
   subtype: lecture
   service: True
+
+
 -
-  id: 0002
-  title: "Lecture Block 2"
-  description: " "
+  id: 1021
+  title: "Lecture - Statistical Learning"
+  description: ""
   subtype: lecture
-  speakers: 
+  speakers: [9]
+  video: "//www.youtube.com/embed/dF0baINI0h0"
   
 ## group sessions
 # day 6
