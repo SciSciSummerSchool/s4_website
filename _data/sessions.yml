@@ -38,12 +38,17 @@
 
 -
   id: 1012
-  title: "Lecture Block 1 - Basic Python & Environment"
+  title: "Lecture - Basic Python & Environment"
   description: ""
   subtype: lecture
   speakers: [9]
   video: "//www.youtube.com/embed/HkSCv5nH4ZQ"
-
+-
+  id: 1013
+  title: "Lecture - Project Introduction"
+  description: "Professor Stephen went through the Project Proposal Guidelines (document can be found on slack)"
+  subtype: lecture
+  service: True
 -
   id: 0002
   title: "Lecture Block 2"
