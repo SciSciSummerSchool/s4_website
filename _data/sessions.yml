@@ -176,8 +176,8 @@
   speakers: [2]
 -
   id: 2013
-  title: "Title TBA"
-  description: " "
+  title: "Understanding Hot Streaks across Artistic, Cultural, and Scientific Careers"
+  description: "Hot streaks dominate the main impact of creative careers. Despite their ubiquitous nature across a wide range of creative domains, it remains unclear if there is any regularity underlying the beginning of hot streaks. Here, we develop computational methods using deep learning and network science and apply them to novel, large-scale datasets tracing the career outputs of artists, film directors, and scientists, allowing us to build high-dimensional representations of the artworks, films, and scientific publications they produce. By examining individuals’ career trajectories within the underlying creative space, we find that across all three domains, individuals tend to explore diverse styles or topics before their hot streak, but become notably more focused in what they work on after the hot streak begins. Crucially, we find that hot streaks are associated with neither exploration nor exploitation behavior in isolation, but a particular sequence of exploration followed by exploitation, where the transition from exploration to exploitation closely traces the onset of a hot streak. Overall, these results unveil among the first identifiable regularity underlying the onset of hot streaks, which appears universal across diverse creative domains, suggesting that a sequential view of creative strategies that balances experimentation and implementation may be particularly powerful for producing long-lasting contributions, which may have broad implications for identifying and nurturing creative talents."
   subtype: presentation
   speakers: [6]
 -
