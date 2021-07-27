@@ -134,13 +134,13 @@
   video: "//www.youtube.com/embed/nFo5wi2I24w"
 -
   id: 102
-  title: "Overview of Machine Learning in Science of Science"
+  title: "Numpy, Pandas & Matplotlib"
   description: " "
-  subtype: presentation
-  speakers: 
-  
+  subtype: Lecture
+  speakers: [9]
+  video: "//www.youtube.com/embed/HGqIvzTEvb4"
   # presentation: "https://speakerdeck.com/gdglviv/dmytro-danylyk-android-l-animation"
-  # video: "//www.youtube.com/embed/v3SCiUqI1yQ"
+  # 
 -
   id: 103
   title: "Network Science"
