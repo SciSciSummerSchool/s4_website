@@ -65,6 +65,14 @@
   subtype: lecture
   speakers: [9]
   video: "//www.youtube.com/embed/dF0baINI0h0"
+-
+  id: 1022
+  title: "Lecture - Introduction to Scikit-Learn"
+  description: ""
+  subtype: lecture
+  speakers: [9]
+  video: "//www.youtube.com/embed/BCHOI0CjX5k"
+ 
   
 ## group sessions
 # day 6
