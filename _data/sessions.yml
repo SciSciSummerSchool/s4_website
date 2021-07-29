@@ -104,33 +104,33 @@
   title: "Group Sessions With Mentors"
   description: " "
   subtype: workshop
-  speakers: [6,12,2]
+  speakers: [6,12]
 -
   id: 2003
   title: "Group Sessions With Mentors"
   description: " "
   subtype: workshop
-  speakers: [12,2]
+  speakers: [12]
 # day 7
 -
   id: 3003
   title: "Group Sessions With Mentors"
   description: " "
   subtype: workshop
-  speakers: [1,12,11,2] 
+  speakers: [1,12,11,8] 
 -
   id: 4003
   title: "Group Sessions With Mentors"
   description: " "
   subtype: workshop
-  speakers: [1,12]
+  speakers: [1,12,8]
 # day 8
 -
   id: 5003
   title: "Group Sessions With Mentors"
   description: " "
   subtype: workshop
-  speakers: [3,13,5]
+  speakers: [3,13,5,8]
 -
   id: 6003
   title: "Group Sessions With Mentors"
@@ -208,8 +208,8 @@
 
 -
   id: 2012
-  title: "Echos of Science in a Pandemic (Engulfed by an Infodemic)"
-  description: "Digitization of the scientific literature has been transformative. Researchers and the public can now instantaneously access millions of papers—unquestionably a good thing for science and society. However, this access generally filters through search engines, social media, and recommender systems. It is less clear whether, and in what ways, these filters are benefiting and changing the practice of scientific discovery and knowledge dissemination. Are they increasing access to a broader range of the literature and thereby democratizing science? Or are scientists reading a more concentrated set of papers? And how are these filters and potential echo chambers impacting public understanding of science? This talk will highlight a set of studies that investigate the extent of citation and usage-based concentration, the changing role of journals and gatekeepers of science, and how these changing roles impact trust and perception of science during a pandemic engulfed by a simultaneous infodemic. "
+  title: "Title TBA"
+  description: " "
   subtype: presentation
   speakers: [2]
 -
@@ -236,8 +236,8 @@
   
 -
   id: 2022
-  title: "Title TBA"
-  description: " "
+  title: "Echos of Science in a Pandemic (Engulfed by an Infodemic)"
+  description: "Digitization of the scientific literature has been transformative. Researchers and the public can now instantaneously access millions of papers—unquestionably a good thing for science and society. However, this access generally filters through search engines, social media, and recommender systems. It is less clear whether, and in what ways, these filters are benefiting and changing the practice of scientific discovery and knowledge dissemination. Are they increasing access to a broader range of the literature and thereby democratizing science? Or are scientists reading a more concentrated set of papers? And how are these filters and potential echo chambers impacting public understanding of science? This talk will highlight a set of studies that investigate the extent of citation and usage-based concentration, the changing role of journals and gatekeepers of science, and how these changing roles impact trust and perception of science during a pandemic engulfed by a simultaneous infodemic."
   subtype: presentation
   speakers: [8]
 -
