@@ -89,12 +89,12 @@
     - {
         startTime: "9:45 AM",
         endTime: "11:15 AM",
-        sessionIds: [0001]
+        sessionIds: [1031]
     }
     - {
         startTime: "11:30 AM",
         endTime: "1:00 PM",
-        sessionIds: [0002]
+        sessionIds: [1032]
     }
     - {
         startTime: "1:00 PM",

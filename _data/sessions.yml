@@ -72,8 +72,31 @@
   subtype: lecture
   speakers: [9]
   video: "//www.youtube.com/embed/BCHOI0CjX5k"
- 
+
+-
+  id: 103
+  title: "Lecture - Intro to Network Science"
+  description: " "
+  subtype: lecture
+  speakers: [17]
+  video: "//www.youtube.com/embed/hpDD-fzyyMg"
   
+  # presentation: "https://speakerdeck.com/gdglviv/dmytro-danylyk-android-l-animation"
+-
+  id: 1031
+  title: "Lecture - Mentorship Networks"
+  description: ""
+  subtype: lecture
+  speakers: [10]
+  video: "//www.youtube.com/embed/HMIIg4gsftg"
+-
+  id: 1032
+  title: "Lecture - Centralities in Networks"
+  description: ""
+  subtype: lecture
+  speakers: [17]
+  video: "//www.youtube.com/embed/0A-_j8miIL4"
+
 ## group sessions
 # day 6
 -
@@ -159,15 +182,7 @@
   video: "//www.youtube.com/embed/HGqIvzTEvb4"
   # presentation: "https://speakerdeck.com/gdglviv/dmytro-danylyk-android-l-animation"
   # 
--
-  id: 103
-  title: "Network Science"
-  description: " "
-  subtype: presentation
-  speakers: [10,17]
-  
-  # presentation: "https://speakerdeck.com/gdglviv/dmytro-danylyk-android-l-animation"
-  # video: "//www.youtube.com/embed/v3SCiUqI1yQ"
+
 -
   id: 104
   title: "Practical NLP and Deep Learning for Scientific Text Mining"
