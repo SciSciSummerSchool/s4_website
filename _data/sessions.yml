@@ -97,6 +97,13 @@
   speakers: [17]
   video: "//www.youtube.com/embed/0A-_j8miIL4"
 
+-
+  id: 1052
+  title: "Group Presentation - Project proposal"
+  description: ""
+  subtype: workshop
+  
+
 ## group sessions
 # day 6
 -
