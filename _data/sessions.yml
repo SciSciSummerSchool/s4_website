@@ -149,7 +149,7 @@
   title: "Group Sessions With Mentors"
   description: " "
   subtype: workshop
-  speakers: [3,14,7,4,5]
+  speakers: [3,14,7,4]
 # day 10
 -
   id: 9003
