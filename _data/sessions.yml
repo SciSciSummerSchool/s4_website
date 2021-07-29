@@ -130,26 +130,26 @@
   title: "Group Sessions With Mentors"
   description: " "
   subtype: workshop
-  speakers: [3,13]
+  speakers: [3,13,5]
 -
   id: 6003
   title: "Group Sessions With Mentors"
   description: " "
   subtype: workshop
-  speakers: [3]
+  speakers: [3,5]
 # day 9
 -
   id: 7003
   title: "Group Sessions With Mentors"
   description: " "
   subtype: workshop
-  speakers: [3,14,7,4]
+  speakers: [3,14,7,4,5]
 -
   id: 8003
   title: "Group Sessions With Mentors"
   description: " "
   subtype: workshop
-  speakers: [3,14,7,4]
+  speakers: [3,14,7,4,5]
 # day 10
 -
   id: 9003
