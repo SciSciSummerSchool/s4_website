@@ -99,8 +99,8 @@
 
 -
   id: 1041
-  title: "Lecture - Practical NLP for Scientific Text Mining"
-  description: ""
+  title: "Practical NLP and Deep Learning for Scientific Text Mining"
+  description: "Keeping up with scientific literature is like drinking from a firehose. as more papers are published each year, automated methods for discovering, reading, and understanding the literature are needed to help us identify the latest and most applicable findings. This is especially the case in biomedical literature, where novel developments may have direct and immediate ramifications to patient care. in this talk, I will provide an overview of several projects that focus on scientific document understanding. I will discuss recent work on classifying text in scientific papers by combining document visual layout and semantics, which can produce high-fidelity, machine-readable representations of scientific papers that are useful for a variety of downstream applications. I will then provide several examples of how NLP and deep learning methods can be applied to specific problems in biomedical text mining such as relation extraction, fact checking, and multi-document summarization. These problems involve interactions between many documents, and the success of our models depends on our ability to accurately retrieve and extract information from all relevant documents. I will close with a discussion of ongoing challenges in this domain, and how we are hoping to address these challenges going forward."
   subtype: presentation
   speakers: [15]
   video: "//www.youtube.com/embed/Hw9jL6C5Tv0"
@@ -216,18 +216,6 @@
   subtype: Lecture
   speakers: [9]
   video: "//www.youtube.com/embed/HGqIvzTEvb4"
-  # presentation: "https://speakerdeck.com/gdglviv/dmytro-danylyk-android-l-animation"
-  # 
-
--
-  id: 104
-  title: "Practical NLP and Deep Learning for Scientific Text Mining"
-  description: "Keeping up with scientific literature is like drinking from a firehose. as more papers are published each year, automated methods for discovering, reading, and understanding the literature are needed to help us identify the latest and most applicable findings. This is especially the case in biomedical literature, where novel developments may have direct and immediate ramifications to patient care. in this talk, I will provide an overview of several projects that focus on scientific document understanding. I will discuss recent work on classifying text in scientific papers by combining document visual layout and semantics, which can produce high-fidelity, machine-readable representations of scientific papers that are useful for a variety of downstream applications. I will then provide several examples of how NLP and deep learning methods can be applied to specific problems in biomedical text mining such as relation extraction, fact checking, and multi-document summarization. These problems involve interactions between many documents, and the success of our models depends on our ability to accurately retrieve and extract information from all relevant documents. I will close with a discussion of ongoing challenges in this domain, and how we are hoping to address these challenges going forward."
-  subtype: presentation
-  speakers: [15]
-  
-  # presentation: "https://speakerdeck.com/gdglviv/dmytro-danylyk-android-l-animation"
-  # video: "//www.youtube.com/embed/v3SCiUqI1yQ"
 -
   id: 105
   title: "Causal Inference for Complex Observational Data"
