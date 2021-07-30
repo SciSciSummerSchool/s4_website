@@ -232,8 +232,8 @@
 
 -
   id: 2012
-  title: "Title TBA"
-  description: " "
+  title: "Designing Diversity for Discovery"
+  description: "The wisdom of crowds hinges on the independence and diversity of their members’ information and approach. Here I explore the wisdom of scientific crowds for discovery, showing how findings established by more distinct methods and researchers are much more likely to replicate, how a population of diverse small teams advances science more rapidly than large ones, and how diverse prior experience are critical for punctuated advance. Artificial Intelligence has typically been designed to substitute for human expertise rather than complement it, limiting its capacity for human benefit. I demonstrate how incorporating the distribution of human expertise into AI models allows us to design diversity that complements and corrects for collective human bias, generating “alien” hypotheses unlikely to be imagined or pursued without intervention in materials discovery, drug development and COVID-19 vaccines. I discuss how to design diverse human and artificial intelligence collectives that can expand our imaginations and reach past our limits together."
   subtype: presentation
   speakers: [2]
 -
