@@ -79,7 +79,7 @@
   description: " "
   subtype: lecture
   speakers: [17]
-  video: "//www.youtube.com/embed/hpDD-fzyyMg"
+  video: "//www.youtube.com/embed/pHJsUfS_ApU"
   
   # presentation: "https://speakerdeck.com/gdglviv/dmytro-danylyk-android-l-animation"
 -
@@ -88,18 +88,18 @@
   description: ""
   subtype: lecture
   speakers: [10]
-  video: "//www.youtube.com/embed/HMIIg4gsftg"
+  video: "//www.youtube.com/embed/iA9Kik2TV-k"
 -
   id: 1032
   title: "Lecture - Centralities in Networks"
   description: ""
   subtype: lecture
   speakers: [17]
-  video: "//www.youtube.com/embed/0A-_j8miIL4"
+  video: "//www.youtube.com/embed/79b3iyGEzL8"
 
 -
   id: 1052
-  title: "Group Presentation - Project proposal"
+  title: "Group Presentation - Project Proposal"
   description: ""
   subtype: workshop
   
