@@ -86,7 +86,7 @@
   id: 1031
   title: "Lecture - Mentorship Networks"
   description: ""
-  subtype: lecture
+  subtype: presentation
   speakers: [10]
   video: "//www.youtube.com/embed/iA9Kik2TV-k"
 -
@@ -206,7 +206,7 @@
   id: 101
   title: "Opening and Introduction to Science of Science"
   description: "We will go through the basic technology: Jupyterlab, Python, Numpy, Pandas, scikit-learn. Coding: Data loading, cleaning, exploration"
-  subtype: presentation
+  subtype: Lecture
   speakers: [9, 10]
   video: "//www.youtube.com/embed/nFo5wi2I24w"
 -
