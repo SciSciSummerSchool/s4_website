@@ -214,3 +214,12 @@
   speaker: true
   social: 
     - {name: "site", link: "https://jliu193.expressions.syr.edu"}
+-
+  id: 19 
+  name: "Han"
+  surname: "Zhuang"
+  title: "PhD. at Syracuse University"
+  thumbnailUrl: han.jpg
+  speaker: True
+  social: 
+   - {name: "site", link: "https://ischool.syr.edu/han-zhuang/"}

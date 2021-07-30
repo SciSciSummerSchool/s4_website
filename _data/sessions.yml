@@ -98,6 +98,35 @@
   video: "//www.youtube.com/embed/79b3iyGEzL8"
 
 -
+  id: 1041
+  title: "Lecture - Practical NLP for Scientific Text Mining"
+  description: ""
+  subtype: presentation
+  speakers: [15]
+  video: "//www.youtube.com/embed/Hw9jL6C5Tv0"
+-
+  id: 1042
+  title: "Lecture - Introduction to Deep Learning"
+  description: ""
+  subtype: lecture
+  speakers: [9]
+  video: "//www.youtube.com/embed/3N84yibZxD4"
+-
+  id: 1043
+  title: "Lecture - Learning Temporal Data"
+  description: ""
+  subtype: presentation
+  speakers: [19]
+  video: "//www.youtube.com/embed/12TiaAeV5a4"
+-
+  id: 1044
+  title: "Lecture - Bias in AI"
+  description: ""
+  subtype: presentation
+  speakers: [16]
+  video: "//www.youtube.com/embed/n2LiKlbDE7o"
+
+-
   id: 1052
   title: "Group Presentation - Project Proposal"
   description: ""
