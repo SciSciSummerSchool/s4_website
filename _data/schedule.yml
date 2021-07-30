@@ -120,17 +120,22 @@
     - {
     	startTime: "9:00 AM",
     	endTime: "9:45 AM",
-    	sessionIds: [104]
+    	sessionIds: [1041]
     }
     - {
         startTime: "9:45 AM",
         endTime: "11:15 AM",
-        sessionIds: [0001]
+        sessionIds: [1042]
     }
     - {
         startTime: "11:30 AM",
+        endTime: "12:15 PM",
+        sessionIds: [1043]
+    }
+    - {
+        startTime: "12:15 PM",
         endTime: "1:00 PM",
-        sessionIds: [0002]
+        sessionIds: [1044]
     }
     - {
         startTime: "1:00 PM",
