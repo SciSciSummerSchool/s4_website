@@ -216,15 +216,7 @@
   subtype: Lecture
   speakers: [9]
   video: "//www.youtube.com/embed/HGqIvzTEvb4"
--
-  id: 105
-  title: "Causal Inference for Complex Observational Data"
-  description: "The goal of most empirical studies in policy research and medical research is to determine whether an alteration in an intervention or a treatment will cause a change in the desired outcome response. Unlike randomized designs, establishing the causal relationship based on observational studies is a challenging problem because the ceteris paribus condition is violated. When the covariates of interest are measured with errors, evaluating the causal effects becomes a thorny issue. Additional challenge arises from confounding variables which are often of high dimensional or correlated with the error-prone covariates. Most of the existing methods for estimating the average causal effect heavily rely on parametric assumptions about the propensity score or the outcome regression model one way or the other. In reality, both models are prone to misspecification, which can have undue influence on the estimated average causal effect. To the best of our knowledge, all the existing methods cannot handle high-dimensional covariates in the presence of error-prone covariates. We propose a semiparametric method to establish the causal relationship, which yields a consistent estimator of the average causal effect. The method we proposed results in efficient estimators of the covariate effects. We investigate their theoretical properties and demonstrate their finite sample performance through extensive simulation studies."
-  subtype: presentation
-  speakers: [18]
-  
-  # presentation: "https://speakerdeck.com/gdglviv/dmytro-danylyk-android-l-animation"
-  # video: "//www.youtube.com/embed/v3SCiUqI1yQ"
+
 - 
   id: 200
   title: "Opening"
@@ -335,9 +327,22 @@
   description: "Discussion Panel"
   subtype: workshop
   speakers: [10,4,7,14]
-  
 -
   id: 2051
+  title: "Causal Inference for Complex Observational Data"
+  description: "The goal of most empirical studies in policy research and medical research is to determine whether an alteration in an intervention or a treatment will cause a change in the desired outcome response. Unlike randomized designs, establishing the causal relationship based on observational studies is a challenging problem because the ceteris paribus condition is violated. When the covariates of interest are measured with errors, evaluating the causal effects becomes a thorny issue. Additional challenge arises from confounding variables which are often of high dimensional or correlated with the error-prone covariates. Most of the existing methods for estimating the average causal effect heavily rely on parametric assumptions about the propensity score or the outcome regression model one way or the other. In reality, both models are prone to misspecification, which can have undue influence on the estimated average causal effect. To the best of our knowledge, all the existing methods cannot handle high-dimensional covariates in the presence of error-prone covariates. We propose a semiparametric method to establish the causal relationship, which yields a consistent estimator of the average causal effect. The method we proposed results in efficient estimators of the covariate effects. We investigate their theoretical properties and demonstrate their finite sample performance through extensive simulation studies."
+  subtype: presentation
+  speakers: [18]
+  video: "//www.youtube.com/embed/OhDMNgT8G60"
+-
+  id: 2052
+  title: "Lecture - Causal Inference"
+  description: ""
+  subtype: lecture
+  speakers: [18]
+  video: "//www.youtube.com/embed/llvm4fBoLEM"
+-
+  id: 2053
   title: "S4 Presentation Starts!"
   description: " "
   subtype: presentation
