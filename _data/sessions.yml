@@ -334,6 +334,7 @@
   subtype: presentation
   speakers: [18]
   video: "//www.youtube.com/embed/OhDMNgT8G60"
+  presenetation: "S4-Causal-Inference.pdf"
 -
   id: 1052
   title: "Lecture - Causal Inference"
