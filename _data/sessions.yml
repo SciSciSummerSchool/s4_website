@@ -126,11 +126,7 @@
   speakers: [16]
   video: "//www.youtube.com/embed/n2LiKlbDE7o"
 
--
-  id: 1052
-  title: "Group Presentation - Project Proposal"
-  description: ""
-  subtype: workshop
+
   
 
 ## group sessions
@@ -344,13 +340,9 @@
   video: "//www.youtube.com/embed/llvm4fBoLEM"
 -
   id: 1053
-  title: "S4 Presentation Starts!"
-  description: " "
-  subtype: presentation
-  speakers: 
-  
-  # presentation: "https://speakerdeck.com/gdglviv/dmytro-danylyk-android-l-animation"
-  # video: "//www.youtube.com/embed/v3SCiUqI1yQ"
+  title: "Group Presentation - Project Proposal"
+  description: ""
+  subtype: workshop
 -
   id: 2054
   title: "Project Presentations"
