@@ -19,7 +19,7 @@
 
 -
   id: 403
-  title: "Social Event"
+  title: "Social Event (on your own)"
 
 
 ## lecture sessions
@@ -50,6 +50,7 @@
   subtype: lecture
   speakers: [9]
   video: "//www.youtube.com/embed/HkSCv5nH4ZQ"
+  bilibili: "https://www.bilibili.com/video/BV1Y54y1J7G6/"
 -
   id: 1013
   title: "Lecture - Project Introduction"
@@ -65,6 +66,7 @@
   subtype: lecture
   speakers: [9]
   video: "//www.youtube.com/embed/dF0baINI0h0"
+  bilibili: "https://www.bilibili.com/video/BV1uU4y1H7RC/"
 -
   id: 1022
   title: "Lecture - Introduction to Scikit-Learn"
@@ -72,6 +74,7 @@
   subtype: lecture
   speakers: [9]
   video: "//www.youtube.com/embed/BCHOI0CjX5k"
+  bilibili: "https://www.bilibili.com/video/BV15U4y1H7Hs/"
 
 -
   id: 103
@@ -80,6 +83,7 @@
   subtype: lecture
   speakers: [17]
   video: "//www.youtube.com/embed/pHJsUfS_ApU"
+  bilibili: "https://www.bilibili.com/video/BV1WL411p7r9/"
   
   # presentation: "https://speakerdeck.com/gdglviv/dmytro-danylyk-android-l-animation"
 -
@@ -89,6 +93,7 @@
   subtype: presentation
   speakers: [10]
   video: "//www.youtube.com/embed/iA9Kik2TV-k"
+  bilibili: "https://www.bilibili.com/video/BV1UP4y1s7w5/"
 -
   id: 1032
   title: "Lecture - Centralities in Networks"
@@ -96,6 +101,7 @@
   subtype: lecture
   speakers: [17]
   video: "//www.youtube.com/embed/79b3iyGEzL8"
+  bilibili: "https://www.bilibili.com/video/BV1cq4y1p7PY/"
 
 -
   id: 1041
@@ -104,6 +110,8 @@
   subtype: presentation
   speakers: [15]
   video: "//www.youtube.com/embed/Hw9jL6C5Tv0"
+  bilibili: "https://www.bilibili.com/video/BV18U4y1H7Km/"
+
 -
   id: 1042
   title: "Lecture - Introduction to Deep Learning"
@@ -111,6 +119,7 @@
   subtype: lecture
   speakers: [9]
   video: "//www.youtube.com/embed/3N84yibZxD4"
+  bilibili: "https://www.bilibili.com/video/BV1pL411p7zm/"
 -
   id: 1043
   title: "Lecture - Learning Spatial Data"
@@ -118,6 +127,7 @@
   subtype: presentation
   speakers: [19]
   video: "//www.youtube.com/embed/lnxg7EQnLg8"
+  bilibili: "https://www.bilibili.com/video/BV1Qf4y1G7va/"
 -
   id: 1044
   title: "Lecture - Bias in AI"
@@ -125,8 +135,7 @@
   subtype: presentation
   speakers: [16]
   video: "//www.youtube.com/embed/n2LiKlbDE7o"
-
-
+  bilibili: "https://www.bilibili.com/video/BV1Lg41177o7/"
   
 
 ## group sessions
@@ -205,6 +214,8 @@
   subtype: Lecture
   speakers: [9, 10]
   video: "//www.youtube.com/embed/nFo5wi2I24w"
+  bilibili: "https://www.bilibili.com/video/BV1mL411J7Lt/"
+
 -
   id: 102
   title: "Numpy, Pandas & Matplotlib"
@@ -212,6 +223,7 @@
   subtype: Lecture
   speakers: [9]
   video: "//www.youtube.com/embed/HGqIvzTEvb4"
+  bilibili: "https://www.bilibili.com/video/BV1vq4y1X7dT/"
 
 - 
   id: 200
@@ -236,9 +248,7 @@
   description: "any understanding of teamwork and its success is incomplete if we ignore the notion of power. Power manifests through cooperation. as long as there are more than one person working on a given task, power starts to influence every step of communication and activities. Power is pervasive, complex, and often disguised in our research community. But power is an essential, unavoidable, yet unrecognized element of scientific collaboration. This talk will highlight some thoughts about team power, how to quantify team power in science of science, and the potential relationship between the dynamics of team power and team success. "
   subtype: presentation
   speakers: [12]
-  
-  # presentation: "https://speakerdeck.com/gdglviv/dmytro-danylyk-android-l-animation"
-  # video: "//www.youtube.com/embed/v3SCiUqI1yQ"
+
 -
   id: 2011
   title: "Discussion Panel"
@@ -264,9 +274,6 @@
   description: "The COVID-19 pandemic made apparent many of the strengths and breaking points in the scientific enterprise.  On the positive side, it demonstrated that the scientific community can come together to solve challenging problems in a fast and efficient manner. On the negative side, it revealed all the ways in which the system is broken and rotten at its core. From politicization of scientific knowledge and uncertainty, to the outrageous work demands put on the most exploited members of the community, there is much to rally against. It is upon each and every one of us to not accept this status quo and to fight for a scientific enterprise that works for the good of humankind and the environment."
   subtype: presentation
   speakers: [11]
-  
-  # presentation: "https://speakerdeck.com/gdglviv/dmytro-danylyk-android-l-animation"
-  # video: "//www.youtube.com/embed/v3SCiUqI1yQ"
 -
   id: 2021
   title: "Discussion Panel"
@@ -331,6 +338,7 @@
   speakers: [18]
   video: "//www.youtube.com/embed/OhDMNgT8G60"
   presentation: "S4-Causal-Inference.pdf"
+  bilibili: "https://www.bilibili.com/video/BV1Wq4y1p7ae/"
 -
   id: 1052
   title: "Lecture - Causal Inference"
@@ -338,6 +346,7 @@
   subtype: lecture
   speakers: [9]
   video: "//www.youtube.com/embed/llvm4fBoLEM"
+  bilibili: "https://www.bilibili.com/video/BV1w3411r7xD/"
 -
   id: 1053
   title: "Group Presentation - Project Proposal"
@@ -349,18 +358,12 @@
   description: " "
   subtype: presentation
   speakers: 
-  
-  # presentation: "https://speakerdeck.com/gdglviv/dmytro-danylyk-android-l-animation"
-  # video: "//www.youtube.com/embed/v3SCiUqI1yQ"
 -
   id: 207
   title: "S4 Summary"
   description: " "
   subtype: presentation
   speakers: 
-  
-  # presentation: "https://speakerdeck.com/gdglviv/dmytro-danylyk-android-l-animation"
-  # video: "//www.youtube.com/embed/v3SCiUqI1yQ"
 
 -
   id: 3051
