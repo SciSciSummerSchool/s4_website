@@ -126,7 +126,7 @@
   description: ""
   subtype: presentation
   speakers: [19]
-  video: "//www.youtube.com/embed/lnxg7EQnLg8"
+  video: "//www.youtube.com/embed/t4FuB0kI9F4"
   bilibili: "https://www.bilibili.com/video/BV1Qf4y1G7va/"
 -
   id: 1044
@@ -236,25 +236,29 @@
   description: "The wisdom of crowds hinges on the independence and diversity of their members’ information and approach. Here I explore the wisdom of scientific crowds for discovery, showing how findings established by more distinct methods and researchers are much more likely to replicate, how a population of diverse small teams advances science more rapidly than large ones, and how diverse prior experience are critical for punctuated advance. Artificial Intelligence has typically been designed to substitute for human expertise rather than complement it, limiting its capacity for human benefit. I demonstrate how incorporating the distribution of human expertise into AI models allows us to design diversity that complements and corrects for collective human bias, generating “alien” hypotheses unlikely to be imagined or pursued without intervention in materials discovery, drug development and COVID-19 vaccines. I discuss how to design diverse human and artificial intelligence collectives that can expand our imaginations and reach past our limits together."
   subtype: presentation
   speakers: [2]
+  video: "//www.youtube.com/embed/2fZlYrQy3lY"
 -
   id: 2013
   title: "Understanding Hot Streaks across Artistic, Cultural, and Scientific Careers"
   description: "Hot streaks dominate the main impact of creative careers. Despite their ubiquitous nature across a wide range of creative domains, it remains unclear if there is any regularity underlying the beginning of hot streaks. Here, we develop computational methods using deep learning and network science and apply them to novel, large-scale datasets tracing the career outputs of artists, film directors, and scientists, allowing us to build high-dimensional representations of the artworks, films, and scientific publications they produce. By examining individuals’ career trajectories within the underlying creative space, we find that across all three domains, individuals tend to explore diverse styles or topics before their hot streak, but become notably more focused in what they work on after the hot streak begins. Crucially, we find that hot streaks are associated with neither exploration nor exploitation behavior in isolation, but a particular sequence of exploration followed by exploitation, where the transition from exploration to exploitation closely traces the onset of a hot streak. Overall, these results unveil among the first identifiable regularity underlying the onset of hot streaks, which appears universal across diverse creative domains, suggesting that a sequential view of creative strategies that balances experimentation and implementation may be particularly powerful for producing long-lasting contributions, which may have broad implications for identifying and nurturing creative talents."
   subtype: presentation
   speakers: [6]
+  video: "//www.youtube.com/embed/x5DfwSCvIfM"
 -
   id: 2014
   title: "Team Power Dynamics: The Pathway to Team Success"
-  description: "any understanding of teamwork and its success is incomplete if we ignore the notion of power. Power manifests through cooperation. as long as there are more than one person working on a given task, power starts to influence every step of communication and activities. Power is pervasive, complex, and often disguised in our research community. But power is an essential, unavoidable, yet unrecognized element of scientific collaboration. This talk will highlight some thoughts about team power, how to quantify team power in science of science, and the potential relationship between the dynamics of team power and team success. "
+  description: "Any understanding of teamwork and its success is incomplete if we ignore the notion of power. Power manifests through cooperation. as long as there are more than one person working on a given task, power starts to influence every step of communication and activities. Power is pervasive, complex, and often disguised in our research community. But power is an essential, unavoidable, yet unrecognized element of scientific collaboration. This talk will highlight some thoughts about team power, how to quantify team power in science of science, and the potential relationship between the dynamics of team power and team success. "
   subtype: presentation
   speakers: [12]
+  video: "//www.youtube.com/embed/GPGuWquNWrc"
 
 -
   id: 2011
   title: "Discussion Panel"
-  description: " "
+  description: ""
   subtype: workshop
   speakers: [9,2,6,12]
+  video: "//www.youtube.com/embed/yRW6vomf458"
   
 -
   id: 2022
