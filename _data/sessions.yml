@@ -237,6 +237,7 @@
   subtype: presentation
   speakers: [2]
   video: "//www.youtube.com/embed/2fZlYrQy3lY"
+  bilibili: "https://www.bilibili.com/video/BV1r64y1B7jt/"
 -
   id: 2013
   title: "Understanding Hot Streaks across Artistic, Cultural, and Scientific Careers"
@@ -244,6 +245,7 @@
   subtype: presentation
   speakers: [6]
   video: "//www.youtube.com/embed/x5DfwSCvIfM"
+  bilibili: "https://www.bilibili.com/video/BV1Yg41177jr/"
 -
   id: 2014
   title: "Team Power Dynamics: The Pathway to Team Success"
@@ -251,7 +253,7 @@
   subtype: presentation
   speakers: [12]
   video: "//www.youtube.com/embed/GPGuWquNWrc"
-
+  bilibili: "https://www.bilibili.com/video/BV1mq4y1D7rb/"
 -
   id: 2011
   title: "Discussion Panel"
@@ -259,7 +261,7 @@
   subtype: workshop
   speakers: [9,2,6,12]
   video: "//www.youtube.com/embed/yRW6vomf458"
-  
+  bilibili: "https://www.bilibili.com/video/BV1D64y1W7hU/"
 -
   id: 2022
   title: "Echos of Science in a Pandemic (Engulfed by an Infodemic)"
