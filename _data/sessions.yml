@@ -269,7 +269,7 @@
   subtype: presentation
   speakers: [8]
   video: "//www.youtube.com/embed/mhlTRSTJcqM"
-
+  bilibili: "https://www.bilibili.com/video/BV1m64y1B77P/"
 -
   id: 2023
   title: "Reproducibility: How to Say What You Mean, and Explain Why it Matters"
@@ -277,7 +277,7 @@
   subtype: presentation
   speakers: [1]
   video: "//www.youtube.com/embed/OQ9UdQ6szRI"
-
+  bilibili: "https://www.bilibili.com/video/BV17v411K7AN/"
 -
   id: 2024
   title: "Some Pandemic-Prompted Thoughts on the Current State of the Scientific Enterprise"
@@ -285,7 +285,7 @@
   subtype: presentation
   speakers: [11]
   video: "//www.youtube.com/embed/xjrJyFUJStM"
-
+  bilibili: "https://www.bilibili.com/video/BV1qQ4y1f7VC/"
 -
   id: 2021
   title: "Discussion Panel"
@@ -293,7 +293,7 @@
   subtype: workshop
   speakers: [10,8,1,11]
   video: "//www.youtube.com/embed/rmWpLSkn1Hk"
-
+  bilibili: "https://www.bilibili.com/video/BV1FA411P7s9/"
   
 -
   id: 2032
