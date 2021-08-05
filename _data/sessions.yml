@@ -262,6 +262,7 @@
   speakers: [9,2,6,12]
   video: "//www.youtube.com/embed/yRW6vomf458"
   bilibili: "https://www.bilibili.com/video/BV1D64y1W7hU/"
+
 -
   id: 2022
   title: "Echos of Science in a Pandemic (Engulfed by an Infodemic)"
@@ -269,7 +270,7 @@
   subtype: presentation
   speakers: [8]
   video: "//www.youtube.com/embed/mhlTRSTJcqM"
-
+  bilibili: "https://www.bilibili.com/video/BV1m64y1B77P/"
 -
   id: 2023
   title: "Reproducibility: How to Say What You Mean, and Explain Why it Matters"
@@ -277,7 +278,7 @@
   subtype: presentation
   speakers: [1]
   video: "//www.youtube.com/embed/OQ9UdQ6szRI"
-
+  bilibili: "https://www.bilibili.com/video/BV17v411K7AN/"
 -
   id: 2024
   title: "Some Pandemic-Prompted Thoughts on the Current State of the Scientific Enterprise"
@@ -285,7 +286,7 @@
   subtype: presentation
   speakers: [11]
   video: "//www.youtube.com/embed/xjrJyFUJStM"
-
+  bilibili: "https://www.bilibili.com/video/BV1qQ4y1f7VC/"
 -
   id: 2021
   title: "Discussion Panel"
@@ -293,6 +294,7 @@
   subtype: workshop
   speakers: [10,8,1,11]
   video: "//www.youtube.com/embed/rmWpLSkn1Hk"
+  bilibili: "https://www.bilibili.com/video/BV1FA411P7s9/"
 
   
 -
@@ -301,24 +303,28 @@
   description: "The goal of this lecture is to introduce students to the tools that are used to estimate sociodemographic characteristics of authors from large-scale bibliometric data, with an emphasis on intersectionality. These approaches will be critiqued and the limitations demonstrated through validation studies. The lecture will then demonstrate the insights that can be drawn from the data, when the analysis are applied rigorously."
   subtype: presentation
   speakers: [5]
+  video: "//www.youtube.com/embed/zOwJ8ESX2IQ"
 -
   id: 2033
   title: "Are Self-Citations a Normal Feature of Knowledge Accumulation or a Perversion of Research Evaluation?"
   description: "Science is a cumulative activity, in which past knowledge serves as a foundation for new knowledge. One of the mechanisms through which the cumulative nature of science manifests itself is the act of citing. However, citations are also central to research evaluation, thus creating incentive for researchers to cite their own work. Therefore, such self-citations have been one of the most constant criticism against the use of citation indicators for the measurement of research impact. Using a dataset containing millions of papers and disambiguated authors, this talk will examine the relative importance of self-citations and self-references in the scholarly communication landscape, their relationship with age and gender of authors, as well as their effects on various research evaluation indicators. it will also present the results of a comparison of the content of cited and citing papers, thus making it possible to test whether researchers cite their own work in order to inflate their impact indicators. The talk with conclude with a discussion of the role of self-citations in the research ecosystem."
   subtype: presentation
   speakers: [3]
+  video: "//www.youtube.com/embed/g9hntL_H5pw"
 -
   id: 2034
   title: "Epistemicide and Epistemic Injustices in the Information Field"
   description: "The information professions need a paradigmatic shift to examine the ways we have systematically undermined knowledge systems falling outside of Western traditions. Epistemicide is the killing, silencing, annihilation, or devaluing of a knowledge system. Epistemicide happens when epistemic injustices are persistent, systematic, and collectively work as a structured oppression of particular ways of knowing. addressing epistemicide is critical for information professionals because we task ourselves with handling knowledge from every field. There has to be a reckoning before the paradigm can truly shift; if there is no acknowledgement of injustice, there is no room for justice."
   subtype: presentation
   speakers: [13]
+  video: "//www.youtube.com/embed/T8UPRaUCZKA"
 -
   id: 2031
   title: "Discussion Panel"
   description: " "
   subtype: workshop
   speakers: [9,5,3,13]
+  video: "//www.youtube.com/embed/PNGrLSlZPNw"
   
 -
   id: 2042
