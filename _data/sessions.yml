@@ -327,28 +327,32 @@
   
 -
   id: 2042
-  title: "Capturing tectonic shifts in contemporary science"
+  title: "Capturing Tectonic Shifts in Contemporary Science"
   description: "Scientific enterprise has undergone a major transformation since World War II. In order to help solve increasingly complex outstanding problems and questions, contemporary science has adopted new approaches to knowledge production that are predominantly team based and are less confined by disciplinary boundaries. The character of the social, institutional and intellectual aspects of science and their interplay is very complex, and requires new approaches. In this talk I will showcase a number of studies that use the data from scientific publications to shed light on contemporary research practices, such as the formation of research teams, research workforce, interdisciplinarity, productivity and citation dynamics."
   subtype: presentation
   speakers: [4]
+  video: "//www.youtube.com/embed/PX8GaXtH3mY&t"
 -
   id: 2043
   title: "Umetrics: New Data and Findings"
   description: "I describe two developing, publicly-available, interlinked data initiatives that provide unprecedented visibility into the STEM enterprise. UMETRICS uses data on payments on sponsored research projects from 72 university campuses comprising 40% of academic R&D in the U.S. to identify the full teams of researchers conducting research. These data have been linked to a wide range of researcher characteristics and research outputs, including author-ity data on biomedical publications. We describe results on the production, diffusion, and value of research with a particular emphasis on underrepresentation."
   subtype: presentation
   speakers: [7]
+  video: "//www.youtube.com/embed/LJRLm4Avl5U"
 -
   id: 2044
   title: "Evaluating The Impact of Collaboration Enablers Through Metadata analytics"
   description: "Data production processes have rarely been included in quantitative study of science not only due to the difficulty in gathering evidence and wide variant data production methods and methods in different fields, but also due to its low status in scholarly publishing hierarchy. The enablers of research collaboration include cyberinfrastructure, science policy, and sci-tech human capital. to evaluate how effectively these enablers support and foster research collaboration needs to take more than publication metadata into the metrics. The abundance of scientific data repositories and the metadata in these repositories in particular offer a great opportunity for us to reexamine the measure and methods for impact assessment, or assessment of the effectiveness of enablers in fostering collaboration and accelerating the transition from data to knowledge. This presentation talks about the theory development of the collaboration capacity framework through using the GenBank metadata as empirical evidence in the data-intensive biomedical research."
   subtype: presentation
   speakers: [14]
+  video: "//www.youtube.com/embed/V0o3rv0B-MM"
 -
   id: 2041
   title: "Discussion Panel"
   description: "Discussion Panel"
   subtype: workshop
   speakers: [10,4,7,14]
+  video: "//www.youtube.com/embed/mHUj5yrHAaU&t"
 -
   id: 1051
   title: "Causal Inference for Complex Observational Data"
