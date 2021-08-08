@@ -331,7 +331,7 @@
   description: "Scientific enterprise has undergone a major transformation since World War II. In order to help solve increasingly complex outstanding problems and questions, contemporary science has adopted new approaches to knowledge production that are predominantly team based and are less confined by disciplinary boundaries. The character of the social, institutional and intellectual aspects of science and their interplay is very complex, and requires new approaches. In this talk I will showcase a number of studies that use the data from scientific publications to shed light on contemporary research practices, such as the formation of research teams, research workforce, interdisciplinarity, productivity and citation dynamics."
   subtype: presentation
   speakers: [4]
-  video: "//www.youtube.com/embed/PX8GaXtH3mY&t"
+  video: "//www.youtube.com/embed/PX8GaXtH3mY"
 -
   id: 2043
   title: "Umetrics: New Data and Findings"
@@ -352,7 +352,7 @@
   description: "Discussion Panel"
   subtype: workshop
   speakers: [10,4,7,14]
-  video: "//www.youtube.com/embed/mHUj5yrHAaU&t"
+  video: "//www.youtube.com/embed/mHUj5yrHAaU"
 -
   id: 1051
   title: "Causal Inference for Complex Observational Data"
