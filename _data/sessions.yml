@@ -303,6 +303,7 @@
   subtype: presentation
   speakers: [5]
   video: "//www.youtube.com/embed/zOwJ8ESX2IQ"
+  bilibili: "https://www.bilibili.com/video/BV1DL411E7zg/"
 -
   id: 2033
   title: "Are Self-Citations a Normal Feature of Knowledge Accumulation or a Perversion of Research Evaluation?"
@@ -310,6 +311,7 @@
   subtype: presentation
   speakers: [3]
   video: "//www.youtube.com/embed/g9hntL_H5pw"
+  bilibili: "https://www.bilibili.com/video/BV1k54y177kk/"
 -
   id: 2034
   title: "Epistemicide and Epistemic Injustices in the Information Field"
@@ -317,6 +319,7 @@
   subtype: presentation
   speakers: [13]
   video: "//www.youtube.com/embed/T8UPRaUCZKA"
+  bilibili: "https://www.bilibili.com/video/BV1T3411z7LD/"
 -
   id: 2031
   title: "Discussion Panel"
@@ -324,6 +327,7 @@
   subtype: workshop
   speakers: [9,5,3,13]
   video: "//www.youtube.com/embed/PNGrLSlZPNw"
+  bilibili: "https://www.bilibili.com/video/BV1eM4y157qK/"
   
 -
   id: 2042
@@ -332,6 +336,7 @@
   subtype: presentation
   speakers: [4]
   video: "//www.youtube.com/embed/PX8GaXtH3mY"
+  bilibili: "https://www.bilibili.com/video/BV1E64y1s7eX/"
 -
   id: 2043
   title: "Umetrics: New Data and Findings"
@@ -339,6 +344,7 @@
   subtype: presentation
   speakers: [7]
   video: "//www.youtube.com/embed/oTo6PK9dH3s"
+  bilibili: "https://www.bilibili.com/video/BV1DP4y1x7qz/"
 -
   id: 2044
   title: "Evaluating The Impact of Collaboration Enablers Through Metadata analytics"
@@ -346,6 +352,7 @@
   subtype: presentation
   speakers: [14]
   video: "//www.youtube.com/embed/V0o3rv0B-MM"
+  bilibili: "https://www.bilibili.com/video/BV1fg411L7jM/"
 -
   id: 2041
   title: "Discussion Panel"
@@ -353,6 +360,7 @@
   subtype: workshop
   speakers: [10,4,7,14]
   video: "//www.youtube.com/embed/mHUj5yrHAaU"
+  bilibili: "https://www.bilibili.com/video/BV1N44y1278a/"
 -
   id: 1051
   title: "Causal Inference for Complex Observational Data"
