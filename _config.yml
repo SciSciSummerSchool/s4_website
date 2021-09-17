@@ -63,6 +63,9 @@ eventDate: "July 26 - August 6, 2021"
 typeoutTextValues: '"Summer School", "conference"'
 typeoutFallback: "Summer School"
 heroButtons:
+   - {link: "https://github.com/SciSciSummerSchool/s4_lectures", text: "S4 Materials"}
+   - {link: "https://www.youtube.com/playlist?list=PLdnan5SVTc8lEFm9t0zmJgkPorUBv9Nfd", text: "S4 Lectures"}
+
 #  - {link: "https://bit.ly/dfua-c4p", text: "Become a speaker"}
 #  - {permalink: "/#tickets", text: "Buy tickets"}
 
