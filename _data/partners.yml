@@ -1,7 +1,7 @@
 - 
   group: "General sponsor"
   elements: 
-    - {name: "NSF", description: "National Science Foundation", link: "https://www.nsf.gov/", imageUrl: "nsf.png"}
+    - {name: "NSF", description: "National Science Foundation Award #1933803", link: "https://nsf.gov/awardsearch/showAward?AWD_ID=1933803&HistoricalAwards=false", imageUrl: "nsf.png"}
 # - 
 #   group: "With support of"
 #   elements: 
