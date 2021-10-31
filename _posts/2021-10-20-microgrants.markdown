@@ -32,6 +32,7 @@ The goal of these micro-grants is to create momentum for the project members to 
 - **Stanislava Gardasevic**, University of Hawaii
 - **Alec McGail**, Cornell University
 - **Jodi Schneider**, University of Illinois Urbana-Champaign
+- **Manika Lamba**, University of Delhi
 
 > Science has been described as a "complex, self-organizing, and evolving network of scholars, projects, papers and ideas" (Fortunato et al., 2018, p. 2). Tools for exploring the vast data available regarding science and its development could help researchers explore and ultimately recount the history and development of academic fields, help new students navigate the complex web they are to engage with as new researchers, or help to identify fraudulent scientific claims. Current state of the art projects in this area address visualization tools and mapping of science by providing static, broad pictures of specific domains (e.g. Börner, 2010; Chen, 2013). By contrast we seek to provide general queries that could be reused to explore any dataset representing a scholarly network. We also wish to build a prototype tool which makes navigating science more independent, creative, and fun. In this document we propose a series of workshops which develop interactive visualizations of complex multimodal scientific relationships, paired with a user interaction study which assesses to what extent these visualizations help new PhD students to get acquainted with their intended field of study in an engaging way.
 
