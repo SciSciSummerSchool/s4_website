@@ -11,7 +11,7 @@ exclude: ['/automation/', 'README.md', 'LICENSE.txt', 'CNAME']
 
 # Site Settings
 title: "Science of Science Summer School"
-email: "zyi103@syr.edu"
+email: "lliang06@syr.edu"
 description: "NSF-funded virtual summer school. Free. More info on the website!"
 baseurl: ""
 url: "http://s4.scienceofscience.org" # temp link
@@ -59,7 +59,7 @@ bottomNavigationLinks:
 # Hero Block
 heroImage: "hero.jpg"
 heroTitle: "Science of Science <typeout>"
-eventDate: "July 26 - August 6, 2021"
+eventDate: "August 1 - August 12, 2022"
 typeoutTextValues: '"Summer School", "conference"'
 typeoutFallback: "Summer School"
 heroButtons:
