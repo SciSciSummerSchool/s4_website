@@ -63,9 +63,7 @@ eventDate: "August 1 - August 12, 2022"
 typeoutTextValues: '"Summer School", "conference"'
 typeoutFallback: "Summer School"
 heroButtons:
-   - {link: "https://github.com/SciSciSummerSchool/s4_lectures", text: "S4 Materials"}
-   - {link: "https://www.youtube.com/playlist?list=PLdnan5SVTc8lEFm9t0zmJgkPorUBv9Nfd", text: "S4 Lectures"}
-   - {link: "https://syracuseuniversity.qualtrics.com/jfe/form/SV_09AtEjd1jC0Pfgy", text: "Apply"}
+   - {link: "https://syracuseuniversity.qualtrics.com/jfe/form/SV_09AtEjd1jC0Pfgy", text: "Apply to S4 2022"}
 
 #  - {link: "https://bit.ly/dfua-c4p", text: "Become a speaker"}
 #  - {permalink: "/#tickets", text: "Buy tickets"}
@@ -194,7 +192,7 @@ footerBlocks:
   links:
    - {link: "mailto: deacuna@syr.edu", text: "deacuna@syr.edu"}
    - {link: "mailto: davids@ohsu.edu", text: "davids@ohsu.edu"}
-   - {link: "mailto: zyi103@syr.edu", text: "zyi103@syr.edu"}
+   - {link: "mailto: lliang06@syr.edu", text: "lliang06@syr.edu"}
  -
   title: "FAQ"
   links:
