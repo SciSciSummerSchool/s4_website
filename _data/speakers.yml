@@ -4,77 +4,77 @@
   surname: "Clauset"
   company: "Colorado University, Boulder"
   title: "Associate Professor"
-  bio: ""
+  bio: "My group's research activities are broad and multidisciplinary, and we are active participants in the network science, complex systems, computational biology, and computational social science communities. Our work generally focuses on understanding the mechanisms by which large-scale patterns emerge from the collective actions of heterogeneous individuals and on developing novel techniques for inferring such patterns and mechanisms from rich data sources. Much of this work is methodological in nature, and we actively develop novel statistical and computational methods for automatically analyzing and modeling complex phenomena in biological, social and technological systems. All of these efforts draw heavily on data analysis, machine learning, statistics, probability, algorithms and graph theory. We are particularly interested in interactions between theory and data, and the development of rigorous methods for the study of complex systems."
   thumbnailUrl: clauset.png
   rockstar: true
   social: 
-    - {name: "site", link: ""}
+    - {name: "site", link: "https://aaronclauset.github.io/"}
 - 
   id: 2
   name: "Ludo"
   surname: "Waltman"
   company: "Leiden University"
   title: "Professor"
-  bio: ''
+  bio: "Ludo Waltman is professor of Quantitative Science Studies and deputy director at the Centre for Science and Technology Studies (CWTS) at Leiden University. Ludo leads the Quantitative Science Studies (QSS) research group at CWTS."
   thumbnailUrl: waltman.png
   rockstar: true
   social: 
-    - {name: "site", link: ""}
+    - {name: "site", link: "http://www.ludowaltman.nl/"}
 - 
   id: 3
   name: "Roberta"
   surname: "Sinatra"
   company: "ITU Copenhagen"
   title: "Associate Professor"
-  bio: ""
+  bio: "Roberta Sinatra is Associate Professor at ITU Copenhagen, and holds visiting positions at ISI (Turin, Italy) and CSH (Vienna, Austria). She is the coordinator of the NEtwoRks, Data, and Society (NERDS) Research group. Her research is at the forefront of network science, data science, and computational social science."
   thumbnailUrl: sinatra.png
   rockstar: true
   social: 
-    - {name: "site", link: ""}
+    - {name: "site", link: "https://www.robertasinatra.com/"}
 - 
   id: 4
   name: "Julia"
   surname: "Lane"
   company: "New York University"
   title: "Professor"
-  bio: ""
+  bio: "Julia Lane is a Professor at the NYU Wagner Graduate School of Public Service, at the NYU Center for Urban Science and Progress, and a NYU Provostial Fellow for Innovation Analytics. She cofounded the Coleridge Initiative, whose goal is to use data to transform the way governments access and use data for the social good through training programs, research projects and a secure data facility.  The approach is attracting national attention, including the Commission on Evidence Based Policy and the Federal Data Strategy."
   thumbnailUrl: lane.png
   rockstar: true
   social: 
-    - {name: "site", link: ""}
+    - {name: "site", link: "https://wagner.nyu.edu/community/faculty/julia-lane"}
 - 
   id: 5
   name: "Daniel"
   surname: "Romero"
   company: "University of Michigan"
   title: "Associate Professor"
-  bio: ""
+  bio: "My main research interest is the empirical and theoretical analysis of Social and Information Networks. I am particularly interested in understanding the mechanisms involved in network evolution, information diffusion, and user interactions on the Web."
   thumbnailUrl: romero.png
   rockstar: true
   social: 
-    - {name: "site", link: ""}
+    - {name: "site", link: "https://lsa.umich.edu/cscs/people/core-faculty/drom.html"}
 - 
   id: 6
   name: "Patricia"
   surname: "Feeney"
   company: "Crossref"
   title: "Head of Metadata"
-  bio: ""
+  bio: "Patricia's role as Head of Metadata was created in 2018 to bring together all aspects of metadata, such as our strategy and overall vision, review and introduction of new content types, best practice around inputs (Content Registration) as well as outputs (representations through our APIs), and consulting with the community about metadata. During her 10 years at Crossref she’s helped thousands of publishers understand how to record and distribute metadata for millions of scholarly items. She’s also worked in various scholarly publishing roles and as a systems librarian and cataloger."
   thumbnailUrl: feeney.png
   rockstar: true
   social: 
-    - {name: "site", link: "/"}
+    - {name: "site", link: "https://www.crossref.org/people/patricia-feeney/"}
 - 
   id: 7  
   name: "Bei"
   surname: "Yu"
   company: "Syracuse University"
   title: "Professor"
-  bio: ""
+  bio: "My research areas are Natural Language Processing and Computational Social Science. More specifically, my research focuses on using machine learning and natural language processing techniques to improve information quality, organization and access, especially in the science and health domain. I am particularly interested in linguistic patterns that characterize people’s opinions, emotions, and language styles, and their roles in information representation and sharing in science literature, news and social media. My most recent work focuses on computational modeling of misinformation in science news. For example, I developed new methods for identifying exaggerated claims in science news by extracting and comparing claims from news articles and research papers. I also collaborate with social scientists to computationally operationalize social science theories and concepts to answer research questions in a variety of domains, such as political science, business, and mass communication. My work has been supported by funding sources including NSF, IMLS, and Microsoft."
   thumbnailUrl: yu.png
   rockstar: true
   social: 
-    - {name: "site", link: ""}
+    - {name: "site", link: "https://ischool.syr.edu/bei-yu/"}
 
 - 
   id: 8  
@@ -82,11 +82,11 @@
   surname: "Radzvilavicius"
   company: "Nature Human Behaviour"
   title: "Editor"
-  bio: ""
+  bio: "I am a theoretical biologist at University College London, where I study the origin and early evolution of complex life, sex and sexes. At the core of my research is the ancient symbiosis between bacteria and archaea that gave rise to mitochondria and modern eukaryotes. My long term goal is to explain why the life on Earth is the way it is and also offer predictions on the possible signatures of extraterrestrial life."
   thumbnailUrl: radzvilavicius.png
   rockstar: true
   social: 
-    - {name: "site", link: ""}
+    - {name: "site", link: "https://twitter.com/arunaslr"}
 
 - 
   id: 9
@@ -119,22 +119,22 @@
   surname: "Shah"
   company: "CMU"
   title: "Assistant Professor"
-  bio: ""
+  bio: "I am an assistant professor at CMU in the Machine Learning and the Computer Science departments. I work in the areas of machine learning, statistics, information theory and game theory. My current work addresses various biases and other challenges in human evaluations via principled and practical approaches. A focus application is scientific peer review, where our work has already made significant impact."
   thumbnailUrl: shah.png
   rockstar: true
   social: 
-    - {name: "site", link: ""}
+    - {name: "site", link: "https://www.cs.cmu.edu/~nihars/"}
 -
   id: 12 
   name: "Tom"
   surname: "Hope"
-  company: "Allen AI"
-  title: "Assistant Professor"
-  bio: ""
+  company: "HUJI and Allen AI (AI2)"
+  title: "Assistant Professor (HUJI) and Research Scientist (AI2)"
+  bio: "AI & data science researcher and team leader, award-winning PhD, four best paper awards, consultant to large corporations & startups including Fortune 500 CEO, EVP and SVP levels, author of O’Reilly deep learning book, entrepreneurial experience, one of 200 young researchers selected to the Heidelberg Laureate Forum."
   thumbnailUrl: hope.png
   rockstar: true
   social: 
-    - {name: "site", link: ""}
+    - {name: "site", link: "https://www.linkedin.com/in/tom-hope-1433a228/"}
 
 -
   id: 16
