@@ -1,107 +1,93 @@
 - 
   id: 1
-  name: "Monya"
-  surname: "Baker"
-  company: "Nature Journal"
-  title: "Editor and writer at Nature"
-  bio: "Monya Baker commissions and edits opinion articles on improving science for Nature magazine, where she has worked since 2007. Her work has appeared in Nature, Science, Wired, The Economist, Slate, New Scientist and elsewhere. She has an Ed.M from Harvard University and a B.A. in biology from Carleton College."
-  thumbnailUrl: monya.png
+  name: "Aaron"
+  surname: "Clauset"
+  company: "Colorado University, Boulder"
+  title: "Associate Professor"
+  bio: ""
+  thumbnailUrl: clauset.png
   rockstar: true
   social: 
-    - {name: "linkedin", link: "https://www.linkedin.com/in/monya-baker-765a544"}
+    - {name: "site", link: ""}
 - 
   id: 2
-  name: "James"
-  surname: "Evans"
-  company: "University of Chicago"
-  title: "Professor, Department of Sociology, University of Chicago"
-  bio: 'James Evans research focuses on the collective system of thinking and knowing, ranging from the distribution of attention and intuition, the origin of ideas and shared habits of reasoning to processes of agreement (and dispute), accumulation of certainty (and doubt), and the texture—novelty, ambiguity, topology—of understanding. He is especially interested in innovation—how new ideas and practices emerge—and the role that social and technical institutions (e.g., the Internet, markets, collaborations) play in collective cognition and discovery. Much of his work has focused on areas of modern science and technology, but he is also interested in other domains of knowledge—news, law, religion, gossip, hunches, machine, and historical modes of thinking and knowing.'
-  thumbnailUrl: james.jpg
+  name: "Ludo"
+  surname: "Waltman"
+  company: "Leiden University"
+  title: "Professor"
+  bio: ''
+  thumbnailUrl: waltman.png
   rockstar: true
   social: 
-    - {name: "site", link: "https://sociology.uchicago.edu/directory/james-evans"}
+    - {name: "site", link: ""}
 - 
   id: 3
-  name: "Vincent"
-  surname: "Larivière"
-  company: "l’Université de Montréal"
-  title: "Full Professor, Canada Research Chair on the Transformations of Scholarly Communication"
-  bio: "Vincent Larivière is full professor of information science at the École de bibliothéconomie et des sciences de l'information, l’Université de Montréal, where he teaches research methods and bibliometrics. He is also the scientific director of the Érudit journal platform, associate scientific director of the Observatoire des sciences et des technologies and a regular member of the Centre interuniversitaire de recherche sur la science et la technologie. He holds a B.A. in Science, Technology and Society (UQAM), an M.A. in history of science (UQAM) and a Ph.D. in information science (McGill), and has performed postdoctoral work at Indiana University’s Department of Information and Library Science."
-  thumbnailUrl: vLariviere.jpg
+  name: "Roberta"
+  surname: "Sinatra"
+  company: "ITU Copenhagen"
+  title: "Associate Professor"
+  bio: ""
+  thumbnailUrl: sinatra.png
   rockstar: true
   social: 
-    - {name: "site", link: "https://crc.ebsi.umontreal.ca/en/vincent-lariviere/biographie/"}
+    - {name: "site", link: ""}
 - 
   id: 4
-  name: "Staša"
-  surname: "Milojević"
-  company: "Indiana University"
-  title: "Associate Professor, Department of Informatics, Indiana University, Bloomington"
-  bio: "Staša Milojević is an Associate Professor in the Luddy School of Informatics, Computing, and Engineering, the director of Center for Complex Networks and Systems Research, a core faculty of Cognitive Science program, and a fellow of Rob Kling Center for Social Informatics at Indiana University, Bloomington."
-  thumbnailUrl: stasa.jpg
+  name: "Julia"
+  surname: "Lane"
+  company: "New York University"
+  title: "Professor"
+  bio: ""
+  thumbnailUrl: lane.png
   rockstar: true
-  # ribbon: 
-  #   - {abbr: "GDE", title: "Google Developer Expert", url: "https://developers.google.com/experts/"}
-  #   - {abbr: "GDG", title: "Google Developer Group", url: "https://developers.google.com/groups/chapter/107562802227561437057/"}
   social: 
-    - {name: "site", link: "http://homes.sice.indiana.edu/smilojev/"}
+    - {name: "site", link: ""}
 - 
   id: 5
-  name: "Cassidy"
-  surname: "Sugimoto"
-  company: "Georgia Institute of Technology"
-  title: "Professor, School Chair, and Tom and Marie Patton Chair in the School of Public Policy at Georgia Institute of Technology"
-  bio: "Dr. Cassidy R. Sugimoto is Professor and Tom and Marie Patton School Chair in the School of Public Policy at Georgia Institute of Technology. Her research examines the formal and informal ways in which knowledge is produced, disseminated, consumed, and supported, with an emphasis on issues of diversity, equity, and inclusion. Sugimoto was a professor of Informatics in the School of Informatics, Computing, and Engineering at Indiana University Bloomington from 2010-2021 and served as the Program Director for the Science of Science and Innovation Policy program at the National Science Foundation from 2018-2020. She has received the Indiana University Trustees Teaching award (2014), a national service award from the Association for Information Science and Technology (2009), and a Bicentennial Award for service from Indiana University (2020). She holds a bachelor’s in Music Performance, a master’s in Library Science, and a doctoral degree in Information and Library Science all from the University of North Carolina at Chapel Hill." 
-  thumbnailUrl: cassidy.jpg
+  name: "Daniel"
+  surname: "Romero"
+  company: "University of Michigan"
+  title: "Associate Professor"
+  bio: ""
+  thumbnailUrl: romero.png
   rockstar: true
-  # ribbon:
-  #   - {abbr: "GDG", title: "Google Developer Group", url: "https://developers.google.com/groups/chapter/110301321530950732281/"}
   social: 
-    - {name: "site", link: "https://spp.gatech.edu/people/person/2815f752-35cb-5607-a294-bc3ad6645390"}
-    - {name: "twitter", link: "https://twitter.com/csugimoto"}
-    - {name: "linkedin", link: "https://www.linkedin.com/pub/cassidy-sugimoto/2/339/b98"}
-    - {name: "facebook", link: "https://www.facebook.com/2714053"}
+    - {name: "site", link: ""}
 - 
   id: 6
-  name: "Dashun"
-  surname: "Wang"
-  company: "Northwestern University"
-  title: "Associate Professor, Kellogg School of Management, Northwestern University"
-  bio: "Dashun Wang is an Associate Professor of Management and Organizations at the Kellogg School of Management, and (by courtesy) the McCormick School of Engineering, at Northwestern University. His current research focus is on Science of Science, a quest to turn the scientific methods and curiosities upon ourselves, hoping to use and develop tools from complexity sciences and artificial intelligence to broadly explore the opportunities for innovation and promises of prosperity offered by the recent data explosion in science."
-  thumbnailUrl: dashun.jpg
+  name: "Patricia"
+  surname: "Feeney"
+  company: "Crossref"
+  title: "Head of Metadata"
+  bio: ""
+  thumbnailUrl: feeney.png
   rockstar: true
-  # ribbon:
-  #   - {abbr: "GDG", title: "Google Developer Group", url: "https://developers.google.com/groups/chapter/110301321530950732281/"}
   social: 
-    - {name: "site", link: "https://www.dashunwang.com/"}
-    - {name: "facebook", link: "https://www.facebook.com/dashunwang"}
-    - {name: "linkedin", link: "https://www.linkedin.com/in/dashun-wang-410a0914/"}
-    - {name: "twitter", link: "https://twitter.com/dashunwang"}
+    - {name: "site", link: "/"}
 - 
   id: 7  
-  name: "Bruce"
-  surname: "Weinberg"
-  company: "The Ohio State University"
-  title: "Professor, Department of Economics, The Ohio State University"
-  bio: "Bruce A. Weinberg received his Ph.D. from the University of Chicago in 1996 before joining the faculty at the Ohio State University, where he is now Professor of Economics and Public Affairs. His research has been published in journals including The American Economic Review, The Journal of Political Economy, The Proceedings of the National Academy of the Sciences, and Science. This research spans three areas. The first is the economics of innovation and creativity. This work studies the production, diffusion, and value of innovations, including how creativity varies over the life cycle, how an individual’s own creativity is affected by the presence of other important innovators, and disparities among researchers. The second area is family and neighborhood determinants of youth outcomes and behavior. This work studies how youth behaviors, including employment, delinquency, cognitive development, and risky behaviors, are affected by their families and peer groups. The third research area concerns technological change, industrial shifts, and the wage structure. This work studies how computerization and the shift from manufacturing to services have affected the gender wage gap, the racial wage gap, and the returns to experience."
-  thumbnailUrl: weinberg.jpg
+  name: "Bei"
+  surname: "Yu"
+  company: "Syracuse University"
+  title: "Professor"
+  bio: ""
+  thumbnailUrl: yu.png
   rockstar: true
   social: 
-    - {name: "site", link: "https://economics.osu.edu/people/weinberg.27"}
-    - {name: "facebook", link: "https://www.facebook.com/osu.economics"}
-    - {name: "twitter", link: "https://www.twitter.com/OSU_Econ"}
+    - {name: "site", link: ""}
+
 - 
   id: 8  
-  name: "Jevin"
-  surname: "West"
-  company: "University of Washington"
-  title: "Associate Professor, Information School, University of Washington"
-  bio: "Jevin West is an Associate Professor in the Information School at the University of Washington. he co-founded the DataLab and direct the Center for an Informed Public. he studies the Science of Science and worries about the spread of misinformation. My laboratory consists of millions of scholarly papers and the billions of links that connect these papers. he develops knowledge discovery tools to both studies and facilitates science. In particular, Iheam interested in the origin of scholarly disciplines and how sociological and economic factors drive and slow the evolution of science."
-  thumbnailUrl: jevinwest.jpg
+  name: "Arunas"
+  surname: "Radzvilavicius"
+  company: "Nature Human Behaviour"
+  title: "Editor"
+  bio: ""
+  thumbnailUrl: radzvilavicius.png
   rockstar: true
   social: 
-    - {name: "site", link: "https://jevinwest.org/"}
-    - {name: "twitter", link: "https://twitter.com/jevinwest"}
+    - {name: "site", link: ""}
+
 - 
   id: 9
   name: "Daniel"
@@ -129,59 +115,27 @@
     - {name: "site", link: "https://www.ohsu.edu/people/stephen-v-david-phd"}
 -
   id: 11
-  name: "Luís A. Nunes"
-  surname: "Amaral"
-  company: "Northwestern Institute"
-  title: "co-Director, Northwestern Institute on Complex Systems Professor of Chemical & Biological Engineering"
-  bio: "Professor Amaral, a native of Portugal, conducts and directs research that provides insight into the emergence, evolution, and stability of complex social and biological systems. His research aims to address some of the most pressing challenges facing human societies and the world’s ecosystems, including the mitigation of errors in healthcare settings, the characterization of the conditions fostering innovation and creativity, or the growth limits imposed by sustainability."
-  thumbnailUrl: luis.png
+  name: "Nihar B."
+  surname: "Shah"
+  company: "CMU"
+  title: "Assistant Professor"
+  bio: ""
+  thumbnailUrl: shah.png
   rockstar: true
   social: 
-    - {name: "site", link: "https://amaral.northwestern.edu/people/amaral/"}
+    - {name: "site", link: ""}
 -
   id: 12 
-  name: "Ying"
-  surname: "Ding"
-  company: "University of Texas at Austin"
-  title: "Bill & Lewis Suit Professor School of Information University of Texas at Austin"
-  bio: "Dr. Ying Ding is Bill & Lewis Suit Professor at School of Information, University of Texas at Austin. Before that, she was a professor and director of graduate studies for data science program at School of Informatics, Computing, and Engineering at Indiana University. She has led the effort to develop the online data science graduate program for Indiana University. She also worked as a senior researcher at Department of Computer Science, University of Innsburck (Austria) and Free University of Amsterdam (the Netherlands). She has been involved in various NIH, NSF and European-Union funded projects. She has published 280+ papers in journals, conferences, and workshops, and served as the program committee member for 250+ international conferences. She is the co-editor of book series called Semantic Web Synthesis by Morgan & Claypool publisher, the co-editor-in-chief for Data Intelligence published by MIT Press and Chinese Academy of Sciences, and serves as the editorial board member for several top journals in Information Science and Semantic Web. She is the co-founder of Data2Discovery company advancing cutting edge AI technologies in drug discovery and healthcare. Her current research interests include bibliometrics, data-driven science of science, team collaboration, AI in health, knowledge graph, and scholarly communication."
-  thumbnailUrl: ying.jpg
+  name: "Tom"
+  surname: "Hope"
+  company: "Allen AI"
+  title: "Assistant Professor"
+  bio: ""
+  thumbnailUrl: hope.png
   rockstar: true
   social: 
-    - {name: "site", link: "https://yingding.ischool.utexas.edu/"}
--
-  id: 13
-  name: "Beth"
-  surname: "Patin"
-  company: "Syracuse University"
-  title: "Assistant Professor at Syracuse University’s School of Information Studies"
-  bio: "Dr. Beth Patin is an Assistant Professor at Syracuse University’s School of Information Studies. Beth’s research agenda focuses on the equity of information in two research streams: crisis informatics and cultural competence. She is the co-founder of the Library Information Investigative Team research group. Currently, she is working on projects about epistemicide and at the intersection of disability and race in youth literature. Additionally, she is a member of the Advisory Board on the Laura Bush Foundation for America’s Libraries."
-  thumbnailUrl: beth.jpg
-  rockstar: true
-  social: 
-    - {name: "site", link: "https://www.equityinformatics.online/"}
--
-  id: 14
-  name: "Jian"
-  surname: "Qin"
-  company: "Syracuse University"
-  title: "Professor at the iSchool, Syracuse University"
-  bio: "Jian Qin is Professor at the iSchool, Syracuse University. The areas of her research interest include metadata, knowledge and data modeling, scientific communication, research networks, and research data management. She received funding from IMLS to develop an eScience librarianship curriculum and from NSF for the Science Data Literacy project. Jian Qin directs a Metadata Lab that focuses on big metadata analytics and metadata modeling and linking. "
-  thumbnailUrl: jian.jpg
-  rockstar: true
-  social: 
-    - {name: "site", link: "http://jianqin.metadataetc.org/"}
--
-  id: 15
-  name: "Lucy"
-  surname: "Wang"
-  company: "Allen Institute for AI (AI2)"
-  title: "Postdoctoral Investigator, Allen Institute for AI (AI2)"
-  bio: "I am a Postdoctoral Investigator at the Allen Institute for AI (AI2) in the Semantic Scholar research group. I work on KR and biomedical ontologies, text mining and NLP for biomedical and scientific text, open access, and meta-science. I completed my PhD in the Department of Biomedical Informatics and Medical Education (BIME) at the University of Washington in Seattle, WA. I also hold degrees in Biomedical Engineering and Physics from Johns Hopkins and MIT respectively."
-  thumbnailUrl: lucy.jpg
-  speaker: true
-  social: 
-    - {name: "site", link: "https://www.llwang.net/"}
+    - {name: "site", link: ""}
+
 -
   id: 16
   name: "Lizhen"
@@ -191,29 +145,7 @@
   speaker: True
   social: 
     - {name: "github", link: "https://github.com/LiamLiang"}
--
-  id: 17
-  name: "Qing"
-  surname: "Ke"
-  company: "Syracuse University"
-  title: "Postdoc"
-  thumbnailUrl: qingke.jpg
-  speaker: True
-  social: 
-    - {name: "site", link: "https://qke.github.io/"}
-    - {name: "github", link: "https://github.com/qke"}
-    - {name: "twitter", link: "https://www.twitter.com/quingke"}
--
-  id: 18
-  name: "Jianxuan"
-  surname: "Liu"
-  company: "Syracuse University"
-  title: "Assistant Professor, Department of Mathematics, Syracuse University"
-  bio: "Jianxuan Liu is an Assistant Professor of Statistics in the Department of Mathematics, and a Senior Research Affiliate in the Center for Policy Research, Syracuse University. Her research interests include causal inference, semiparametric modeling, high-dimensional data, measurement error models, and case-control study. She has a wide range of statistical consulting experiences in industry, non-profit research institutes, and academia."
-  thumbnailUrl: jianxuan.jpg
-  speaker: true
-  social: 
-    - {name: "site", link: "https://jliu193.expressions.syr.edu"}
+
 -
   id: 19 
   name: "Han"

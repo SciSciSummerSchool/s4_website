@@ -30,7 +30,7 @@ googleAnalyticsSiteUrl: "https://s4.scienceofscience.org/"
 
 # Head
 
-metaKeywords: "SOS CD, science of science summer school, nsf, Statistical learning, machine learning, artificial intelligence"
+metaKeywords: "SOS CD, science of science summer school, nsf, statistical learning, machine learning, artificial intelligence"
 twitterAccount: "@daniel_akuna"
 socialImageSrcGooglePlus: "/img/seo/s4_socialmedia_large.png"
 socialImageSrcTwitter: "/img/seo/s4_socialmedia_large.png"
@@ -46,7 +46,7 @@ navigationLinks:
  - {permalink: "/", text: "Home"}
  - {permalink: "/announcement/", text: "Announcement"}
 #  - {permalink: "/schedule/", text: "Schedule"}
-#  - {permalink: "/speakers/", text: "Speakers"}
+ - {permalink: "/speakers/", text: "Speakers"}
  - {permalink: "/faq/", text: "FAQ"}
  - {permalink: "/team/", text: "Team"}
 #  - {permalink: "/logistics/", text: "Logistics"}
@@ -63,9 +63,10 @@ eventDate: "August 1 - August 12, 2022"
 typeoutTextValues: '"Summer School", "conference"'
 typeoutFallback: "Summer School"
 heroButtons:
-   - {link: "https://github.com/SciSciSummerSchool/s4_lectures", text: "S4 Materials"}
-   - {link: "https://www.youtube.com/playlist?list=PLdnan5SVTc8lEFm9t0zmJgkPorUBv9Nfd", text: "S4 Lectures"}
    - {link: "https://syracuseuniversity.qualtrics.com/jfe/form/SV_09AtEjd1jC0Pfgy", text: "Apply to S4 2022"}
+   - {link: "https://github.com/SciSciSummerSchool/s4_lectures", text: "S4 2021 Materials"}
+   - {link: "https://www.youtube.com/playlist?list=PLdnan5SVTc8lEFm9t0zmJgkPorUBv9Nfd", text: "S4 2021 Lectures"}
+
 
 #  - {link: "https://bit.ly/dfua-c4p", text: "Become a speaker"}
 #  - {permalink: "/#tickets", text: "Buy tickets"}
