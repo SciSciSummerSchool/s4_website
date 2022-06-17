@@ -130,11 +130,11 @@
   surname: "Hope"
   company: "HUJI and Allen AI (AI2)"
   title: "Assistant Professor (HUJI) and Research Scientist (AI2)"
-  bio: "AI & data science researcher and team leader, award-winning PhD, four best paper awards, consultant to large corporations & startups including Fortune 500 CEO, EVP and SVP levels, author of O’Reilly deep learning book, entrepreneurial experience, one of 200 young researchers selected to the Heidelberg Laureate Forum."
+  bio: "Tom Hope is an assistant professor at the Hebrew University of Jerusalem's School of Computer Science and Engineering, and a research scientist at The Allen Institute for AI (AI2). Prior to that, he was until recently a postdoctoral researcher at AI2 and The University of Washington, working on accelerating scientific discovery with Daniel Weld and Eric Horvitz. His work has received four best paper awards, appeared in top venues, and covered by Nature and Science. In parallel to his PhD Tom led an applied AI research team at Intel that published award-winning work. Tom was awarded the Azrieli Early Career Faculty Fellowship, selected for the 2021 Global Young Scientists Summit and 2019 Heidelberg Laureate Forum, and was a member of the KDD 2020 Best Paper Selection Committee."
   thumbnailUrl: hope.png
   rockstar: true
   social: 
-    - {name: "site", link: "https://www.linkedin.com/in/tom-hope-1433a228/"}
+    - {name: "site", link: "https://www.cs.huji.ac.il/~tomhope/"}
 
 -
   id: 16
