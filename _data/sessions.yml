@@ -1,0 +1,405 @@
+-
+  id: 307
+  title: "Short Break"
+  place: "Hall"
+  service: true
+  description: "The best time to talk with speakers and attendees"
+-
+  id: 503
+  title: "Long Break"
+  service: true
+-
+  id: 401
+  title: "Group Workshop"
+  description: " "
+
+-
+  id: 402
+  title: "Group Workshop (alternative Time Zone)"
+
+-
+  id: 403
+  title: "Social Event (on your own)"
+
+
+## lecture sessions
+-
+  id: 0001
+  title: "Lecture Block 1"
+  description: " "
+  subtype: lecture
+  speakers:
+-
+  id: 0002
+  title: "Lecture Block 2"
+  description: " "
+  subtype: lecture
+  speakers:
+
+
+-
+  id: 1011
+  title: "Students Introduction"
+  description: " "
+  subtype: lecture
+  speakers:
+-
+  id: 1012
+  title: "Lecture - Basic Python & Environment"
+  description: ""
+  subtype: lecture
+  speakers: [9]
+  video: "//www.youtube.com/embed/HkSCv5nH4ZQ"
+  bilibili: "https://www.bilibili.com/video/BV1Y54y1J7G6/"
+-
+  id: 1013
+  title: "Lecture - Project Introduction"
+  description: "Professor Stephen went through the Project Proposal Guidelines (document can be found on slack)"
+  subtype: lecture
+  service: True
+
+
+-
+  id: 1021
+  title: "Lecture - Statistical Learning"
+  description: ""
+  subtype: lecture
+  speakers: [9]
+  video: "//www.youtube.com/embed/dF0baINI0h0"
+  bilibili: "https://www.bilibili.com/video/BV1uU4y1H7RC/"
+-
+  id: 1022
+  title: "Lecture - Introduction to Scikit-Learn"
+  description: ""
+  subtype: lecture
+  speakers: [9]
+  video: "//www.youtube.com/embed/BCHOI0CjX5k"
+  bilibili: "https://www.bilibili.com/video/BV15U4y1H7Hs/"
+
+-
+  id: 103
+  title: "Lecture - Intro to Network Science"
+  description: " "
+  subtype: lecture
+  speakers: [17]
+  video: "//www.youtube.com/embed/pHJsUfS_ApU"
+  bilibili: "https://www.bilibili.com/video/BV1WL411p7r9/"
+
+  # presentation: "https://speakerdeck.com/gdglviv/dmytro-danylyk-android-l-animation"
+-
+  id: 1031
+  title: "Lecture - Mentorship Networks"
+  description: ""
+  subtype: presentation
+  speakers: [10]
+  video: "//www.youtube.com/embed/iA9Kik2TV-k"
+  bilibili: "https://www.bilibili.com/video/BV1UP4y1s7w5/"
+-
+  id: 1032
+  title: "Lecture - Centralities in Networks"
+  description: ""
+  subtype: lecture
+  speakers: [17]
+  video: "//www.youtube.com/embed/wQmGlvijsdA"
+  bilibili: "https://www.bilibili.com/video/BV1cq4y1p7PY/"
+
+-
+  id: 1041
+  title: "Practical NLP and Deep Learning for Scientific Text Mining"
+  description: "Keeping up with scientific literature is like drinking from a firehose. as more papers are published each year, automated methods for discovering, reading, and understanding the literature are needed to help us identify the latest and most applicable findings. This is especially the case in biomedical literature, where novel developments may have direct and immediate ramifications to patient care. in this talk, I will provide an overview of several projects that focus on scientific document understanding. I will discuss recent work on classifying text in scientific papers by combining document visual layout and semantics, which can produce high-fidelity, machine-readable representations of scientific papers that are useful for a variety of downstream applications. I will then provide several examples of how NLP and deep learning methods can be applied to specific problems in biomedical text mining such as relation extraction, fact checking, and multi-document summarization. These problems involve interactions between many documents, and the success of our models depends on our ability to accurately retrieve and extract information from all relevant documents. I will close with a discussion of ongoing challenges in this domain, and how we are hoping to address these challenges going forward."
+  subtype: presentation
+  speakers: [15]
+  video: "//www.youtube.com/embed/Hw9jL6C5Tv0"
+  bilibili: "https://www.bilibili.com/video/BV18U4y1H7Km/"
+
+-
+  id: 1042
+  title: "Lecture - Introduction to Deep Learning"
+  description: ""
+  subtype: lecture
+  speakers: [9]
+  video: "//www.youtube.com/embed/3N84yibZxD4"
+  bilibili: "https://www.bilibili.com/video/BV1pL411p7zm/"
+-
+  id: 1043
+  title: "Lecture - Learning Spatial Data"
+  description: ""
+  subtype: presentation
+  speakers: [19]
+  video: "//www.youtube.com/embed/t4FuB0kI9F4"
+  bilibili: "https://www.bilibili.com/video/BV1WQ4y1f7KL/"
+-
+  id: 1044
+  title: "Lecture - Bias in AI"
+  description: ""
+  subtype: presentation
+  speakers: [16]
+  video: "//www.youtube.com/embed/n2LiKlbDE7o"
+  bilibili: "https://www.bilibili.com/video/BV1Lg41177o7/"
+
+
+## group sessions
+# day 6
+-
+  id: 1003
+  title: "Group Sessions With Mentors"
+  description: " "
+  subtype: workshop
+  speakers: [6,12,2]
+-
+  id: 2003
+  title: "Group Sessions With Mentors"
+  description: " "
+  subtype: workshop
+  speakers: [12,2]
+# day 7
+-
+  id: 3003
+  title: "Group Sessions With Mentors"
+  description: " "
+  subtype: workshop
+  speakers: [1,12,11,8,2]
+-
+  id: 4003
+  title: "Group Sessions With Mentors"
+  description: " "
+  subtype: workshop
+  speakers: [1,12,8,2]
+# day 8
+-
+  id: 5003
+  title: "Group Sessions With Mentors"
+  description: " "
+  subtype: workshop
+  speakers: [3,13,5,8]
+-
+  id: 6003
+  title: "Group Sessions With Mentors"
+  description: " "
+  subtype: workshop
+  speakers: [3,5]
+# day 9
+-
+  id: 7003
+  title: "Group Sessions With Mentors"
+  description: " "
+  subtype: workshop
+  speakers: [3,14,7,4,5]
+-
+  id: 8003
+  title: "Group Sessions With Mentors"
+  description: " "
+  subtype: workshop
+  speakers: [3,14,7,4]
+# day 10
+-
+  id: 9003
+  title: "Group Sessions With Mentors"
+  description: " "
+  subtype: workshop
+  speakers: [14,7,4]
+-
+  id: 10003
+  title: "Group Sessions With Mentors"
+  description: " "
+  subtype: workshop
+  speakers: [14,7,4]
+
+## details
+
+-
+  id: 101
+  title: "Opening and Introduction to Science of Science"
+  description: "We will go through the basic technology: Jupyterlab, Python, Numpy, Pandas, scikit-learn. Coding: Data loading, cleaning, exploration"
+  subtype: Lecture
+  speakers: [9, 10]
+  video: "//www.youtube.com/embed/nFo5wi2I24w"
+  bilibili: "https://www.bilibili.com/video/BV1mL411J7Lt/"
+
+-
+  id: 102
+  title: "Numpy, Pandas & Matplotlib"
+  description: " "
+  subtype: Lecture
+  speakers: [9]
+  video: "//www.youtube.com/embed/HGqIvzTEvb4"
+  bilibili: "https://www.bilibili.com/video/BV1vq4y1X7dT/"
+
+-
+  id: 200
+  title: "Opening"
+  subtype: presentation
+
+-
+  id: 2012
+  title: "Designing Diversity for Discovery"
+  description: "The wisdom of crowds hinges on the independence and diversity of their members’ information and approach. Here I explore the wisdom of scientific crowds for discovery, showing how findings established by more distinct methods and researchers are much more likely to replicate, how a population of diverse small teams advances science more rapidly than large ones, and how diverse prior experience are critical for punctuated advance. Artificial Intelligence has typically been designed to substitute for human expertise rather than complement it, limiting its capacity for human benefit. I demonstrate how incorporating the distribution of human expertise into AI models allows us to design diversity that complements and corrects for collective human bias, generating “alien” hypotheses unlikely to be imagined or pursued without intervention in materials discovery, drug development and COVID-19 vaccines. I discuss how to design diverse human and artificial intelligence collectives that can expand our imaginations and reach past our limits together."
+  subtype: presentation
+  speakers: [2]
+  video: "//www.youtube.com/embed/2fZlYrQy3lY"
+  bilibili: "https://www.bilibili.com/video/BV1r64y1B7jt/"
+-
+  id: 2013
+  title: "Understanding Hot Streaks across Artistic, Cultural, and Scientific Careers"
+  description: "Hot streaks dominate the main impact of creative careers. Despite their ubiquitous nature across a wide range of creative domains, it remains unclear if there is any regularity underlying the beginning of hot streaks. Here, we develop computational methods using deep learning and network science and apply them to novel, large-scale datasets tracing the career outputs of artists, film directors, and scientists, allowing us to build high-dimensional representations of the artworks, films, and scientific publications they produce. By examining individuals’ career trajectories within the underlying creative space, we find that across all three domains, individuals tend to explore diverse styles or topics before their hot streak, but become notably more focused in what they work on after the hot streak begins. Crucially, we find that hot streaks are associated with neither exploration nor exploitation behavior in isolation, but a particular sequence of exploration followed by exploitation, where the transition from exploration to exploitation closely traces the onset of a hot streak. Overall, these results unveil among the first identifiable regularity underlying the onset of hot streaks, which appears universal across diverse creative domains, suggesting that a sequential view of creative strategies that balances experimentation and implementation may be particularly powerful for producing long-lasting contributions, which may have broad implications for identifying and nurturing creative talents."
+  subtype: presentation
+  speakers: [6]
+  video: "//www.youtube.com/embed/x5DfwSCvIfM"
+  bilibili: "https://www.bilibili.com/video/BV1Yg41177jr/"
+-
+  id: 2014
+  title: "Team Power Dynamics: The Pathway to Team Success"
+  description: "Any understanding of teamwork and its success is incomplete if we ignore the notion of power. Power manifests through cooperation. as long as there are more than one person working on a given task, power starts to influence every step of communication and activities. Power is pervasive, complex, and often disguised in our research community. But power is an essential, unavoidable, yet unrecognized element of scientific collaboration. This talk will highlight some thoughts about team power, how to quantify team power in science of science, and the potential relationship between the dynamics of team power and team success. "
+  subtype: presentation
+  speakers: [12]
+  video: "//www.youtube.com/embed/GPGuWquNWrc"
+  bilibili: "https://www.bilibili.com/video/BV1mq4y1D7rb/"
+-
+  id: 2011
+  title: "Discussion Panel"
+  description: ""
+  subtype: workshop
+  speakers: [9,2,6,12]
+  video: "//www.youtube.com/embed/yRW6vomf458"
+  bilibili: "https://www.bilibili.com/video/BV1D64y1W7hU/"
+
+-
+  id: 2022
+  title: "Echos of Science in a Pandemic (Engulfed by an Infodemic)"
+  description: "Digitization of the scientific literature has been transformative. Researchers and the public can now instantaneously access millions of papers—unquestionably a good thing for science and society. However, this access generally filters through search engines, social media, and recommender systems. It is less clear whether, and in what ways, these filters are benefiting and changing the practice of scientific discovery and knowledge dissemination. Are they increasing access to a broader range of the literature and thereby democratizing science? Or are scientists reading a more concentrated set of papers? And how are these filters and potential echo chambers impacting public understanding of science? This talk will highlight a set of studies that investigate the extent of citation and usage-based concentration, the changing role of journals and gatekeepers of science, and how these changing roles impact trust and perception of science during a pandemic engulfed by a simultaneous infodemic."
+  subtype: presentation
+  speakers: [8]
+  video: "//www.youtube.com/embed/mhlTRSTJcqM"
+  bilibili: "https://www.bilibili.com/video/BV1m64y1B77P/"
+-
+  id: 2023
+  title: "Reproducibility: How to Say What You Mean, and Explain Why it Matters"
+  description: "Reproducibility means many things to many people. This session will cover 1) various uses of ‘replication’ and ‘reproducibility’ in different communities 2) how Nature commissions and edits opinion articles on improving science and 3) how to pitch and write articles for a general scientific audience"
+  subtype: presentation
+  speakers: [1]
+  video: "//www.youtube.com/embed/OQ9UdQ6szRI"
+  bilibili: "https://www.bilibili.com/video/BV17v411K7AN/"
+-
+  id: 2024
+  title: "Some Pandemic-Prompted Thoughts on the Current State of the Scientific Enterprise"
+  description: "The COVID-19 pandemic made apparent many of the strengths and breaking points in the scientific enterprise.  On the positive side, it demonstrated that the scientific community can come together to solve challenging problems in a fast and efficient manner. On the negative side, it revealed all the ways in which the system is broken and rotten at its core. From politicization of scientific knowledge and uncertainty, to the outrageous work demands put on the most exploited members of the community, there is much to rally against. It is upon each and every one of us to not accept this status quo and to fight for a scientific enterprise that works for the good of humankind and the environment."
+  subtype: presentation
+  speakers: [11]
+  video: "//www.youtube.com/embed/xjrJyFUJStM"
+  bilibili: "https://www.bilibili.com/video/BV1qQ4y1f7VC/"
+-
+  id: 2021
+  title: "Discussion Panel"
+  description: " "
+  subtype: workshop
+  speakers: [10,8,1,11]
+  video: "//www.youtube.com/embed/rmWpLSkn1Hk"
+  bilibili: "https://www.bilibili.com/video/BV1FA411P7s9/"
+
+-
+  id: 2032
+  title: "Quantifying Disparities: Utilizing an Intersectional Approach in Science of Science"
+  description: "The goal of this lecture is to introduce students to the tools that are used to estimate sociodemographic characteristics of authors from large-scale bibliometric data, with an emphasis on intersectionality. These approaches will be critiqued and the limitations demonstrated through validation studies. The lecture will then demonstrate the insights that can be drawn from the data, when the analysis are applied rigorously."
+  subtype: presentation
+  speakers: [5]
+  video: "//www.youtube.com/embed/zOwJ8ESX2IQ"
+  bilibili: "https://www.bilibili.com/video/BV1DL411E7zg/"
+-
+  id: 2033
+  title: "Are Self-Citations a Normal Feature of Knowledge Accumulation or a Perversion of Research Evaluation?"
+  description: "Science is a cumulative activity, in which past knowledge serves as a foundation for new knowledge. One of the mechanisms through which the cumulative nature of science manifests itself is the act of citing. However, citations are also central to research evaluation, thus creating incentive for researchers to cite their own work. Therefore, such self-citations have been one of the most constant criticism against the use of citation indicators for the measurement of research impact. Using a dataset containing millions of papers and disambiguated authors, this talk will examine the relative importance of self-citations and self-references in the scholarly communication landscape, their relationship with age and gender of authors, as well as their effects on various research evaluation indicators. it will also present the results of a comparison of the content of cited and citing papers, thus making it possible to test whether researchers cite their own work in order to inflate their impact indicators. The talk with conclude with a discussion of the role of self-citations in the research ecosystem."
+  subtype: presentation
+  speakers: [3]
+  video: "//www.youtube.com/embed/g9hntL_H5pw"
+  bilibili: "https://www.bilibili.com/video/BV1k54y177kk/"
+-
+  id: 2034
+  title: "Epistemicide and Epistemic Injustices in the Information Field"
+  description: "The information professions need a paradigmatic shift to examine the ways we have systematically undermined knowledge systems falling outside of Western traditions. Epistemicide is the killing, silencing, annihilation, or devaluing of a knowledge system. Epistemicide happens when epistemic injustices are persistent, systematic, and collectively work as a structured oppression of particular ways of knowing. addressing epistemicide is critical for information professionals because we task ourselves with handling knowledge from every field. There has to be a reckoning before the paradigm can truly shift; if there is no acknowledgement of injustice, there is no room for justice."
+  subtype: presentation
+  speakers: [13]
+  video: "//www.youtube.com/embed/T8UPRaUCZKA"
+  bilibili: "https://www.bilibili.com/video/BV1T3411z7LD/"
+-
+  id: 2031
+  title: "Discussion Panel"
+  description: " "
+  subtype: workshop
+  speakers: [9,5,3,13]
+  video: "//www.youtube.com/embed/PNGrLSlZPNw"
+  bilibili: "https://www.bilibili.com/video/BV1eM4y157qK/"
+
+-
+  id: 2042
+  title: "Capturing Tectonic Shifts in Contemporary Science"
+  description: "Scientific enterprise has undergone a major transformation since World War II. In order to help solve increasingly complex outstanding problems and questions, contemporary science has adopted new approaches to knowledge production that are predominantly team based and are less confined by disciplinary boundaries. The character of the social, institutional and intellectual aspects of science and their interplay is very complex, and requires new approaches. In this talk I will showcase a number of studies that use the data from scientific publications to shed light on contemporary research practices, such as the formation of research teams, research workforce, interdisciplinarity, productivity and citation dynamics."
+  subtype: presentation
+  speakers: [4]
+  video: "//www.youtube.com/embed/PX8GaXtH3mY"
+  bilibili: "https://www.bilibili.com/video/BV1E64y1s7eX/"
+-
+  id: 2043
+  title: "Umetrics: New Data and Findings"
+  description: "I describe two developing, publicly-available, interlinked data initiatives that provide unprecedented visibility into the STEM enterprise. UMETRICS uses data on payments on sponsored research projects from 72 university campuses comprising 40% of academic R&D in the U.S. to identify the full teams of researchers conducting research. These data have been linked to a wide range of researcher characteristics and research outputs, including author-ity data on biomedical publications. We describe results on the production, diffusion, and value of research with a particular emphasis on underrepresentation."
+  subtype: presentation
+  speakers: [7]
+  video: "//www.youtube.com/embed/oTo6PK9dH3s"
+  bilibili: "https://www.bilibili.com/video/BV1DP4y1x7qz/"
+-
+  id: 2044
+  title: "Evaluating The Impact of Collaboration Enablers Through Metadata analytics"
+  description: "Data production processes have rarely been included in quantitative study of science not only due to the difficulty in gathering evidence and wide variant data production methods and methods in different fields, but also due to its low status in scholarly publishing hierarchy. The enablers of research collaboration include cyberinfrastructure, science policy, and sci-tech human capital. to evaluate how effectively these enablers support and foster research collaboration needs to take more than publication metadata into the metrics. The abundance of scientific data repositories and the metadata in these repositories in particular offer a great opportunity for us to reexamine the measure and methods for impact assessment, or assessment of the effectiveness of enablers in fostering collaboration and accelerating the transition from data to knowledge. This presentation talks about the theory development of the collaboration capacity framework through using the GenBank metadata as empirical evidence in the data-intensive biomedical research."
+  subtype: presentation
+  speakers: [14]
+  video: "//www.youtube.com/embed/V0o3rv0B-MM"
+  bilibili: "https://www.bilibili.com/video/BV1fg411L7jM/"
+-
+  id: 2041
+  title: "Discussion Panel"
+  description: "Discussion Panel"
+  subtype: workshop
+  speakers: [10,4,7,14]
+  video: "//www.youtube.com/embed/mHUj5yrHAaU"
+  bilibili: "https://www.bilibili.com/video/BV1N44y1278a/"
+-
+  id: 1051
+  title: "Causal Inference for Complex Observational Data"
+  description: "The goal of most empirical studies in policy research and medical research is to determine whether an alteration in an intervention or a treatment will cause a change in the desired outcome response. Unlike randomized designs, establishing the causal relationship based on observational studies is a challenging problem because the ceteris paribus condition is violated. When the covariates of interest are measured with errors, evaluating the causal effects becomes a thorny issue. Additional challenge arises from confounding variables which are often of high dimensional or correlated with the error-prone covariates. Most of the existing methods for estimating the average causal effect heavily rely on parametric assumptions about the propensity score or the outcome regression model one way or the other. In reality, both models are prone to misspecification, which can have undue influence on the estimated average causal effect. To the best of our knowledge, all the existing methods cannot handle high-dimensional covariates in the presence of error-prone covariates. We propose a semiparametric method to establish the causal relationship, which yields a consistent estimator of the average causal effect. The method we proposed results in efficient estimators of the covariate effects. We investigate their theoretical properties and demonstrate their finite sample performance through extensive simulation studies."
+  subtype: presentation
+  speakers: [18]
+  video: "//www.youtube.com/embed/OhDMNgT8G60"
+  presentation: "S4-Causal-Inference.pdf"
+  bilibili: "https://www.bilibili.com/video/BV1Wq4y1p7ae/"
+-
+  id: 1052
+  title: "Lecture - Causal Inference"
+  description: ""
+  subtype: lecture
+  speakers: [9]
+  video: "//www.youtube.com/embed/llvm4fBoLEM"
+  bilibili: "https://www.bilibili.com/video/BV1w3411r7xD/"
+-
+  id: 1053
+  title: "Group Presentation - Project Proposal"
+  description: ""
+  subtype: workshop
+-
+  id: 2054
+  title: "Project Presentations"
+  description: " "
+  subtype: presentation
+  speakers:
+-
+  id: 207
+  title: "S4 Summary"
+  description: " "
+  subtype: presentation
+  speakers:
+
+-
+  id: 3051
+  title: "S4 Projects Intro"
+  description: " "
+  subtype: presentation
+  speakers:
+

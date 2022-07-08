@@ -55,16 +55,16 @@
                                                 {% endfor %}    
                                             {% endfor %}
                                         </ul>
-                                        {% if session.video != null %}
-                                            <div class="theme-video embed-responsive embed-responsive-16by9">
-                                                <iframe allowfullscreen="allowfullscreen"
-                                                mozallowfullscreen="mozallowfullscreen" 
-                                                msallowfullscreen="msallowfullscreen" 
-                                                oallowfullscreen="oallowfullscreen" 
-                                                webkitallowfullscreen="webkitallowfullscreen" 
-                                                class="embed-responsive-item" src="{{ session.video }}"></iframe>
-                                            </div>
-                                        {% endif %}
+<!--                                        {% if session.video != null %}-->
+<!--                                            <div class="theme-video embed-responsive embed-responsive-16by9">-->
+<!--                                                <iframe allowfullscreen="allowfullscreen"-->
+<!--                                                mozallowfullscreen="mozallowfullscreen" -->
+<!--                                                msallowfullscreen="msallowfullscreen" -->
+<!--                                                oallowfullscreen="oallowfullscreen" -->
+<!--                                                webkitallowfullscreen="webkitallowfullscreen" -->
+<!--                                                class="embed-responsive-item" src="{{ session.video }}"></iframe>-->
+<!--                                            </div>-->
+<!--                                        {% endif %}-->
                                     </div>
                                 </div>
                                 {% elsif slot == session.id and session.service != null %}
