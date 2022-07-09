@@ -1,5 +1,5 @@
 - 
-  id: 1
+  id: "Clauset"
   name: "Aaron"
   surname: "Clauset"
   company: "Colorado University, Boulder"
@@ -10,7 +10,7 @@
   social: 
     - {name: "site", link: "https://aaronclauset.github.io/"}
 - 
-  id: 2
+  id: "Waltman"
   name: "Ludo"
   surname: "Waltman"
   company: "Leiden University"
@@ -21,7 +21,7 @@
   social: 
     - {name: "site", link: "http://www.ludowaltman.nl/"}
 - 
-  id: 3
+  id: "Sinatra"
   name: "Roberta"
   surname: "Sinatra"
   company: "ITU Copenhagen"
@@ -32,7 +32,7 @@
   social: 
     - {name: "site", link: "https://www.robertasinatra.com/"}
 - 
-  id: 4
+  id: "Lane"
   name: "Julia"
   surname: "Lane"
   company: "New York University"
@@ -43,7 +43,7 @@
   social: 
     - {name: "site", link: "https://wagner.nyu.edu/community/faculty/julia-lane"}
 - 
-  id: 5
+  id: "Romero"
   name: "Daniel"
   surname: "Romero"
   company: "University of Michigan"
@@ -54,7 +54,7 @@
   social: 
     - {name: "site", link: "https://lsa.umich.edu/cscs/people/core-faculty/drom.html"}
 - 
-  id: 6
+  id: "Feeney"
   name: "Patricia"
   surname: "Feeney"
   company: "Crossref"
@@ -66,7 +66,7 @@
     - {name: "site", link: "https://www.crossref.org/people/patricia-feeney/"}
 
 -
-  id: 7
+  id: "Larrenmore"
   name: "Dan"
   surname: "Larremore"
   company: "Colorado University, Boulder"
@@ -78,7 +78,7 @@
     - {name: "site", link: "https://larremorelab.github.io/"}
 
 -
-  id: 13
+  id: "Yu"
   name: "Bei"
   surname: "Yu"
   company: "Syracuse University"
@@ -90,7 +90,7 @@
     - {name: "site", link: "https://ischool.syr.edu/bei-yu/"}
 
 - 
-  id: 8  
+  id: "Radzvilavicius"
   name: "Arunas"
   surname: "Radzvilavicius"
   company: "Nature Human Behaviour"
@@ -101,7 +101,7 @@
   social: 
     - {name: "site", link: "https://twitter.com/arunaslr"}
 
-- 
+-
   id: 9
   name: "Daniel"
   surname: "Acuña"
@@ -110,7 +110,7 @@
   bio: "Daniel Acuña is an Assistant Professor in the School of Information Studies at Syracuse University, Syracuse, NY. The goal of his current research is to understand decision making in science—from helping hiring committees to predict future academic success to removing the potential biases that scientists and funding agencies commit during peer review."
   thumbnailUrl: daniel.png
   speaker: true
-  social: 
+  social:
     - {name: "site", link: "https://acuna.io/"}
     - {name: "twitter", link: "https://twitter.com/daniel_akuna"}
     - {name: "linkedin", link: "https://www.linkedin.com/in/daniel-acuna-13a13020"}
@@ -127,7 +127,7 @@
   social: 
     - {name: "site", link: "https://www.ohsu.edu/people/stephen-v-david-phd"}
 -
-  id: 11
+  id: "Shah"
   name: "Nihar B."
   surname: "Shah"
   company: "CMU"
@@ -138,7 +138,7 @@
   social: 
     - {name: "site", link: "https://www.cs.cmu.edu/~nihars/"}
 -
-  id: 12 
+  id: "Hope"
   name: "Tom"
   surname: "Hope"
   company: "HUJI and Allen AI (AI2)"
@@ -148,10 +148,6 @@
   rockstar: true
   social: 
     - {name: "site", link: "https://www.cs.huji.ac.il/~tomhope/"}
-
-
-
-
 
 -
   id: 16
