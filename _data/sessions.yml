@@ -235,7 +235,7 @@
   title: "Discussion Panel"
   description: ""
   subtype: workshop
-  speakers: [9,"Larrenmore", "Radzvilavicius", "Clauset"]
+  speakers: []
 
 -
   id: 2022
