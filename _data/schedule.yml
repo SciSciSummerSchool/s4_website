@@ -213,13 +213,8 @@
     }
     - {
         startTime: "11:35 AM",
-        endTime: "12:35 PM",
+        endTime: "1:05 PM",
         sessionIds: [2011]
-    }
-    - {
-        startTime: "12:35 PM",
-        endTime: "1:15 PM",
-        sessionIds: [503]
     }
     - {
         startTime: "1:15 PM",
