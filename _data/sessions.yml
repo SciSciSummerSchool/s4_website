@@ -232,10 +232,10 @@
   speakers: ["Clauset"]
 -
   id: 2011
-  title: "Discussion with Gizem Korkmaz (The Coleridge Initiative), Chaoqun Ni (UWisc - Madison), Carolyn Stein (Stanford University), and Sarah Bratt (University of Arizona)"
+  title: "Panel discussion"
   description: ""
   subtype: workshop
-  speakers: []
+  speakers: ["Korkmaz", "Bratt", "Ni", "Stein", 9]
 
 -
   id: 2022

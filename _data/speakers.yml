@@ -90,6 +90,57 @@
     - {name: "site", link: "https://ischool.syr.edu/bei-yu/"}
 
 - 
+  id: "Bratt"
+  name: "Sarah"
+  surname: "Bratt"
+  company: "School of Information University of Arizona"
+  title: "Assistant Professor"
+  bio: "Dr. Sarah Bratt is an Assistant Professor at the University of Arizona School of Information (iSchool). She holds a B.S. in Philosophy from Ithaca College and M.S. in Library and Information Science with a Data Science certificate from Syracuse University. Her research lies at the intersection of scholarly communication, research data management, and science of science. The overarching goal of her research is to understand and design for long-term research data sustainability and actionable science policy. Her research has been published in Quantitative Science Studies (QSS), Journal of Informetrics, and Scientometrics. She was a research Fellow at the Laboratory of Innovation Science at Harvard (LISH) and a Fellow at the iSchool Inclusion Institute (i3) and received multiple awards including the Masters’ prize in Library & Information Science at Syracuse University and honorable mention as a 2022 Better Scientific Software (BSSw) Fellow."
+  thumbnailUrl: bratt.jpeg
+  speaker: true
+  social: 
+    - {name: "site", link: "https://www.sarahbratt.com/"}
+
+
+-
+  id: "Stein"
+  name: "Carolyn"
+  surname: "Stein"
+  company: "UC Berkeley"
+  title: "Assistant Professor"
+  bio: "My research focuses on the economics of science and innovation. I am interested in how the incentives that scientists face shape the production of new knowledge."
+  thumbnailUrl: stein.jpg
+  speaker: true
+  social:
+    - {name: "site", link: "https://carolynstein.github.io/"}
+
+-
+  id: "Korkmaz"
+  name: "Gizem"
+  surname: "Korkmaz"
+  company: "Coleridge Initiative"
+  title: "Senior Research Scientist"
+  bio: "Gizem Korkmaz a PhD-level economist with 10 years of experience using data science and conducting social, behavioral and policy research in partnership with local, state, and federal government stakeholders and industry sponsors to solve real world problems. She is a Senior Research Scientist at Coleridge Initiative. Previously, she worked as an Associate Professor at University of Virginia’s Biocomplexity Institute. She contributed extensively to network science (both mathematical modelling and empirical analysis) with applications in collaboration networks (e.g., GitHub), online social networks (e.g., Twitter, Facebook), communication networks, among others. The hallmark of her research is to integrate her background in economics with data science by blending traditional and novel data sources (e.g., social media) and methods (e.g., network analysis, machine learning) to ask how we can make data useful for people and communities. She is passionate about the development of a workforce using data science to contribute to community-based research. She was the co-director of UVA’s Data Science for the Public Good (DSPG) Young Scholars Program, and led the launch of the DSPG program in Turkey."
+  thumbnailUrl: korkmaz.jpg
+  speaker: true
+  social:
+    - {name: "site", link: "https://coleridgeinitiative.org/"}
+
+
+-
+  id: "Ni"
+  name: "Chaoqun"
+  surname: "Ni"
+  company: "Information School (iSchool), University of Wisconsin-Madison"
+  title: "Assistant Professor"
+  bio: "Chaoqun Ni is an Assistant Professor at the iSchool of the University of Wisconsin-Madison, and the co-director of the Metascience Research Lab. Her research aims to identify variables that impede and facilitate the creation of a competitive scientific workforce in order to provide implications for science policy decision makings. She's currently working on projects related to gender inequalities in science."
+  thumbnailUrl: ni.jpg
+  speaker: true
+  social:
+    - {name: "site", link: "https://chaoqunni.github.io/"}
+
+
+-
   id: "Radzvilavicius"
   name: "Arunas"
   surname: "Radzvilavicius"
@@ -98,16 +149,17 @@
   bio: "Arunas’ interdisciplinary background is in mathematical modelling and computational approaches to genetics, psychology, economics and evolution. Before joining Nature Human Behaviour, Arunas worked with six research groups around the world, including postdoctoral positions at the University of Pennsylvania, University of Sydney and University of Zurich. He later spent a year as a junior fellow at Berlin’s Institute for Advanced Study, where he worked on building game-theoretical frameworks of morality evolution and behaviour guided by social norms, and exploring ways of testing theories using large-scale social media data sets. Arunas is passionate about openness, reproducibility and diversity in science, and the transformative opportunities that computational approaches bring to modern behavioural sciences. At Nature Human Behaviour, Arunas works with manuscripts in genetics, computational social science, science of science, evolution, and other interdisciplinary computational work."
   thumbnailUrl: radzvilavicius.png
   rockstar: true
-  social: 
+  social:
     - {name: "site", link: "https://twitter.com/arunaslr"}
+
 
 -
   id: 9
   name: "Daniel"
   surname: "Acuña"
-  company: "Syracuse University"
-  title: "Assistant Professor in the School of Information Studies at Syracuse University"
-  bio: "Daniel Acuña is an Assistant Professor in the School of Information Studies at Syracuse University, Syracuse, NY. The goal of his current research is to understand decision making in science—from helping hiring committees to predict future academic success to removing the potential biases that scientists and funding agencies commit during peer review."
+  company: "School of Information Studies, Syracuse University"
+  title: "Associate Professor"
+  bio: "Daniel Acuña is an Associate Professor in the School of Information Studies at Syracuse University, Syracuse, NY. The goal of his current research is to understand decision making in science—from helping hiring committees to predict future academic success to removing the potential biases that scientists and funding agencies commit during peer review."
   thumbnailUrl: daniel.png
   speaker: true
   social:
