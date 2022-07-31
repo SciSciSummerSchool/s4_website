@@ -264,8 +264,8 @@
 
 -
   id: 2032
-  title: "TBA"
-  description: "TBA"
+  title: "Building a sustainable and open Research Nexus"
+  description: "Few would disagree that the scholarly record should be transparent, open, and interconnected.  The Research Nexus  is a rich and reusable open network of relationships connecting research organizations, people, things, and actions; a scholarly record that the global community can build on forever, for the benefit of society. This is all made possible through rich metadata provided in a sustainable and open way.  This talk will cover the metadata and identifiers used to build the Research Nexus, the current state of the nexus landscape, a brief introduction to interrogating Crossref metadata via APIs. as well as challenges and future plans."
   subtype: presentation
   speakers: ["Feeney"]
 -
