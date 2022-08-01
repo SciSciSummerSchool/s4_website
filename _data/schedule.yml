@@ -17,7 +17,7 @@
     - {
         startTime: "11:00 AM",
         endTime: "12:00 PM",
-        sessionIds: ["Caifan-Silvia"]
+        sessionIds: [1012]
     }
     - {
       startTime: "12:00 PM",
@@ -27,7 +27,7 @@
     - {
         startTime: "12:30 AM",
         endTime: "1:30 PM",
-        sessionIds: [1012]
+        sessionIds: ["OpenAlex"]
     }
 
     - {
@@ -79,17 +79,17 @@
   timeslots:
     - {
     	startTime: "9:00 AM",
-    	endTime: "9:45 AM",
+    	endTime: "10:30 AM",
     	sessionIds: [103]
     }
     - {
-        startTime: "9:45 AM",
-        endTime: "11:15 AM",
-        sessionIds: [1031]
+        startTime: "10:45 AM",
+        endTime: "11:30 AM",
+        sessionIds: ["KnowledgeNetworks"]
     }
     - {
         startTime: "11:30 AM",
-        endTime: "1:00 PM",
+        endTime: "12:15 PM",
         sessionIds: [1032]
     }
     - {
@@ -152,13 +152,8 @@
   timeslots:
     - {
     	startTime: "9:00 AM",
-    	endTime: "9:45 AM",
+    	endTime: "10:45 AM",
     	sessionIds: [1052]
-    }
-    - {
-        startTime: "10:00 AM",
-        endTime: "10:45 AM",
-        sessionIds: [1052]
     }
     - {
         startTime: "11:00 AM",

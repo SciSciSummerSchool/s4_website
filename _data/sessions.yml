@@ -3,7 +3,7 @@
   title: "Short Break"
   place: "Hall"
   service: true
-  description: "The best time to talk with speakers and attendees"
+  description: ""
 -
   id: 503
   title: "Break"
@@ -44,6 +44,13 @@
   speakers: [9]
 
 -
+  id: "OpenAlex"
+  title: "OpenAlex: Deep Dive"
+  description: "Introduction to the OpenAlex project and how to use in our environment"
+  subtype: lecture
+  speakers: [16]
+
+-
   id: 1013
   title: "Discussion About Group Projects"
   description: "Facilitated project discussion and proposals (document will be found on Slack)"
@@ -51,6 +58,13 @@
   service: True
   speakers: [10]
 
+
+-
+  id: "KnowledgeNetworks"
+  title: "Knowledge graphs"
+  description: "Overview of knowledge graphs and how they can be use to represent and predict knowledge creation"
+  subtype: lecture
+  speakers: ["laroyce"]
 
 -
   id: 1021
@@ -72,32 +86,28 @@
   title: "Lecture - Intro to Network Science"
   description: " "
   subtype: lecture
-  speakers: [17]
-  video: "//www.youtube.com/embed/pHJsUfS_ApU"
+  speakers: [10]
 
-  # presentation: "https://speakerdeck.com/gdglviv/dmytro-danylyk-android-l-animation"
 -
   id: 1031
   title: "Lecture - Mentorship Networks"
   description: ""
   subtype: presentation
   speakers: [10]
-  video: "//www.youtube.com/embed/iA9Kik2TV-k"
+
 -
   id: 1032
-  title: "Lecture - Centralities in Networks"
+  title: "Lecture - Academic Family Tree and Network Centralities"
   description: ""
   subtype: lecture
-  speakers: [17]
-  video: "//www.youtube.com/embed/wQmGlvijsdA"
+  speakers: [10]
 
 -
   id: 1041
-  title: "Practical NLP and Deep Learning for Scientific Text Mining"
-  description: "Keeping up with scientific literature is like drinking from a firehose. as more papers are published each year, automated methods for discovering, reading, and understanding the literature are needed to help us identify the latest and most applicable findings. This is especially the case in biomedical literature, where novel developments may have direct and immediate ramifications to patient care. in this talk, I will provide an overview of several projects that focus on scientific document understanding. I will discuss recent work on classifying text in scientific papers by combining document visual layout and semantics, which can produce high-fidelity, machine-readable representations of scientific papers that are useful for a variety of downstream applications. I will then provide several examples of how NLP and deep learning methods can be applied to specific problems in biomedical text mining such as relation extraction, fact checking, and multi-document summarization. These problems involve interactions between many documents, and the success of our models depends on our ability to accurately retrieve and extract information from all relevant documents. I will close with a discussion of ongoing challenges in this domain, and how we are hoping to address these challenges going forward."
+  title: "Natural Language Processing: An introduction"
+  description: ""
   subtype: presentation
-  speakers: [15]
-  video: "//www.youtube.com/embed/Hw9jL6C5Tv0"
+  speakers: [16]
 
 -
   id: 1042
@@ -105,21 +115,20 @@
   description: ""
   subtype: lecture
   speakers: [9]
-  video: "//www.youtube.com/embed/3N84yibZxD4"
+
 -
   id: 1043
   title: "Lecture - Learning Spatial Data"
   description: ""
   subtype: presentation
   speakers: [19]
-  video: "//www.youtube.com/embed/t4FuB0kI9F4"
+
 -
   id: 1044
   title: "Lecture - Bias in AI"
   description: ""
   subtype: presentation
   speakers: [16]
-  video: "//www.youtube.com/embed/n2LiKlbDE7o"
 
 
 ## group sessions

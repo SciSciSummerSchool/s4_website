@@ -157,9 +157,9 @@
   id: 9
   name: "Daniel"
   surname: "Acuña"
-  company: "School of Information Studies, Syracuse University"
+  company: "Department of Computer Science, University of Colorado, Boulder"
   title: "Associate Professor"
-  bio: "Daniel Acuña is an Associate Professor in the School of Information Studies at Syracuse University, Syracuse, NY. The goal of his current research is to understand decision making in science—from helping hiring committees to predict future academic success to removing the potential biases that scientists and funding agencies commit during peer review."
+  bio: "Daniel Acuña is an Associate Professor in the Department of Computer Science at the University of Colorado, Boulder. The goal of his current research is to understand decision making in science—from helping hiring committees to predict future academic success to removing the potential biases that scientists and funding agencies commit during peer review."
   thumbnailUrl: daniel.png
   speaker: true
   social:
@@ -178,6 +178,19 @@
   speaker: true
   social: 
     - {name: "site", link: "https://www.ohsu.edu/people/stephen-v-david-phd"}
+
+-
+  id: "laroyce"
+  name: "LaRoyce"
+  surname: "Covington Jr."
+  company: "Syracuse University"
+  title: "Ph.D. student"
+  thumbnailUrl: covington.jpg
+  speaker: true
+  social:
+    - {name: "site", link: "https://ischool.syr.edu/laroyce-j-covington-jr/"}
+
+
 -
   id: "Shah"
   name: "Nihar B."
