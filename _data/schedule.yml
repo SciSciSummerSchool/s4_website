@@ -58,7 +58,7 @@
     }
     - {
         startTime: "11:30 AM",
-        endTime: "1:00 PM",
+        endTime: "12:30 PM",
         sessionIds: [1022]
     }
     - {
@@ -116,33 +116,28 @@
     }
     - {
         startTime: "9:45 AM",
-        endTime: "11:15 AM",
+        endTime: "10:30 AM",
         sessionIds: [1042]
     }
     - {
-        startTime: "11:30 AM",
-        endTime: "12:15 PM",
+        startTime: "10:45 AM",
+        endTime: "11:30 PM",
         sessionIds: [1043]
     }
     - {
-        startTime: "12:15 PM",
-        endTime: "1:00 PM",
+        startTime: "11:45 PM",
+        endTime: "12:30 PM",
         sessionIds: [1044]
     }
     - {
         startTime: "1:00 PM",
         endTime: "2:00 PM",
-        sessionIds: [503]
+        sessionIds: ["Mengyi"]
     }
     - {
         startTime: "2:00 PM",
         endTime: "4:00 PM",
-        sessionIds: [401, 404]
-    }
-    - {
-        startTime: "10:00 PM",
-        endTime: "12:00 AM",
-        sessionIds: [404, 402]
+        sessionIds: [401]
     }
 -
   date: "2022-08-05"
@@ -169,6 +164,11 @@
         startTime: "1:00 PM",
         endTime: "2:00 PM",
         sessionIds: ["Eunice-Alicia"]
+    }
+    - {
+      startTime: "2:00 PM",
+      endTime: "4:00 PM",
+      sessionIds: [ 401 ]
     }
 
 

@@ -66,6 +66,9 @@
   subtype: lecture
   speakers: ["laroyce"]
 
+
+
+
 -
   id: 1021
   title: "Lecture - Statistical Learning"
@@ -370,6 +373,12 @@
   id: "Caifan-Silvia"
   title: "S4 2021 presentation: TBA by Caifan and Silvia"
   description: "TBA"
+  subtype: presentation
+
+-
+  id: "Mengyi"
+  title: "S4 2021 presentation: 'Making the tough shot–studying successful topic switch strategies using large-scale scholarly databases' by Mengyi Sun"
+  description: "Mounting evidence suggests that switching research topics can be harmful for scientific careers. Paradoxically, several studies also found that the most successful researchers have evolving research interests and that breaking away from the research topics of their Ph.D. advisors is a key step for building their own success. That the most successful scientists make the toughest move suggests they must have done something special. We plan to integrate several databases of scholarly activities, such as the Microsoft Academic Graph (MAG), the “MENTORSHIP” database, and PubMed, to identify the spectrum over which individuals switch topics and explore the potential factors that differentiate those who encountered difficulty and those who ultimately achieved success. Our research has important implications for researchers’ selection of topics, especially for early-career scientists. For the whole scientific community, identifying factors that encourage individual scientists to explore more diverse topics could potentially accelerate scientific discovery."
   subtype: presentation
 
 -
