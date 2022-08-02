@@ -383,8 +383,9 @@
 
 -
   id: "Stanislava-Alex-Jodi-Manika"
-  title: "S4 2021 presentation: TBA by Stanislava, Alec, Jodi, and Manika"
-  description: "TBA"
+  title: "S4 2021 presentation: 'Enabling interactive exploration of rich scientific multigraph with Neo4j Bloom
+' by Stanislava, Alec, Jodi, and Manika"
+  description: "In our presentation, we will illustrate the trajectory of our team efforts over the past year. We will show which research avenues were kept, which were deserted, and for what reason. As we are all interested in Neo4J graph database technology, we gathered to learn more about its possibilities for multilayered network visualization. The network we will use is based on the activities of actors in an interdisciplinary Ph.D. program and with the grant money we will pay the participants- the prospective students of this program; and the facilitators- senior students of this program, to conduct a usability study on the Neo4J Bloom visualization tool hosting the said network, and compare the browse and search experience with the ones gained in the open web environment. We will discuss our research plan and some of the hurdles we encountered."
   subtype: presentation
 
 -
