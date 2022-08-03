@@ -226,8 +226,8 @@
 
 -
   id: 2012
-  title: "TBA"
-  description: "TBA"
+  title: "Quantifying hierarchy and dynamics in U.S. faculty hiring and retention"
+  description: "Faculty hiring and retention determine the composition of the U.S. academic workforce and directly shape educational outcomes, careers, the development and spread of ideas, and research priorities. But hiring and retention are dynamic, reflecting societal and academic priorities, generational turnover, and efforts to diversify the professoriate along gender, racial, and socioeconomic lines. Understanding these processes requires that we import diverse methods and concepts, including social hierarchies, network science, epidemiology, and demography. In this talk, we'll analyze the academic employment and doctoral education of tenure-track faculty at all PhD-granting U.S. universities over the decade 2011-2020, quantifying stark inequalities in faculty production, prestige, retention, and gender. In the process, we'll introduce numerous methods and concepts, with the goal of connecting the analysis of faculty hiring and retention with methodologies and frameworks that are broadly useful across the science of science."
   subtype: presentation
   speakers: ["Larrenmore"]
 -
