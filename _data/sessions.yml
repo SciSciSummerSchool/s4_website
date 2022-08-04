@@ -82,7 +82,6 @@
   description: ""
   subtype: lecture
   speakers: [9]
-  video: "//www.youtube.com/embed/BCHOI0CjX5k"
 
 -
   id: 103
@@ -216,8 +215,6 @@
   description: " "
   subtype: Lecture
   speakers: [9]
-  video: "//www.youtube.com/embed/HGqIvzTEvb4"
-  bilibili: "https://www.bilibili.com/video/BV1vq4y1X7dT/"
 
 -
   id: 200
@@ -330,17 +327,15 @@
   description: "The goal of most empirical studies in policy research and medical research is to determine whether an alteration in an intervention or a treatment will cause a change in the desired outcome response. Unlike randomized designs, establishing the causal relationship based on observational studies is a challenging problem because the ceteris paribus condition is violated. When the covariates of interest are measured with errors, evaluating the causal effects becomes a thorny issue. Additional challenge arises from confounding variables which are often of high dimensional or correlated with the error-prone covariates. Most of the existing methods for estimating the average causal effect heavily rely on parametric assumptions about the propensity score or the outcome regression model one way or the other. In reality, both models are prone to misspecification, which can have undue influence on the estimated average causal effect. To the best of our knowledge, all the existing methods cannot handle high-dimensional covariates in the presence of error-prone covariates. We propose a semiparametric method to establish the causal relationship, which yields a consistent estimator of the average causal effect. The method we proposed results in efficient estimators of the covariate effects. We investigate their theoretical properties and demonstrate their finite sample performance through extensive simulation studies."
   subtype: presentation
   speakers: [18]
-  video: "//www.youtube.com/embed/OhDMNgT8G60"
   presentation: "S4-Causal-Inference.pdf"
-  bilibili: "https://www.bilibili.com/video/BV1Wq4y1p7ae/"
+
 -
   id: 1052
   title: "Lecture - Causal Inference"
   description: ""
   subtype: lecture
   speakers: [9]
-  video: "//www.youtube.com/embed/llvm4fBoLEM"
-  bilibili: "https://www.bilibili.com/video/BV1w3411r7xD/"
+
 -
   id: 1053
   title: "Group Presentation - Project Proposal"
