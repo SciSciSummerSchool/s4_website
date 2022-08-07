@@ -1,0 +1,41 @@
+-
+  id: 1011
+  title: "Lecture - Science of Science"
+  description: " "
+  subtype: lecture
+  speakers: [9]
+  video: "//youtu.be/01RjF6gTAqc"
+
+-
+  id: 1012
+  title: "Lecture - Basic Python & Environment"
+  description: ""
+  subtype: lecture
+  speakers: [9]
+  video: "//youtu.be/ao4K2FLPH94"
+
+-
+  id: 1013
+  title: "Lecture - Open Alex: Deep Dive"
+  description: ""
+  subtype: lecture
+  speakers: [16]
+  video: "//youtu.be/NmSYV7ZdtN0"
+
+-
+  id: 1031
+  title: "Lecture - Network Science"
+  description: ""
+  subtype: lecture
+  speakers: [10]
+  video: "//youtu.be/M6QEaYqy0cE"
+
+-
+  id: 1032
+  title: "Lecture - Knowledge Graph"
+  description: ""
+  subtype: lecture
+  speakers: [20]
+  video: "//youtu.be/2NPAOAFNxfc"
+
+-
