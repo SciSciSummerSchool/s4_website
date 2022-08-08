@@ -36,7 +36,7 @@
   description: " "
   subtype: lecture
   speakers: []
-  video: "//youtu.be/01RjF6gTAqc"
+  
 -
   id: 1012
   title: "Lecture - Basic Python & Development Environment"
@@ -209,6 +209,8 @@
   description: "We will go through the basic technology: Jupyterlab, Python, Numpy, Pandas, scikit-learn. Coding: Data loading, cleaning, exploration"
   subtype: Lecture
   speakers: [9, 10]
+  video: "//www.youtube.com/watch?v=01RjF6gTAqc"
+
 
 -
   id: 102
