@@ -233,3 +233,13 @@
   speaker: True
   social: 
    - {name: "site", link: "https://ischool.syr.edu/han-zhuang/"}
+
+-
+  id: 20 
+  name: "LaRoyce"
+  surname: "Covington Jr/"
+  title: "PhD. at Syracuse University"
+  thumbnailUrl: covington.jpg
+  speaker: True
+  social: 
+   - {name: "site", link: "https://ischool.syr.edu/laroyce-j-covington-jr/"}
