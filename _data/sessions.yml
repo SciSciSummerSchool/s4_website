@@ -348,6 +348,7 @@
   description: ""
   subtype: lecture
   speakers: [9]
+  video: "//www.youtube.com/embed/1HiqhfBHcEY"
 
 -
   id: 1053
@@ -388,6 +389,7 @@
   title: "S4 2021 presentation: 'Making the tough shot–studying successful topic switch strategies using large-scale scholarly databases' by Mengyi Sun"
   description: "Mounting evidence suggests that switching research topics can be harmful for scientific careers. Paradoxically, several studies also found that the most successful researchers have evolving research interests and that breaking away from the research topics of their Ph.D. advisors is a key step for building their own success. That the most successful scientists make the toughest move suggests they must have done something special. We plan to integrate several databases of scholarly activities, such as the Microsoft Academic Graph (MAG), the “MENTORSHIP” database, and PubMed, to identify the spectrum over which individuals switch topics and explore the potential factors that differentiate those who encountered difficulty and those who ultimately achieved success. Our research has important implications for researchers’ selection of topics, especially for early-career scientists. For the whole scientific community, identifying factors that encourage individual scientists to explore more diverse topics could potentially accelerate scientific discovery."
   subtype: presentation
+  video: "//www.youtube.com/embed/MUYlflYmXq0"
 
 -
   id: "Stanislava-Alex-Jodi-Manika"
@@ -401,9 +403,11 @@
   title: "S4 2021 presentation: TBA by Robert, Alec, and Aaron"
   description: "TBA"
   subtype: presentation
+  video: "//www.youtube.com/embed/jvRzjzvJiUQ"
 
 -
   id: "Eunice-Alicia"
   title: "S4 2021 presentation: 'Citation Contact Tracing: Classification of Retracted COVID-19 Articles' by Eunice and Alicia"
   description: "This project builds on a preliminary study evaluating retracted COVID-19-related articles on PubMed. Forty-one retracted COVID-19 citations in the areas of medicine and technology were found on PubMed. This dataset was used to determine if a bipartite network was present, identify network connectivity among retracted authors, visually display commonly used keywords, and evaluate the papers in which these articles were cited in order to determine if there was a propagation of misinformation. In the next iteration of this project, articles listed on Retraction Watch's 'Retracted coronavirus (COVID-19) papers' will be cross-referenced with metadata from  Google Scholar to determine a discipline of publication network, a retracted paper network, and a citation network to identify the possible propagation of misinformation. Using a network approach, this research examines the inequalities in knowledge flow and the propagation of misinformation of retracted COVID-19 articles."
   subtype: presentation
+  video: "//www.youtube.com/embed/xqzUji8e660"
