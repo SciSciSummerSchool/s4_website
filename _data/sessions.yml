@@ -36,14 +36,12 @@
   description: " "
   subtype: lecture
   speakers: []
-  video: "//youtu.be/01RjF6gTAqc"
 -
   id: 1012
   title: "Lecture - Basic Python & Development Environment"
   description: ""
   subtype: lecture
   speakers: [9]
-  video: "//youtu.be/ao4K2FLPH94"
 
 -
   id: "OpenAlex"
@@ -51,7 +49,6 @@
   description: "Introduction to the OpenAlex project and how to use in our environment"
   subtype: lecture
   speakers: [16]
-  video: "//youtu.be/NmSYV7ZdtN0"
 
 -
   id: 1013
@@ -68,7 +65,7 @@
   description: "Overview of knowledge graphs and how they can be use to represent and predict knowledge creation"
   subtype: lecture
   speakers: ["laroyce"]
-  video: "//youtu.be/2NPAOAFNxfc"
+
 
 
 
@@ -92,7 +89,6 @@
   description: " "
   subtype: lecture
   speakers: [10]
-  video: "//youtu.be/M6QEaYqy0cE"
 
 -
   id: 1031
@@ -107,7 +103,6 @@
   description: ""
   subtype: lecture
   speakers: [10]
-  video: "//youtu.be/RqF79tP4bkQ"
 
 -
   id: 1041
