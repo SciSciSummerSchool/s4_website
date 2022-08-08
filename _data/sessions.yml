@@ -15,7 +15,7 @@
   video: "//youtu.be/ao4K2FLPH94"
 
 -
-  id: 1013
+  id: "OpenAlex"
   title: "Lecture - Open Alex: Deep Dive"
   description: ""
   subtype: lecture
@@ -23,7 +23,7 @@
   video: "//youtu.be/NmSYV7ZdtN0"
 
 -
-  id: 1031
+  id: "KnowledgeNetworks"
   title: "Lecture - Network Science"
   description: ""
   subtype: lecture
