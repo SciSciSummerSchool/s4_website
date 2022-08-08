@@ -116,6 +116,7 @@
   description: ""
   subtype: presentation
   speakers: [16]
+  video: "//www.youtube.com/embed/LP53X2ClyWo"
 
 -
   id: 1042
@@ -123,6 +124,7 @@
   description: ""
   subtype: lecture
   speakers: [9]
+  video: "//www.youtube.com/embed/kVXuKavDCI4"
 
 -
   id: 1043
@@ -130,6 +132,7 @@
   description: ""
   subtype: presentation
   speakers: [19]
+  video: "//www.youtube.com/embed/B4bccLBVjww"
 
 -
   id: 1044
@@ -137,6 +140,7 @@
   description: ""
   subtype: presentation
   speakers: [16]
+  video: "//www.youtube.com/embed/TkokRtQzTNs"
 
 
 ## group sessions
