@@ -36,6 +36,7 @@
   description: " "
   subtype: lecture
   speakers: []
+  video: "//youtu.be/01RjF6gTAqc"
 -
   id: 1012
   title: "Lecture - Basic Python & Development Environment"
