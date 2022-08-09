@@ -63,8 +63,9 @@ eventDate: "August 1 - August 12, 2022"
 typeoutTextValues: '"Summer School", "conference"'
 typeoutFallback: "Summer School"
 heroButtons:
-   - {link: "https://github.com/SciSciSummerSchool/s4_lectures", text: "S4 2022 Materials"}
-   - {link: "https://www.youtube.com/playlist?list=PLdnan5SVTc8lEFm9t0zmJgkPorUBv9Nfd", text: "S4 2021 Lectures"}
+   - {link: "/schedule", text: "S4 2022 Schedule"}
+   - {link: "https://github.com/SciSciSummerSchool/s4_lectures", text: "S4 2022 Lecture materials"}
+   - {link: "https://www.youtube.com/playlist?list=PLdnan5SVTc8lEFm9t0zmJgkPorUBv9Nfd", text: "(Last year) S4 2021 Lectures"}
 
 # About Block
 aboutTitle: "About SoS Summer School"
