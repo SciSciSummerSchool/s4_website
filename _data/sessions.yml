@@ -240,24 +240,28 @@
   description: "Faculty hiring and retention determine the composition of the U.S. academic workforce and directly shape educational outcomes, careers, the development and spread of ideas, and research priorities. But hiring and retention are dynamic, reflecting societal and academic priorities, generational turnover, and efforts to diversify the professoriate along gender, racial, and socioeconomic lines. Understanding these processes requires that we import diverse methods and concepts, including social hierarchies, network science, epidemiology, and demography. In this talk, we'll analyze the academic employment and doctoral education of tenure-track faculty at all PhD-granting U.S. universities over the decade 2011-2020, quantifying stark inequalities in faculty production, prestige, retention, and gender. In the process, we'll introduce numerous methods and concepts, with the goal of connecting the analysis of faculty hiring and retention with methodologies and frameworks that are broadly useful across the science of science."
   subtype: presentation
   speakers: ["Larrenmore"]
+  video: "//www.youtube.com/embed/fR0mZGpAW5E"
 -
   id: 2013
   title: "Publishing actionable and open science of science"
   description: "Every step of science-making leaves behind a digital trace of scientists’ own behaviour. Armed with new computational tools, scientists of science scour these data for signals that will help them make the scientific enterprise more efficient and more equitable. The field is no longer a niche of specialist interest, but a stream of research with clearly defined use cases in science making, funding, and science policy, complementing other metasciences. But to live up to its promise and truly make a difference, the field must become more actionable. It should not just tell us how the world of science currently is, it should also push us towards the science that could be. This applies to all stages of research, from what kinds of questions researchers ask (causal or correlational) to how they communicate their results to the public and policymakers. Being more actionable also means diversifying data sources, and publishing reproducible science. In this session, I will cover key steps in actionable science-making and its effective communication."
   subtype: presentation
   speakers: ["Radzvilavicius"]
+  video: "//www.youtube.com/embed/HjaSlfnVjIw"
 -
   id: 2014
   title: "Little in academia makes sense except in the light of prestige"
   description: "Although meritocracy is a key organizing principle of academia, the degree to which individual and institutional differences in scholarly outputs reflect meritocratic differences is both contentious and poorly understood. In this talk, I argue that in the science of science, institutional prestige is a first-order variable, shaping nearly all aspects of what science gets done, who does it, and who gets to be scientists. In short, little in academia makes sense except in the light of prestige. I'll support this argument with evidence from three directions: (1) how prestige structures faculty hiring networks, of who hires whose graduates as faculty, (2) how institutional prestige shapes the productivity of its faculty, and (3) how prestige shapes the spread of scientific ideas. These findings suggest that the social mechanisms the drive scientific innovation are fundamentally grounded in the prestige economy of the scientific community, and efforts to develop a science of science must account for its effects in order to understand knowledge production."
   subtype: presentation
   speakers: ["Clauset"]
+  video: "//www.youtube.com/embed/VMIfgaxkWOs"
 -
   id: 2011
   title: "Panel discussion"
   description: ""
   subtype: workshop
   speakers: ["Korkmaz", "Bratt", "Ni", "Stein", 9]
+  video: "//www.youtube.com/embed/FIPcfcwGMMs"
 
 -
   id: 2022
