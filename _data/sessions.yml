@@ -269,24 +269,28 @@
   description: "Every day our life is made easier by efficient measures and algorithms that search and rank scientific information. Yet, these measures and algorithms have an issue: they are trained on citations, which are ingrained with human biases. Therefore the output is inherently biased too, creating inequalities, raising concerns of discrimination, even harming economic growth. In this talk, I will present research focusing on quantifying various biases in publication data. The overarching goal of this research is to uncover the bias mechanisms that, given the same quality, drive different citation trajectories, and use them (1) to create fair measures and algorithms, (2) to improve our understanding of the scientific enterprise."
   subtype: presentation
   speakers: ["Sinatra"]
+  video: "//www.youtube.com/embed/fmOiRmaV8us"
 -
   id: 2023
   title: "Dynamics of cross-platform attention to retracted papers"
   description: "Scientific retraction has been on the rise recently. Retracted papers are frequently discussed online, enabling the broad dissemination of potentially flawed findings. Our analysis spans a nearly 10-y period and reveals that most papers exhaust their attention by the time they get retracted, meaning that retractions cannot curb the online spread of problematic papers. This is striking as we also find that retracted papers are pervasive across mediums, receiving more attention after publication than nonretracted papers even on curated platforms, such as news outlets and knowledge repositories. Interestingly, discussions on social media express more criticism toward subsequently retracted results and may thus contain early signals related to unreliable work."
   subtype: presentation
   speakers: ["Romero"]
+  video: "//www.youtube.com/embed/jKmN6wN6jno"
 -
   id: 2024
   title: "Improving scientific publishing – Leading by example!"
   description: "The study of scientific publishing practices is a prominent topic in science of science. There is a rich body of work studying the journal publishing system, the organization of peer review, the use of impact factors and other citation metrics, the adoption of open access publishing and other open science practices, challenges around research integrity, the complex role of commercial publishers, and so on. The science of science community has a deep knowledge of many of the intricate issues related to scientific publishing. I will review some of this knowledge in my lecture. In addition, I will make a call for more reflection on our own publishing practices as science of science researchers: How do we, as members of the science of science community, disseminate our own research, and to what extent do we use our knowledge of the scientific publishing system to actively contribute to improving the system? I will argue that we need to do better: The science of science community has a responsibility to lead by example."
   subtype: presentation
   speakers: ["Waltman"]
+  video: "//www.youtube.com/embed/We_82sDrqKY"
 -
   id: 2021
   title: "Discussion Panel"
   description: " "
   subtype: workshop
   speakers: [10,"Sinatra", "Romero", "Waltman"]
+  video: "//www.youtube.com/embed/t2zLTjgDds4"
 
 -
   id: 2032
