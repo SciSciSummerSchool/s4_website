@@ -298,12 +298,14 @@
   description: "Few would disagree that the scholarly record should be transparent, open, and interconnected.  The Research Nexus  is a rich and reusable open network of relationships connecting research organizations, people, things, and actions; a scholarly record that the global community can build on forever, for the benefit of society. This is all made possible through rich metadata provided in a sustainable and open way.  This talk will cover the metadata and identifiers used to build the Research Nexus, the current state of the nexus landscape, a brief introduction to interrogating Crossref metadata via APIs. as well as challenges and future plans."
   subtype: presentation
   speakers: ["Feeney"]
+  video: "//www.youtube.com/embed/wzqmljxDRHg"
 -
   id: 2033
   title: "Natural language understanding of causal claims and exaggerations in science publications and news"
   description: "Establishing causality is one of the most important goals in scientific research. Researchers also tend to explain the implications and give practical advice based on causal findings. Therefore, the language that describes causal claims and their implications plays a crucial role in communicating research results among scientists and with the general public. However, scientists and journalists have been found to inappropriately use causal language in research publications and news articles, such as extrapolating correlational findings, often from observational studies, for causal claims and practical advice. In the past few years, our research group has developed a suite of NLP models for predicting the presence and strength levels of claims and advice given in research conclusions. Applying these models to PubMed articles, we studied characteristics of causal language use and advice giving in observational studies. We further developed a tool to link research papers with press releases, with which we were able to compare corresponding claims and detect potential exaggerations. Our work contributes to illustrating current status and longitudinal patterns of causal language use and advice giving in science literature. The computational tools can also help detect potential exaggerations in science communication."
   subtype: presentation
   speakers: ["Yu"]
+  video: "//www.youtube.com/embed/PtbLovWMQyo"
   
 -
   id: 2034
@@ -311,12 +313,14 @@
   description: "Peer review is the backbone of scientific research, and any issues therein considerably affect the progress of science, careers of researchers, billions of dollars of grants, as well as the public perception of science. We will overview various challenges in peer review -- biases, fraud, subjectivity, miscalibraiton, noise, and policy choices -- and discuss experiments and computational solutions to understand and/or address these challenges. A detailed writeup is available at http://bit.ly/PeerReviewOverview and slides at https://www.cs.cmu.edu/~nihars/tutorials/Shah_Tutorial_PeerReview_2021.pdf"
   subtype: presentation
   speakers: ["Shah"]
+  video: "//www.youtube.com/embed/Sy9vqG6jH9w"
 -
   id: 2031
   title: "Discussion Panel"
   description: " "
   subtype: workshop
   speakers: [9,"Feeney", "Yu", "Shah"]
+  video: "//www.youtube.com/embed/XAPI52Zf0hY"
 
 -
   id: 2042
