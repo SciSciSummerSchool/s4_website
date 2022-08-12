@@ -328,18 +328,21 @@
   description: "Data are needed to answer key questions about much of science: critical technologies, the transparency of AI, and programmatic efficiency.  Yet data are often not discoverable by the communities that need to access and use them.  This presentation provides a set of innovative new technologies to democratize the search for and discovery of data.  It provides new ways to (i) discover how scientific data are used from a broad cross-section of primary, secondary and even tertiary sources, (ii) validate the information with key stakeholders, and (iii) communicate the value of data. https://hdsr.mitpress.mit.edu/pub/g6e8noiy/release/2"
   subtype: presentation
   speakers: ["Lane"]
+  video: "//www.youtube.com/embed/isTvPQDbC9I"
 -
   id: 2043
   title: "Augmenting Scientific Discovery By Harnessing Scientific Literature"
   description: "With over one million papers added every year to the PubMed biomedical index alone — the explosion of scholarly knowledge presents tremendous opportunities for accelerating research across the sciences. However, while scientific knowledge is expanding with rapidity, our human minds have limited capacity for finding, assimilating and manipulating information. In this talk, I will present our recent work toward helping researchers and practitioners make use of this vast treasure trove of information. I will highlight computational methods in artificial intelligence and natural language processing that mine literature and knowledge bases to help discover new directions and solutions to problems, generate hypotheses, make predictions and decisions, and build connections across different ideas and areas. This includes a method that predicts clinical outcomes of hospital patients by mining the literature for patient-specific medical literature, NLP-powered models for predicting off-label drug uses, and novel exploratory search and recommendation engines: for discovering drug combination therapies, causal relationships, challenges and directions in COVID-19 research, and authors who inspire novel directions and collaboration opportunities in the computer science community."
   subtype: presentation
   speakers: ["Hope"]
+  video: "//www.youtube.com/embed/3LXm_ez1Nhs"
 -
   id: 2044
-  title: "The negative biases of author-suggested reviewers on the outcome of peer review"
+  title: "The Technical and Societal Challengesand Opportunities of Using Machine Learning for Science"
   description: "Peer review is an important part of science, aimed at providing expert and objective assessment of a manuscript. Because of many factors, including time constraints, unique expertise needs, and deference, many journals ask authors to suggest peer reviewers for their own manuscript. Previous researchers have found differing effects about this practice that might be inconclusive due to sample sizes. In this article, we analyze the association between author-suggested reviewers and review invitation, review scores, acceptance rates, and subjective review quality using a large dataset of close to 8K manuscripts from 46K authors and 21K reviewers from the journal PLOS ONE's Neuroscience section. We found that all-author-suggested review panels increase the chances of acceptance by 20 percent points vs all-editor-suggested panels while agreeing to review less often. While PLOS ONE has since ended the practice of asking for suggested reviewers, many others still use them and perhaps should consider the results presented here."
   subtype: presentation
   speakers: [9]
+  video: "//www.youtube.com/embed/6GPIOXPWa68"
 -
   id: 2041
   title: "Discussion Panel"
